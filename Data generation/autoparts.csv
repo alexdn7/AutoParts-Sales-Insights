@@ -1,101 +1,1001 @@
 id,name,category,price,stock,brand,weight
-182a66a5-9726-4163-a6ae-2c58b640cb22,Audio wiring,interior,108.97,98,MANN-FILTER,11.97
-3a73bec5-36ac-401f-852d-4a3dbf7a32d9,High pressure washer,Equipment and tools,124.03,69,Denso,11.11
-3cdacf60-96f1-4087-ac97-dbe7f3fdc01d,oil temperature index,"Accessories, auto chemistry",266.89,77,Bosch,0.9
-9e72b605-e7d6-4abe-8f11-dddcbb15b600,Control Arm,Suspension & Steering,196.74,7,Continental,14.22
-e50e3e7a-abf6-4964-a1a8-1e2aba61827f,Front dash board cover,interior,346.33,19,Valeo,12.07
-08304d00-18bb-448a-8fd5-8b6c37a25cd8,Trunk Spoiler,Auto Body Parts,483.11,47,Autoliv,5.47
-3f590640-510e-4f03-b8ce-ada3d9621f51,Gas Equipment,Engine and components,114.86,38,ZF,6.83
-4799a722-6a1d-44ab-927a-705b8136df84,Manifold gasket,Engine and components,243.18,1,Valeo,11.1
-7e240cd2-e262-4047-a5c1-5df51cbd9658,Reinforcing pole (balka),Auto Body Parts,301.93,94,MANN-FILTER,1.9
-af251e83-024f-45a0-b45c-5422dec40fd9,Flywheel,"Gear box, bridge, cardan",232.66,36,Magna,7.85
-1db50e34-f358-4034-9d84-9a669b62ead9,Cigarette Lighter,interior,146.73,64,Magna,9.56
-38124ac4-14d6-4723-aabc-a22da6fcfa5c,Hydraulic coupling,"Gear box, bridge, cardan",176.45,51,Denso,12.22
-40317d0b-81e9-4ed1-88cb-31a0bd4a9059,Fan motor,Engine and components,343.94,96,Bosch,14.78
-6e5072d1-181e-4d80-8f1f-47f4e29eff9c,Cabin wiring,interior,50.05,8,ZF,4.76
-c4e1368d-843d-49f5-bbf3-aa8c32af6595,Boost index,"Accessories, auto chemistry",179.03,82,Denso,10.53
-9af62dfe-60ed-40e4-b1af-932fb19940fb,Gearbox gasket,"Gear box, bridge, cardan",204.55,82,MANN-FILTER,8.02
-c409c138-6238-4cd0-abcb-fddae121ebee,Vulcanization installations,Equipment and tools,340.77,5,Autoliv,9.16
-2985da43-a9f9-426d-8133-0fca3d797323,Gearbox computer,"Gear box, bridge, cardan",266.83,3,MANN-FILTER,7.59
-982df313-5b41-49d0-90aa-aa2448a82683,Water radiator bracket,Engine and components,209.51,50,MANN-FILTER,11.0
-9bf6a4f4-9121-4159-a07b-b422692c7cfa,Radiator Supports,Auto Body Parts,251.6,56,Autoliv,7.55
-f591cb8a-1842-4218-bf43-28a037e322fb,Tire pressure gauge,"Accessories, auto chemistry",459.03,83,Valeo,12.7
-ba178d5a-1ccd-490d-8834-9de5551f98e6,Vanos,Engine and components,131.68,71,Autoliv,14.32
-13e42163-974c-46ba-b843-f68c69ecb497,Trunk liner foam,Auto Body Parts,47.66,45,Autoliv,8.88
-1f9cf4d7-1d1e-419b-afbe-5c966de58b76,Oil cooler seal,Engine and components,303.83,81,Denso,4.32
-6f459443-7a12-416f-86d9-009263c342de,License plate frame,"Accessories, auto chemistry",478.95,1,Autoliv,9.24
-08e1affc-a841-4a97-94ad-f3f4403ad0b5,blow off,Engine and components,137.2,77,Denso,10.57
-9444ee42-2f8d-4141-9e1e-0f6209aa95a3,Springs,Suspension & Steering,30.57,36,Magna,8.44
-e654c455-a9bf-4e1c-8aef-85890a08a308,shock absorber cup,Suspension & Steering,382.53,1,MANN-FILTER,2.49
-bf208b75-7891-47dd-8aad-84299a12e5fd,Brake fluid tank,Suspension & Steering,176.69,77,Continental,14.65
-3d0191ff-3c44-4223-a16b-be183dbc87c3,Reinforcing pole (balka),Auto Body Parts,120.32,12,Autoliv,6.75
-92b8106f-0db8-47ad-b126-e880212ff8b3,Handbrake,Suspension & Steering,480.59,6,Magna,1.51
-f050f01f-c9fd-4e36-be9d-02bfa92785cb,Air conditioner radiator pipes,Engine and components,61.22,4,Magna,4.63
-1c551eaa-a6df-4ec8-b6ec-4d3543263e16,Oil dipstick,Engine and components,152.42,9,Continental,14.57
-ffa48190-580f-46cb-8ed7-c507bc568f59,Mirror cover,Auto Body Parts,426.27,60,Magna,8.82
-5757402d-af77-4c89-8f49-a51b50449585,Shaft,Engine and components,143.21,87,Magna,0.57
-e974d6a0-effc-4ffc-9247-75641b26ebb0,Crankshaft,Engine and components,358.8,91,Magna,5.22
-e1c67110-cc6e-4d7e-8981-8e29c2a8c879,headlamp glass,Headlights and lamps,447.44,5,Continental,9.68
-60434911-59dd-41f3-980c-ebab94afaebe,Air Filter,Filters,399.15,87,ZF,14.22
-2d37421f-c997-4a9c-819e-c1ffb8d2ecf5,Repair kit,Engine and components,313.6,94,Valeo,5.82
-38c57ef2-539a-4c30-81a6-491b2a6c6eab,Tire Care,"Accessories, auto chemistry",320.73,51,Denso,9.07
-31410230-e3de-45d9-9a57-00c5394e0df4,Seat handle,interior,284.24,20,Magna,2.24
-06950245-5685-47a7-90c0-aa48081a8202,Relay,Electricity,168.03,39,Continental,4.09
-b097ebbb-ff4b-4eba-828a-88e28867292e,Air filter box,Engine and components,42.31,30,Autoliv,11.43
-77dadf3b-b3d6-41d1-b916-5c683db7fb82,Oil cooler seal,Engine and components,129.11,77,Continental,14.95
-58ee5af1-3ff8-4b55-a9ee-3d4faef7fc19,Valve spring,Engine and components,57.47,62,Denso,3.66
-f9085fc8-5061-43b6-8f94-c2a81b08f10b,Detonation sensor,Engine and components,477.02,5,Continental,14.89
-35a74033-8215-477b-a824-3f83f02b3da9,Bumper protectors,Auto Body Parts,473.62,27,Autoliv,12.86
-99c191e6-8fba-47c0-ac74-f2de6f156060,Connecting Rod Bearing Set,Engine and components,252.67,55,Magna,10.53
-49f48808-0ccf-45ee-a802-eb8c7bb45df5,Fuse box,Engine and components,235.18,83,Denso,10.35
-9d393d8a-b959-41a1-a015-3ce662efab2a,"Deflection/Guide Pulley, V-ribbed belt",Engine and components,336.14,22,Denso,2.09
-d6040f97-beac-4a34-90a5-58019a0ef2f2,"Filter, crankcase ventilation",Engine and components,206.42,79,Bosch,13.6
-ebf315a1-9a2d-460d-9ed3-cb530f190f42,Front Seat,interior,93.44,20,Valeo,5.93
-ab14da42-e0d9-4d23-8adb-b7dbcc88c25d,Turbo sensor,Engine and components,402.17,48,Continental,13.2
-b1e42694-0169-4160-b1e9-bcd652ad6c24,Door Glass,Auto Body Parts,36.34,30,Bosch,10.98
-8b09bda4-ebc8-4732-a377-547e9f83ae29,Fuse box lid,Engine and components,221.2,1,MANN-FILTER,5.15
-128fa1b7-796f-4739-bfea-3061c5685400,Windshield fluid,Oils and fluids,146.76,41,Bosch,13.59
-efe8c68e-bfe8-4b19-9235-099c645c353a,"Fastening Set, leaf spring",Suspension & Steering,51.37,69,Valeo,1.22
-4e7ec21e-26a2-45bd-a01c-ca34a48abcb6,"Sensor, wheel speed",Suspension & Steering,161.25,36,Autoliv,6.56
-e507f48d-d2ac-4837-9b7f-6b234c9bf38e,Relay and cabin unit,interior,340.41,31,Valeo,6.13
-d4ea858c-9c70-4ae3-9809-93002bd7cbc1,Heater valve,Engine and components,409.32,53,Autoliv,3.5
-bfe2d2eb-9fa2-4449-bf48-3ea65cb1f308,Charge Air Cooler,Engine and components,294.93,50,MANN-FILTER,9.44
-1b78ff13-27db-4e0e-a5ec-94d4806e3ae2,Front view camera,Auto Body Parts,181.28,70,Valeo,8.39
-d6d1cd9e-eef0-4eb6-9824-88d748298577,Fuel filter,Filters,485.16,5,Magna,9.93
-84862346-e7bd-4f6c-9332-a3a902885713,trunk rubber,Auto Body Parts,152.72,57,Valeo,6.55
-b7823556-b76b-4bb5-8f87-9f74db613579,Headlight switch,interior,187.5,47,Autoliv,11.11
-d44e0e1e-681c-41e8-999d-19e0618b635b,Vacuum pump,Engine and components,400.03,16,Valeo,12.98
-f833fd20-e420-4cc7-b274-8845352927e5,Front windshield,Auto Body Parts,146.51,84,Continental,3.96
-c3fd27db-f4fc-4f83-b904-d74e4cecd4d4,Rim and tyre packages,,420.95,78,Continental,6.61
-cd5dad97-c4b7-4271-9c04-4c1bc90b2477,Engine chain tensioner,Engine and components,134.69,51,ZF,9.89
-bff7ef71-c095-4f56-9704-cda9cefc5f70,Trunk glass motor,Auto Body Parts,20.75,98,Autoliv,14.44
-9c4a4292-b9f7-4301-8f70-af6037383e19,Inner Tie Rod,Suspension & Steering,224.45,13,Continental,10.55
-f161ec7d-fb42-408e-b407-7e6bb0ab4c7a,Turbo wing,Engine and components,485.18,51,Valeo,3.4
-6e6f44b1-f377-4f77-a5dc-34be43570bb8,Charger,Electricity,107.28,94,Autoliv,3.9
-75418df8-35db-4d82-8fe7-9c6e22020665,Sensor,Electricity,132.15,12,Valeo,8.37
-fd348a45-5e23-4359-8d87-7cdd18e31fb5,Antenna,interior,276.99,76,ZF,9.27
-db49e475-a8e9-42fd-bd96-fb2a588a1ab4,Rear view mirror,interior,268.29,78,Bosch,12.23
-45efb5ab-38ee-41d2-9463-7a27f0906fee,Control Arm,Suspension & Steering,164.02,19,Continental,14.34
-9e17bbac-0ae2-4ad5-b8c4-5e58f5339243,Door moldings,Auto Body Parts,136.96,77,Continental,6.83
-c86a1c75-45f0-4a4f-aa60-c92eb5626745,Towing rope/belt,"Accessories, auto chemistry",389.89,51,ZF,12.83
-938307af-5a4f-4b50-b108-1918b688259c,Door lock,Auto Body Parts,83.32,37,Magna,10.3
-4c304690-8ac6-48dc-a336-7d81492efa23,Bumper foam,Auto Body Parts,19.52,37,ZF,11.92
-eba13515-ba5c-4caa-a6a1-8940177c6f72,Wind Defender,"Accessories, auto chemistry",43.03,73,Valeo,8.21
-12bf458b-3590-4c1a-8e94-ea9a113144ab,"Bushing, axle beam",Suspension & Steering,141.27,51,Autoliv,1.78
-4654602f-a74f-4ad5-a0b4-91f8cbacdc27,Fuel system care,"Accessories, auto chemistry",177.78,70,MANN-FILTER,8.7
-3ec270a8-c332-4bf1-8027-c45e43d44ec5,Bridge and transmission,,129.22,23,Autoliv,6.69
-b09015e6-9b4c-4112-8d6a-c0abed604f2d,Car visor,interior,115.28,17,MANN-FILTER,8.94
-672d230c-fb5a-445c-a96c-2df1509c82ec,Repair kit,Engine and components,286.69,64,MANN-FILTER,11.94
-c2aef9d3-69b7-4bcc-ba61-49a143ed7f9e,Hydraulic radiator,Suspension & Steering,479.77,25,MANN-FILTER,13.98
-db036567-5890-438a-8780-14af94c79f48,Radiator Support Brackets,Auto Body Parts,193.7,37,ZF,2.53
-5cb8ff65-bb2a-4555-b6fa-010e0fc91cf4,Imobiliser,Electricity,257.98,26,MANN-FILTER,9.54
-a94adc1e-db34-455f-9fbe-feb76ef0cb3e,Engine pad,Engine and components,344.04,69,Valeo,0.95
-f905d948-c38e-4df0-9eb2-b4409c4e10bf,Oil dipstick,Engine and components,129.07,45,Continental,3.46
-fcddcc99-f605-4a1e-aa1f-8cf473cb69a5,Expansion tank cap,Engine and components,389.0,53,MANN-FILTER,12.96
-55d5a615-8ca1-4d99-9c3b-8ab7d8ef5c8a,"Bearing, drive shaft",Suspension & Steering,126.03,88,Denso,7.94
-de6b6aa2-ad38-4168-a081-4743fc14cf24,Valve spring,Engine and components,80.17,54,Bosch,11.44
-813eed18-9fe9-4aa0-8db5-6c6d102c1b30,Trunk Hinges,Auto Body Parts,435.35,16,Bosch,8.27
-718f01f6-5acb-4634-b02f-8aa6f6e4fe0e,Vanos,Engine and components,475.63,75,ZF,4.82
-2808b3ff-5aca-4335-a087-5b1571bb5d0a,headlamp glass,Headlights and lamps,472.6,96,Denso,6.84
-e1f9c3a2-5382-4cff-9b6e-32952343e49d,Coolant level sensor,Engine and components,127.89,40,Bosch,8.44
-71d0e894-ed7b-4280-a24c-34e5f3459c27,Disk hub,,205.44,31,Continental,10.12
+4c2def13-c181-42af-a54c-54a28b59c722,Sunroof,Auto Body Parts,301.61,5,Valeo,11.3
+604dcaac-c7ba-4f56-bffa-d2b8f1a83ad8,"Pillar, Front body",Auto Body Parts,264.01,77,Autoliv,10.06
+c0a5e3a7-650d-47e5-a462-19a168fd9757,Other,"Accessories, auto chemistry",311.9,73,Autoliv,11.89
+e2aaa5e4-b88c-469b-9cab-46a7ab83a948,Steering wheel airbag,interior,383.35,70,ZF,13.17
+9486f0c6-7b32-425b-92d4-e8b0e64ebbf4,Fuel tank throat,Engine and components,414.76,40,Denso,12.99
+924c6260-9cf9-43ae-bff6-44abe1eb2579,Axle,Suspension & Steering,35.72,99,Denso,4.37
+38dd7565-4ac9-4020-bba8-112e3b88dda0,Alternator Freewheel Clutch,"Gear box, bridge, cardan",478.38,26,Bosch,1.41
+dbe8794b-c2e5-46ed-84da-92f311446cd0,Water temperature indicator,"Accessories, auto chemistry",254.06,27,Autoliv,10.41
+d3a082f3-1a87-4950-b090-84a6d1d374e6,jump starter,"Accessories, auto chemistry",300.84,60,Bosch,6.98
+f50c17e0-1a0b-4c46-888f-2e6f7bbdda00,sunroof curtain,Auto Body Parts,161.57,16,Magna,7.32
+a5736f07-7e62-4f58-8521-f7deeb10cab5,Gas Injection,Engine and components,305.99,35,MANN-FILTER,11.62
+9e31477f-2a6d-481a-ab0c-91124bbec02e,Gearbox traverse,interior,49.57,65,Bosch,0.79
+b09a7470-5ee6-4a56-986a-37ab2bf6f2b0,Towing rope/belt,"Accessories, auto chemistry",357.9,72,Autoliv,8.05
+4e96ff0a-3df0-40cb-bea5-65504de73bbd,Changer,interior,231.58,59,Bosch,1.34
+e8b2394b-3d88-4708-bcf6-bef4e9e80871,Hybrid elements,Engine and components,484.45,95,Magna,4.99
+a2bf6624-ba98-4250-b52f-450e9be23ae7,Sunroof Bracket,Auto Body Parts,283.81,99,Denso,13.29
+5d464151-060c-4c07-8b48-2dcca7d3fe01,"Chain Set, oil pump drive",Engine and components,289.11,63,Denso,1.16
+52c4df9c-73ad-42bc-b7c7-ca446112c585,Safety belts,interior,35.19,84,Magna,5.1
+3827281e-b1bd-487c-82cc-dba2ee24a401,Signal,interior,182.43,74,Denso,8.49
+e4be2199-51c3-4a4b-ad9f-2041b4669a92,headlamp glass,Headlights and lamps,75.11,92,ZF,14.73
+73215a22-831c-4739-bfa9-86244b0e44b6,exterior care,"Accessories, auto chemistry",420.93,83,Continental,13.07
+3c08c92f-0a1c-4554-80c6-4965a98f65ca,Subwoofer,interior,43.29,59,Denso,4.86
+ff9e60f6-21a7-4c4c-ba6f-c8ae2e137593,Inlet manifold gasket,Engine and components,287.79,52,Magna,6.73
+56a099c8-6c5e-4bbc-b15f-df6c8851a11f,Windshield wiper switch,interior,341.82,4,MANN-FILTER,1.86
+0aecd49a-396a-4ef1-8a59-979c69e52123,Car headphone,interior,480.61,45,Valeo,14.16
+4b83ccb3-41ca-4acb-bca8-9c7d6f1d6b1f,Steering wheel Angle Sensor,interior,417.17,10,Denso,5.5
+c5fb054c-2ab1-4cbc-a42a-f623571fa488,Vacuum cleaner,Equipment and tools,39.25,71,Continental,13.12
+5b4ac8d6-f4cd-4718-907e-d9291046c0e4,Car floor mats,interior,45.46,78,MANN-FILTER,8.02
+fea6e487-7012-4c99-88b7-47f256839c16,Fuel evaporation pump,Engine and components,169.17,92,Magna,12.89
+7691b5e7-0f3d-4c60-943e-83208cc41b87,Engine crankcase gasket,Engine and components,207.79,29,Continental,12.6
+360a1db8-1f2f-48ff-961b-c309dc4f34ca,Hood air intake,Auto Body Parts,42.94,21,Denso,4.49
+0611f2b0-8ec3-4f6b-a4d9-5392246fa23c,Engine Splash Shields,Auto Body Parts,367.7,18,MANN-FILTER,9.0
+ef2cb82e-8147-4571-bc20-54eb4194cc69,shock absorber cup,Suspension & Steering,489.66,0,Bosch,2.46
+16b3297d-4f7c-4fb1-94ee-cd6115760731,Brake fluid tank,Suspension & Steering,261.62,88,ZF,7.26
+8949ac61-97c4-4daa-8e64-5567363dbf35,"Spring, cab suspension",Suspension & Steering,226.59,97,MANN-FILTER,14.46
+98a27a27-27e3-4783-ba02-d7b87ecb3824,Door lock,Auto Body Parts,432.18,21,Continental,10.89
+39eb7c45-8864-47e8-9b75-1f12755ff922,Engine chain,Engine and components,246.87,67,MANN-FILTER,6.5
+ed599de5-0580-4865-83fa-e69d4a8d35e0,mudguards,Auto Body Parts,175.79,29,Continental,2.77
+f6763026-8192-4fae-9495-0b4060d3420c,Valve spring,Engine and components,469.47,6,Valeo,6.31
+2556ca00-0260-4780-838b-493647dfb47e,Grille brackets,Auto Body Parts,238.81,3,Denso,5.22
+7d498fea-d8f5-469e-8697-25c49591dde1,Fan motor,Engine and components,45.46,97,MANN-FILTER,14.04
+80842de3-d460-4f5e-a845-da02b234ea8d,Front windshield,Auto Body Parts,458.65,44,Magna,2.51
+bfd1899a-5d63-482d-8d86-4bc8c404ae4e,Video Registrator,interior,466.64,53,Denso,2.31
+ccd1bba0-b9d3-4c46-830e-42c726924b9c,"Tensioner Pulley, timing belt",Engine and components,141.94,21,MANN-FILTER,8.5
+164d19df-d04f-4fdb-bf7c-7eb6fa9029a6,Brake vacuum tank,Suspension & Steering,281.46,76,Autoliv,5.03
+0578f815-4fec-43fd-98d7-c471a3faaa5e,"Other (Seal, gasket)",Engine and components,371.02,30,Denso,8.45
+73c53238-5e6e-439d-a1a4-8e4053bbdd92,Glow plug,Engine and components,303.05,78,Valeo,2.07
+13666690-b6bc-4741-98d9-6c8eb8f7c292,Fog Light Covers,Auto Body Parts,86.8,40,Valeo,2.47
+a9ef4e94-58aa-4bff-b552-83ed2731f7d5,Selector cable,"Gear box, bridge, cardan",479.58,46,Denso,8.4
+cc123534-3fd3-4c11-8d7e-973d93838b7b,Hood Hinges,Auto Body Parts,160.37,94,Magna,9.33
+eda87c14-e37f-49af-b6e1-0d765deb1bd1,Sensor,Electricity,420.64,68,Bosch,14.35
+b1fc9c8e-1913-4b1e-b36b-41cacc3ff1c6,Ceiling handle,interior,62.21,45,Bosch,4.87
+96b2256b-a27e-48c4-9cfc-1ececb8ac632,Salon carpet,interior,199.75,79,Continental,5.37
+abc5bb5a-1663-40f0-86b6-49960c1fd97e,Connecting Rod Bearing Set,Engine and components,57.01,9,Magna,11.82
+1fd2b2fc-754f-4d94-9641-8d6df373fd8f,Trunk Spoiler,Auto Body Parts,96.01,60,Continental,12.48
+0437f1ed-9bb8-4304-b701-73023f20817d,Engine rear seal,Engine and components,72.99,79,Valeo,7.88
+79b68b51-88c7-4c30-8807-43df93c96643,Cardan,"Gear box, bridge, cardan",490.29,29,ZF,13.2
+afd570b2-366d-4edf-9ab1-6d0439614d72,"Seal Ring, spark plug shaft",Engine and components,479.99,13,Bosch,1.73
+62e208ea-e3dd-4f9f-912f-705eb80d1d63,Headlight bracket,Headlights and lamps,113.77,80,Bosch,1.05
+32c9ee8a-51df-4d2b-ab68-e27490706174,Water pump gasket,Engine and components,133.02,28,Valeo,12.93
+cc9e142f-5dd9-4d8a-8fe5-9dd914253d32,Cabin wiring,interior,121.48,25,Valeo,3.3
+a497b6d1-26cf-491c-b39f-3b524f02c01b,Steering wheel buttons,interior,201.45,99,Magna,1.77
+0ea45613-d824-487f-b2d6-c3a98131473b,Crankshaft,Engine and components,155.5,53,Bosch,6.89
+ca53a0a4-b13e-4560-a842-6f4bb57e98d7,Brake Shoe Sleeve,Suspension & Steering,396.24,29,Denso,14.51
+2a0c6a1e-5439-4d53-8d0b-dd57c18a2c1b,Bicycle rack,"Accessories, auto chemistry",234.75,25,ZF,8.67
+1ac489bc-5d62-4d10-8934-58c1df6ae2e1,Brake Fluid,Oils and fluids,193.62,64,Magna,6.27
+232cce44-3944-4e6b-ba19-23668178c243,"Wheel nuts, secrets","Accessories, auto chemistry",428.4,30,MANN-FILTER,14.06
+e9a3f14e-5827-4847-918e-942925a973f8,Hood air intake,Auto Body Parts,439.59,51,Autoliv,8.7
+4f2c4304-0a40-43a6-9895-51b258e39277,water tank,Engine and components,483.79,24,MANN-FILTER,1.14
+b99f534f-0eae-452f-807e-978a9a3f855a,Sunroof,Auto Body Parts,62.85,61,Continental,10.59
+7dfbea96-0d76-4175-97fd-d136bfd11a8a,Тool kit,Equipment and tools,431.77,60,Continental,9.93
+dc314344-406c-433b-9acf-51f2cc608e6b,Rear windscreen,Auto Body Parts,337.9,71,Bosch,13.22
+631deab3-9302-432a-a26d-22a291b2c78a,"Rolling Bearing, suspension strut support mount",Suspension & Steering,126.71,64,Continental,14.14
+cd51cb78-bdd8-436d-90d5-aac88bcf53d3,Fasteners,Engine and components,332.28,36,ZF,3.29
+727f3ea9-25ce-49b2-90b6-c50d104538d2,Cold air inlet,Engine and components,125.01,21,Denso,3.46
+3a6bd5b5-7550-483b-a323-1af0ed4e9f29,fuel tank,Engine and components,156.38,75,MANN-FILTER,12.93
+e8283242-01b0-4f0b-8752-616cb28fdc9b,Gearbox computer,"Gear box, bridge, cardan",362.78,97,Magna,10.6
+039abc1b-470a-4577-8960-790ee0237a39,Hood damper,Auto Body Parts,372.76,58,Autoliv,4.46
+128477ff-cbeb-433f-88aa-0c85671393e3,Reductor,Engine and components,374.48,49,MANN-FILTER,4.87
+e3225dac-845f-40e1-9569-92140f6f15ca,Fender Liner Seals,Auto Body Parts,271.49,88,Autoliv,4.73
+89eb376a-8ca8-488d-ad09-1663897f9aec,Steering column covers,interior,327.03,22,Autoliv,3.91
+8d112847-d3b9-45a4-83eb-0e08fe97a943,Monitor,interior,21.57,78,Bosch,2.13
+c4532626-56d5-4e29-a996-5084bfaeaf49,Hydraulic coupling,Engine and components,42.41,39,Denso,4.81
+1e2ac930-f911-4cb9-bdca-6714baa68044,Trunk glass motor,Auto Body Parts,107.23,15,Bosch,4.32
+2e1c2243-9a22-408b-915f-cbdf5ce45bab,Door moldings,Auto Body Parts,67.16,4,Magna,8.39
+66feabbc-0d28-497c-b401-0cf26638d7b8,Door rubber,Auto Body Parts,438.73,84,Valeo,2.52
+e3ce4ab1-c220-450a-913d-2552d3b4780a,Additional lighting,Headlights and lamps,484.65,17,Autoliv,1.28
+2fe43d98-751e-49e2-831f-4c63fadc4845,"Control Unit, automatic transmission","Gear box, bridge, cardan",349.45,97,Valeo,6.23
+7095e9a1-2478-4e62-9473-4c6719245dce,Fuse,Engine and components,201.84,22,Autoliv,3.47
+3ca23996-0a4f-42b9-a3dd-64480eab6e98,"Repair Kit, brake caliper",Suspension & Steering,163.14,16,Continental,8.45
+e3356cc7-fa9b-48d1-a95e-84195fa7d2c1,Shock absorber bushing,Suspension & Steering,272.11,32,Valeo,2.0
+379313d4-c112-44b9-bef2-c5ebef838fe8,Climate control panel,interior,294.87,41,Autoliv,1.11
+67886f39-2a43-4b07-9e70-ee5facdad158,Pedal,interior,94.45,8,Magna,7.94
+6febf0ff-4c64-447b-a726-298bd5a343ee,Rear view mirror,interior,264.38,86,Bosch,5.92
+9260c7d1-b301-4af6-ba4f-da3eac964044,"Bulb, spotlight",Headlights and lamps,205.83,6,Bosch,1.39
+cf7ea0d8-cd51-4f8b-b0fb-69f0e0ba5315,clipper,Auto Body Parts,187.18,89,Autoliv,11.29
+1cd3d697-646a-4a2a-96f0-1a0debde676c,Gearbox seal,"Gear box, bridge, cardan",340.41,93,ZF,7.05
+f1f6186f-bbfa-4c61-a017-ac534c9e8eb7,Valve seal,Engine and components,140.58,40,ZF,12.26
+3210219d-bc75-428f-a4d2-b80cb4265e88,Headlight master switch,Headlights and lamps,212.6,28,MANN-FILTER,12.3
+e5096e37-7ab3-44de-8451-5a53c7f35eca,Carter,Engine and components,435.47,25,Valeo,12.6
+a3e341ef-e023-4231-9c62-f9f39f7d721e,Carter,Engine and components,14.46,20,Continental,1.67
+2654b24a-19b3-4fc7-be71-093c5cd0236f,"Bushing, leaf spring",Suspension & Steering,424.58,26,Valeo,3.12
+c8c59b09-fc32-4a16-a161-7fbbb54690b6,Turbo,Engine and components,131.1,48,Valeo,5.17
+590a3346-9216-4132-925e-e570b917105b,Engine chain,Engine and components,300.0,82,Continental,10.76
+d2121185-4056-433a-914f-e4445257bf89,Electric generator pulley,Engine and components,227.83,44,Valeo,10.31
+77a39127-fe00-4a53-8102-9035149bd58d,Body reinforce,Auto Body Parts,308.35,4,Denso,9.46
+3544ce12-fa84-4006-893b-38c110b79ff6,Trunk Lid Moldings,Auto Body Parts,122.54,99,Autoliv,10.07
+536e0c6f-dae3-44de-9229-a0134bf45df4,Exhaust manifold,Engine and components,478.96,37,ZF,10.34
+1f8856df-f6b8-46f6-bc17-07564b105d82,Engine crankcase gasket,Engine and components,14.27,52,Autoliv,7.33
+d9aedff2-1a79-4e46-a710-7771db8f93fb,Oil cooling pipes,Engine and components,101.4,37,Denso,2.86
+1d6cdcfb-6265-4da5-b5c2-172bad974653,Headlight control module,Headlights and lamps,333.1,28,Autoliv,11.41
+86bf900f-a5ca-4b84-a53b-21a30142f4be,Resonator,Engine and components,224.42,37,Denso,0.78
+2b5ec376-88a9-4f28-9bf3-f0877b7b917b,Battery holder,Engine and components,151.36,68,MANN-FILTER,2.05
+7060dec2-67b7-448a-8eda-4d2734ea9a20,Camshaft,,25.55,28,Magna,2.97
+9147f49d-158e-4405-9313-e8b9d84e0c37,Gearbox gear,"Gear box, bridge, cardan",472.69,99,MANN-FILTER,6.14
+5150e1a4-6507-4476-a8f9-2642d95b6ae9,Hood Hinges,Auto Body Parts,226.15,55,Denso,5.3
+ac45cf56-5e69-4871-9483-af9ed1600141,Shock Absorber,Suspension & Steering,229.49,38,Denso,10.45
+11b80be2-308a-4514-bb6a-8cc4a0ecd20b,Cup,interior,103.38,67,ZF,1.65
+8dbcd1a5-6fe8-4a74-aa4c-30678a6abe75,Hood Locks,Auto Body Parts,240.7,37,Magna,11.82
+6636c62c-7bb6-454e-aecc-2c50ce7fadab,crankcase ventilation valve,Engine and components,251.53,43,Continental,1.66
+7e391eae-ce57-44e9-8dba-c036d7770ff6,mudguards,Auto Body Parts,346.69,15,Denso,7.75
+e803b5c1-2b24-4f8c-93a3-ee193ee8c084,Fenders,Auto Body Parts,40.4,16,Magna,12.1
+52ae7948-a4ff-4025-b07f-25b0532642b3,Speedometer,interior,470.5,44,Denso,2.01
+e1f5422e-a47a-4f3b-b28b-34d316f0d499,Headlight washer,Headlights and lamps,436.41,12,Bosch,5.45
+cd5ce589-c938-42a9-98a8-c1b08e285eff,Panel decoration,interior,96.45,32,Bosch,13.91
+75c6223e-b9c9-4a71-86e3-fc942cd42d2f,Engine block,Engine and components,177.01,91,Magna,7.83
+2bfc01b8-ae71-44e2-ae94-9ae5d2a75f85,Fuel high pressure sensor,Engine and components,380.05,6,ZF,0.97
+24c56653-0da3-4597-b41d-1b869b8c17ac,"Seal Ring, spark plug shaft",Engine and components,164.31,79,MANN-FILTER,10.8
+82020893-4003-4d7d-9a36-f5e9ae11e578,"Joint, drive shaft",Suspension & Steering,208.01,41,Autoliv,14.31
+334256ee-04a2-4188-86f8-62ca04035f83,Rocker panel,Auto Body Parts,226.64,13,ZF,5.74
+df78abb0-2d95-4238-be57-0d5bb7ee0903,Gearbox filter,Filters,256.9,39,MANN-FILTER,10.48
+e8a84a8f-98ff-4e38-89f7-a54a8b82103d,Vacuum pump,Engine and components,365.93,68,ZF,7.83
+3c4cca10-6eef-47ba-9921-0c482ea29388,Fuel Feed Unit,Engine and components,434.48,66,Continental,5.04
+5433aabf-c3aa-468a-9628-32b766df246a,Ignition lock,interior,89.11,88,MANN-FILTER,14.62
+7b3c5dc1-d559-4432-8761-3662481d5381,Cup,interior,267.14,65,Magna,3.86
+9f864ed6-3686-43bc-99a0-94408b7f60b4,Sensor,Electricity,117.72,55,Denso,11.58
+84f2db46-8587-475a-aae3-9f38c305c167,Mirror control button,interior,433.59,3,MANN-FILTER,7.27
+d488b5a0-4009-4752-91c5-99779cfb5917,Spacer (flange),Suspension & Steering,14.08,47,Magna,8.91
+6d82b854-4fcf-4b4a-ac84-61c06e4ab132,Headlight switch,interior,316.16,2,ZF,12.37
+e2735de4-6fbe-46b3-84d3-9faec052e495,Connecting Rod Bearing Set,Engine and components,329.36,50,ZF,14.13
+d90e793d-63f1-43f7-8fa0-72ec040099d4,Maintenance of glasses and headlights,"Accessories, auto chemistry",133.27,85,Continental,12.52
+81b6bb74-54d3-4f6e-bca6-896d1af4b0ca,Trunk,"Accessories, auto chemistry",380.07,67,MANN-FILTER,12.32
+ed9a1184-0b88-4c86-80c9-05c991f0eeca,Clutch bearing,"Gear box, bridge, cardan",8.17,24,ZF,0.9
+28d483bb-4daf-4389-b3b1-5f3cc0ee0464,Gearbox,"Gear box, bridge, cardan",177.48,55,MANN-FILTER,10.08
+eb5bbf80-5071-4c1b-91cc-28de06b06ce2,Fuel level indicator,Engine and components,378.2,71,Bosch,4.13
+5a76e2a3-b580-4a17-857f-b2b3682fe494,Safety belts,interior,417.57,77,Autoliv,10.25
+04ee1716-1e43-4c8d-babe-ac6364365778,Mirror Motors,Auto Body Parts,353.56,35,Continental,2.85
+f30c4bb2-2f3f-42aa-aff3-e95873a4b5a1,Phone holder,"Accessories, auto chemistry",190.05,99,Autoliv,10.56
+89a66e27-a886-4e5c-9e89-7becc7691642,"Cable Pull, parking brake",Suspension & Steering,436.56,56,Denso,10.31
+6b12eb6c-f8c0-477c-90f3-376282bb72ec,Headlight master switch,Headlights and lamps,159.12,15,ZF,5.83
+625c4643-5b3a-4bca-827d-e4618982e885,Carter,Engine and components,473.09,15,Autoliv,13.29
+6ecb5a7d-9e35-4241-9a5a-ee3390295df5,MAP sensor,Engine and components,126.01,85,Magna,13.84
+ec887fd9-2442-41a2-8894-226ed07f287b,Seat handle,interior,452.13,79,MANN-FILTER,10.5
+867ab9ea-dc7b-4a68-a438-92853a50c4b1,Gasoline pump,Engine and components,39.32,37,Bosch,6.93
+4d097b5e-8c56-4140-8486-80e5bd548f83,Water cooler bushing,Engine and components,155.44,48,Magna,0.41
+e253fcb3-220c-4f7a-b50c-9f963302b0fa,Loudspeakers,interior,222.91,96,ZF,6.49
+59bd9727-894c-435f-9729-95459395b16d,Pins (spill / hampt),"Accessories, auto chemistry",343.18,7,Magna,10.5
+d96e8676-cab5-4cce-be91-5a397a0e9c48,Trunk Lid Moldings,Auto Body Parts,87.05,27,Autoliv,13.44
+2cdae563-1f52-4180-9ac3-f3e6627762d2,Air Mass Sensor,Engine and components,482.69,100,Denso,8.68
+833cdf90-ff3b-4c04-a2e4-33f754cfbbf9,Dashboard Storage Box,interior,351.06,94,Magna,11.67
+4ec3af0d-3b26-40cd-8f6b-ec9ad37bd04f,Cylinder,Engine and components,449.29,62,Bosch,14.54
+7c71a577-62db-434a-bd4e-bc636a51c208,Door Glass,Auto Body Parts,179.25,43,Valeo,0.74
+252e137b-2b9d-456b-9993-ba6503884988,Mirror control button,interior,215.44,64,MANN-FILTER,12.16
+6470d02a-e0c5-496e-b7fa-5ba1fa0ef05c,Washer Reservoir Level Sensors,Auto Body Parts,263.42,52,MANN-FILTER,14.13
+2a3248e6-237f-4e30-b9af-f1f8eba853a1,Logo,Auto Body Parts,119.85,53,Valeo,6.41
+d0455076-5607-4e96-9d9d-58f5d1abafc7,Jumper/Battery charger,"Accessories, auto chemistry",157.48,96,Continental,12.25
+f962b5cc-adf1-483c-af2f-ef25f6137ad5,Oil cooler seal,Engine and components,253.66,81,Magna,12.43
+8e893572-05a2-4bb0-9b98-e94b7c8e43f3,Gearbox sensor,"Gear box, bridge, cardan",488.22,29,Bosch,0.53
+9a933613-c5c8-43c0-a265-11cdbdfb9dc6,"Other (Seal, gasket)",Engine and components,340.42,94,Denso,6.5
+eee39826-66b4-4c02-b077-9e7ff46a0e5f,Towing rope/belt,"Accessories, auto chemistry",379.39,74,Continental,2.64
+a84c5a60-5221-41b2-b167-6ad57ee9fb20,Front bumper guard,"Accessories, auto chemistry",487.22,81,Continental,6.67
+3ae5a85c-2257-478c-ac0e-87259f2b16eb,Rear windscreen,Auto Body Parts,275.83,54,Denso,4.58
+48dcc47b-066a-4cf3-891e-d2ccf0df8ae0,Shock absorber bushing,Suspension & Steering,233.64,25,ZF,8.94
+74fed4cc-ff81-4161-a527-7eb183eabd15,"Bellow, driver cab suspension",Suspension & Steering,471.59,72,ZF,11.45
+68be46b8-62a1-47ec-a4cb-c868b7940835,Indicator panel,interior,155.96,50,Valeo,10.65
+4171e270-b1a3-41f3-88ce-29b29b0c145f,Imobiliser,Electricity,51.54,31,ZF,8.6
+c08a6663-d55e-4fc5-88c4-ba77f5b9907f,Pedal,interior,8.24,57,ZF,4.67
+49e501ec-8a0a-4e3d-8c0d-c161670f6101,Engine rear seal,Engine and components,133.88,86,Denso,3.78
+402df167-5532-4eb2-8727-dc71be7336d4,TAOT,Oils and fluids,88.49,5,Valeo,1.52
+bf435d63-c29c-4496-98c5-19dbcfa9e569,Valve seal,Engine and components,76.65,2,Bosch,11.46
+5a0bc95a-baa7-4bff-9f6d-f3353459c3fc,Cup,interior,396.73,15,Autoliv,13.31
+d704a0b2-aa9d-448a-8f79-d86902132369,The body,Auto Body Parts,335.28,10,MANN-FILTER,14.24
+e8a30f10-acae-4bb0-8dda-153953ce221b,Disk hub,,329.49,55,Autoliv,14.71
+8e5f2570-c23e-40b6-aa04-8bf5e9669cde,Door Glass,Auto Body Parts,377.65,66,Continental,10.72
+9e0ede9f-0217-42ee-a96c-92d4ef7b733f,deshboard Ventilation grilles,interior,350.94,29,MANN-FILTER,6.7
+c54942c0-4a0e-4ed6-a2ab-312f72f9a5b6,Boost index,"Accessories, auto chemistry",124.27,2,MANN-FILTER,8.09
+305fa6b8-2728-4115-ae63-e8f65aca0938,Heaters Engine,Engine and components,387.94,98,ZF,6.28
+a2909646-9b06-478d-99d7-47344e7583fc,Adhesives and sealants,Oils and fluids,58.38,60,Magna,4.4
+c6adb900-583b-40d8-8f8f-73ba841fd898,Fog Light wiring,Headlights and lamps,457.12,47,Bosch,11.35
+098e9584-3802-4652-8a22-c32231154ffd,Mirror control button,interior,181.74,50,Denso,11.09
+17626493-b775-48bb-8377-b7387fc92655,Reductor,Engine and components,388.92,54,Denso,11.31
+c1aef769-9451-44d3-a3ab-8564789cc210,Tie Rod End,Suspension & Steering,111.69,53,Valeo,2.94
+ed9474a0-599e-44f1-81ec-ba73fb1666ec,MIrrors,Auto Body Parts,23.85,98,Bosch,7.35
+5cc9c0aa-784b-4c40-99ff-e55380cde32f,Trunk inscriptions,Auto Body Parts,18.76,99,Autoliv,11.78
+e6d69960-fcd4-47a9-acbb-049b15af3503,Starter,Engine and components,191.88,5,Valeo,8.39
+82467c6a-adf8-4d8b-a9fe-db52e2633d43,Manifold gasket,Engine and components,338.98,55,Autoliv,4.72
+fa8a647c-2489-469a-b145-df8a871b7760,Gas Equipment,Engine and components,17.69,31,Magna,14.24
+afb6d5d8-59c3-45c6-b7e4-82bb39223ead,Inside door handle,Auto Body Parts,383.9,63,Continental,6.89
+8d90d1b3-fb2a-4dc2-ad57-f437e6673e78,"Bushing, leaf spring",Suspension & Steering,267.12,59,Valeo,12.46
+c45ba5ec-7272-4bbe-bb75-234567566892,Suspension beam,Suspension & Steering,367.42,67,Autoliv,7.92
+88767b71-69c5-4825-8e12-17176ca52b45,Water cooler bushing,Engine and components,333.49,47,Magna,9.68
+f0dc5e17-57f8-407c-86b1-08e9ac4c8ff1,Trunk liner foam,Auto Body Parts,75.51,70,Valeo,11.42
+e0969a7e-d231-45a2-81d0-b31602913d5d,Gearbox oil cooling pipe,"Gear box, bridge, cardan",201.77,60,Continental,14.07
+43fe323a-6d74-44e9-b055-84e4813a0dc1,Trunk inscriptions,Auto Body Parts,488.41,31,Bosch,14.64
+f0df9362-49a0-44bb-b47a-b8a25825c52f,Sound amplifier,interior,197.15,78,Bosch,12.15
+f2010844-7c0d-4207-9d2b-b06ecb4cf782,"Chain Set, oil pump drive",Engine and components,378.45,66,Denso,6.56
+b49c4d1b-4095-4cae-a5a4-c24a16659c0c,lock Cable,Auto Body Parts,147.76,7,Magna,13.13
+a45a3615-f88e-4a4a-83d6-08902915c44c,"Bearing, drive shaft",Suspension & Steering,400.21,86,Denso,14.68
+40147871-cd09-4f5f-9fe5-456237e5e217,Sunshades and curtains,"Accessories, auto chemistry",402.13,8,MANN-FILTER,14.46
+18ad51b9-fe13-4ea9-975e-e0f743e1936d,Crankshaft,Engine and components,415.31,61,Continental,11.76
+137262a6-fec1-44e0-8b29-c46eccdf2f84,"Bushing, leaf spring",Suspension & Steering,248.95,12,MANN-FILTER,9.27
+94ff58a3-2545-4ec4-8025-6d19213a2f8d,Bumper rubber,Auto Body Parts,366.78,59,MANN-FILTER,6.7
+9257e450-688c-4142-a377-a1c64104d295,Transfer box oil seal,"Gear box, bridge, cardan",344.68,9,MANN-FILTER,0.95
+b3c130c1-2276-42d2-9718-36b3fb7f4145,Front view camera,Auto Body Parts,255.14,26,Magna,12.31
+e2ec1b4d-a15e-4661-9d00-50577ae1698f,Control Arm,Suspension & Steering,207.69,93,Denso,3.88
+844886bd-7b3b-4d3f-b9be-223239e13b3b,trunk opener,Auto Body Parts,224.95,73,Continental,3.09
+95a7cd3d-1410-4053-91d3-e8e2ac76e432,Oil Pump,Engine and components,469.85,17,Continental,7.38
+b1aea110-be26-430b-bacb-215b726934bc,Tail light wiring,Headlights and lamps,487.19,69,Autoliv,3.94
+bbca7a4c-58a7-4192-a8ae-4b48a1876f82,Steering wheel buttons,interior,31.12,36,Denso,10.83
+65a9250c-6811-4941-b26a-b636e04590a0,Tyres,,127.47,26,Continental,4.89
+79b678fe-e703-4456-9a20-f9d5ce3b97db,Panoramic roof,Auto Body Parts,439.56,20,Magna,4.65
+58a0eb9e-7e61-473c-918c-b686fd56f278,Electrical wiring of the trunk,Auto Body Parts,92.59,49,Autoliv,9.27
+1c5e9111-f84c-4fe3-9dcc-43dc185d4490,Axle seal,Suspension & Steering,23.5,47,Magna,12.4
+6dd583ee-7139-46ca-9243-281d24d82b8b,Water temperature indicator,"Accessories, auto chemistry",344.37,45,Valeo,10.99
+77e0da42-e78a-44c5-80af-9fba3d1ac714,collar,Suspension & Steering,157.14,26,ZF,2.42
+0ff2cff0-1997-4fff-b15f-0e4203adec77,Water temperature sensor,Engine and components,478.62,81,Continental,5.74
+77ae311c-8488-452c-8f24-23ec1619597c,Vacuum cleaner,Equipment and tools,47.56,89,MANN-FILTER,6.28
+28c60c89-13af-4d92-8cc9-bac9f2e54eb2,Car floor mats,interior,54.21,57,Autoliv,8.92
+90c23c20-860a-48af-85a1-a807934659f1,Ski mount,"Accessories, auto chemistry",243.47,47,Denso,9.27
+e6b89371-1c6f-4dd4-9046-f829737392c2,Microfiber,"Accessories, auto chemistry",120.6,2,MANN-FILTER,12.64
+2c0564f1-320a-43ff-a554-ec832cf5c301,Washer Reservoirs,Auto Body Parts,53.94,95,Magna,5.56
+bd1c5acd-2ed1-4ff6-be45-6b9ec4ef4bc1,Wheel Hub,Suspension & Steering,305.74,38,Magna,10.07
+f0ef6421-a59e-4dca-a802-ca639c495aa8,Battery terminal connector,Engine and components,264.4,88,Bosch,13.08
+802fa42b-d11a-4cb7-96a2-c3a8b7cdd45a,Alternator Freewheel Clutch,"Gear box, bridge, cardan",140.28,10,Autoliv,5.56
+dc04f0de-5344-4a32-8796-050be6110228,Coolant level sensor,Engine and components,190.34,36,Denso,7.33
+0a38bb13-916a-49bc-9ec0-602c4323fcb2,Diaphragm,Engine and components,362.08,43,Valeo,8.05
+afc2e5c8-b259-4d50-b2c6-c22a16e8766b,Hood Latches,Auto Body Parts,453.81,97,Valeo,8.92
+b74c0269-3c9c-4b56-b98b-811777648dc0,Engine Splash Shields,Auto Body Parts,337.03,31,Denso,1.11
+e9355861-f60e-4ec3-ae03-6c80398da66f,Alternator Regulator,Electricity,17.03,71,Autoliv,3.75
+93aabff7-8658-45c7-bdf0-71c0295a2212,"Thermostat, coolant",Engine and components,112.97,26,Denso,9.56
+79211fff-aa2a-4c40-88bc-dd2efcf1a1d6,TAOT,Oils and fluids,391.11,23,MANN-FILTER,3.5
+108be0bb-79e2-48bf-a2f2-6e4acba73184,Headrest,interior,122.04,9,Valeo,14.18
+431e502b-dd0a-4cc8-87ad-3e6e04d97fb3,Center pillar,Auto Body Parts,70.06,61,Magna,9.46
+5652ba91-585b-4374-b0c1-4d7cb7371b34,Roof moldings,Auto Body Parts,57.73,52,Magna,5.18
+3806ed1e-da7f-4825-b124-68239c089b49,Cabin filter,Filters,219.04,89,MANN-FILTER,6.38
+daf0ffc5-8f85-44b2-87f0-32d2d91251fa,Axle seal,"Gear box, bridge, cardan",314.65,42,Autoliv,13.49
+edf33634-9d06-4ddb-a478-3ef21ce3e25a,deshboard Ventilation grilles,interior,411.73,8,ZF,4.59
+55179aff-14a1-448e-9db6-8dc541190afa,Engine Splash Shields,Auto Body Parts,104.9,47,Denso,14.34
+2596748d-c25c-4928-9479-a32273f6fc87,Door glass Lifter,Auto Body Parts,76.15,13,Bosch,7.25
+4644e6cb-afba-464a-a915-fd45427bd241,Windshield wiper switch,interior,456.6,85,Valeo,14.78
+5eafc1ad-e5ad-44dd-a2ab-9f89330e76af,Engine chain damper,Engine and components,367.89,48,ZF,7.3
+d6d20821-9440-49d4-bdcc-b7057e732430,Glove compartment,interior,204.11,25,Denso,6.72
+c822dcdb-00a9-477d-bbec-7b2f0f5fb60b,Hood Locks,Auto Body Parts,214.5,93,MANN-FILTER,14.59
+511b6f34-4675-4049-8f46-83049ca060b3,Rim and tyre packages,,318.17,48,Denso,11.31
+550f078b-15a3-4e11-bd03-4ee91b8bdaf2,Engine gasket,Engine and components,60.63,83,Continental,10.67
+6c1c38da-e7b7-4b4d-8b1c-942447cac421,Clutch bearing,"Gear box, bridge, cardan",401.85,29,Magna,11.53
+0704473f-2344-496e-ab34-e97908abf1d1,Solenoid,Engine and components,332.06,57,Bosch,11.13
+ccf0df0c-8565-4a18-bd5c-3c3c566a0d09,Vulcanization installations,Equipment and tools,395.83,34,MANN-FILTER,5.43
+7e27bc5b-e26f-408d-bfdd-f6be27caf4d6,Central console (bar),interior,99.35,4,Valeo,14.33
+c4ad65fa-6268-4a0c-962b-2b9e16692a63,Gearbox pad,"Gear box, bridge, cardan",296.43,43,Valeo,11.42
+ee590c08-b459-48ab-8192-bb3aa338c771,Tire pressure gauge,"Accessories, auto chemistry",208.58,27,Denso,12.49
+ed967ca9-4e07-479c-aeee-96e7a20370a9,Hydraulic radiator,Suspension & Steering,284.71,78,MANN-FILTER,6.55
+5a71e12c-c67d-4181-bd1b-c20602ba1dd5,Injector,Engine and components,487.47,49,Autoliv,14.1
+bb639ae2-5d95-433a-90d8-931727b31b11,"Control Unit, automatic transmission","Gear box, bridge, cardan",33.26,99,Autoliv,11.04
+05a91190-56bb-4766-9ebc-cf6631707fd7,Switch lever,interior,398.6,77,Denso,11.99
+e0b0f5d4-868c-4b72-9849-1d711ef34443,Gearbox oil cooling pipe,"Gear box, bridge, cardan",152.89,46,Autoliv,7.31
+0c8a8507-1e84-47d5-b80f-91e3dcb86a7c,Center pillar,Auto Body Parts,185.83,93,Continental,4.09
+c27e972b-5f0a-43b3-ac66-06623ad3353b,Battery charger,Equipment and tools,373.95,23,Autoliv,9.62
+587c83a8-66aa-4eb0-b282-e154206a3604,Headlight Molding,Headlights and lamps,93.01,62,Valeo,4.73
+208ef46f-99a1-44a1-a3a2-c4eb810f836e,Intake Manifold Valve,Engine and components,77.31,87,MANN-FILTER,6.38
+59f84a71-5a1c-4ffd-944a-18cb80e1be5a,"Spring, cab suspension",Suspension & Steering,139.17,62,Valeo,13.84
+7f52e7c3-5f5b-4c03-81f6-9ec757ee3f4a,Seat cover,"Accessories, auto chemistry",358.03,22,Bosch,10.34
+8ac20d66-213f-4444-b8eb-499d16c47cab,Air Mass Sensor,Engine and components,187.13,100,Bosch,8.45
+b427c180-02db-4ca0-9c1c-c15bf6528260,Gearbox computer,"Gear box, bridge, cardan",87.97,84,Valeo,2.75
+a3094e7a-22dd-462b-b5f5-5ed62f08aba1,Parking Distance Control,Auto Body Parts,182.9,9,Continental,10.29
+09544a16-d2df-470c-92ef-00953e0559fa,Caliper cover,Suspension & Steering,228.33,33,Valeo,4.64
+8ce6b54c-a9ee-487d-bf72-26bb654820f7,Hydraulic tank,Suspension & Steering,487.83,91,Bosch,8.32
+e6718219-bea1-4a3a-9626-399c26caa1fa,Tow covers,Auto Body Parts,409.68,7,Bosch,14.83
+fcb7eaa8-4c97-4de7-ba98-18daeb28921f,Oil temperature sensor,Engine and components,364.34,79,Valeo,4.32
+478a1f1a-e62c-4e34-8efe-ec8c92cb63ad,headlight wiring,Headlights and lamps,463.98,93,MANN-FILTER,11.96
+2edda4a4-cf00-4b1a-9196-3b74194202b0,"Wheel nuts, secrets","Accessories, auto chemistry",248.6,70,Magna,4.03
+dbaa39aa-73d0-4fb1-ad1e-5e4bc5ea107d,Charger,Electricity,109.05,77,Continental,1.37
+58265435-3794-4613-90b2-7cfa450855e3,Interior accessory,"Accessories, auto chemistry",124.95,13,Valeo,8.18
+e7525d71-2f6f-458e-a219-696823e6bbe0,Solenoid,Engine and components,419.02,75,Magna,1.9
+4717ee6b-73cd-4b3b-b3b3-6b3202962a89,rear-view camera,Auto Body Parts,460.23,91,Valeo,13.58
+1e2f6500-cfd1-4d05-9fa7-9cfdd483e890,Hood Hinges,Auto Body Parts,30.75,28,Magna,11.16
+dc1d6229-f89b-47b6-b6a3-3ebe026bfb72,Gas Equipment,Engine and components,491.26,50,ZF,3.2
+c735460a-b76d-41bb-88cb-6719405e8663,Element cooling engine,Engine and components,94.32,2,Continental,12.21
+c467096b-1e52-4626-b1b0-79e49d61f508,Electric appliances,Equipment and tools,373.52,1,Continental,3.42
+36ba6462-0bfd-4d27-a69d-e3ed57665cbd,Fender brackets,Auto Body Parts,317.42,66,MANN-FILTER,7.89
+952f07b3-2241-45f0-9258-a47e352fde58,Intake Manifold Valve,Engine and components,321.65,82,Valeo,6.3
+32c63919-54ec-4f7e-8c96-29ecb8d9726d,Tyres,,415.19,91,Magna,3.41
+fff361d7-c480-4a06-87fc-7591dbe50d91,Fuse,Engine and components,239.53,25,Valeo,14.16
+3f703cd9-2a1b-4cda-b255-41ac2ebde530,Windshield fluid,Oils and fluids,151.95,69,Autoliv,8.87
+a5c2b21f-67b5-4e16-9cee-9521049b9f4b,injector pump Shaft Seal,Engine and components,473.11,20,Magna,5.63
+47d42ce6-c7c1-4f5f-9046-107d69851e80,"Repair Kit, brake caliper",Suspension & Steering,123.17,22,Autoliv,8.69
+9894f615-cb29-464f-b82a-887e572a9f15,Collector's protector,Engine and components,441.45,90,Magna,13.51
+f5b578db-e404-4176-81d8-6fd4f258aea7,Headlight bracket,Headlights and lamps,379.27,50,Continental,14.81
+ac57dc37-2d7d-4a9d-a5d9-c28c23d23ee0,Steering wheel Angle Sensor,interior,220.78,62,Denso,1.66
+e19dc252-4430-46d8-95d6-651ef123533e,Sunroof engine,Auto Body Parts,493.84,59,Valeo,12.86
+fee656e0-c9e0-4cf3-bf63-31fad0a04c88,Video Registrator,interior,153.02,96,Valeo,1.45
+906421e1-85a6-4f8d-8a8f-c04743359edb,Front windshield,Auto Body Parts,335.31,37,Continental,2.86
+aa98d1c1-b97d-441a-a531-4f31894d98bf,Hood air intake,Auto Body Parts,358.41,81,ZF,9.76
+3c90f279-5a7b-477b-a42a-99e5fa506ede,Axle,Suspension & Steering,143.21,95,ZF,7.79
+ad0ddfe8-072c-4098-a978-f8406edff383,Ceiling lighting,interior,414.72,35,Bosch,4.19
+daaf4a71-7376-4e13-a844-e437d02cf723,Exhaust Pipe,Engine and components,144.92,59,Denso,4.48
+c157869a-b535-4ac3-8a34-23220c07e81c,sunroof glass,Auto Body Parts,8.18,64,Bosch,14.37
+990a40cd-30cd-46c9-abcc-0891cb273929,Rear Muffler,Engine and components,298.69,46,MANN-FILTER,5.58
+5faa5118-d015-48b6-bdae-827150210683,Engine oil,Oils and fluids,32.9,39,Valeo,10.38
+a42e6509-ecbb-419e-8d2e-98797865b819,Reductor,Engine and components,258.34,6,Denso,14.25
+9f0c087c-92ae-4743-8ac9-4f0a06ac7524,Brake Fluid,Oils and fluids,337.0,12,Bosch,3.13
+7dc35b1e-ed1b-4177-a274-7c6d0d424a70,Comfort block,Electricity,294.5,84,Denso,7.45
+3a675893-40a6-451a-a0f6-da82fc85ef5c,Coolant Flange,Engine and components,18.26,37,Magna,14.34
+43acd9e8-0fa3-4c82-a442-3f100225ec58,Glove compartment,interior,427.73,19,Magna,12.45
+c4727139-5353-470c-8808-b0b28eff3d6a,Rims,,79.41,65,MANN-FILTER,0.83
+65d13215-6697-488d-acb3-f68a1bbe7fb2,Hybrid elements,Engine and components,23.21,83,Autoliv,8.6
+e52570b2-e220-41d1-aa17-14fe232ff9c4,"Gasket Kit, crankcase",Engine and components,21.97,92,MANN-FILTER,13.96
+a70c46cc-a932-44d6-bb3f-701285237715,Gearbox bearing,"Gear box, bridge, cardan",105.19,39,Denso,10.88
+274158fc-47fb-4dab-b0e9-43913f90c46c,Fenders,Auto Body Parts,6.67,11,Continental,13.3
+c43ec121-d401-493d-8775-14b0fde88550,Engine cap,Engine and components,226.33,5,MANN-FILTER,13.53
+0a8c4491-737d-4633-b795-060b1aba6fd9,Clutch plate,"Gear box, bridge, cardan",268.0,95,Bosch,10.38
+f7b00e55-1cbd-4ab5-916a-e1067251ca08,Gas Equipment,Engine and components,49.64,81,MANN-FILTER,12.37
+6e700493-3805-4320-b2df-4d3465b814a6,Solenoid,Engine and components,171.56,1,Autoliv,7.4
+8038065f-d990-44f7-acce-202cea883105,Roof rack,"Accessories, auto chemistry",52.74,69,ZF,12.63
+70dd6fd7-684f-4c3a-8934-ca9c79741c34,Key,Electricity,352.87,68,Autoliv,6.07
+992890b2-3568-40ed-93e6-c1a265b570df,Engine Belt,Engine and components,456.12,18,MANN-FILTER,7.71
+4ecaaadf-a97a-481e-9f88-24829f3dd993,Sunroof,Auto Body Parts,437.17,50,ZF,3.68
+0ccf8468-2dce-4f04-82e8-df42b12fe51d,Headlight,Headlights and lamps,387.88,98,Magna,3.3
+bd70d803-fa67-4b4e-8ead-09f47edcc4c6,Reinforcing pole (balka),Auto Body Parts,281.38,41,Denso,7.52
+8173d0db-11b9-47fb-ab15-8072efebf397,Resonator,Engine and components,94.82,46,Bosch,4.48
+bce98399-e37f-43e2-8929-0aa1cb2a54f5,interior upholstery and trim,interior,363.58,16,Autoliv,6.8
+05cc7858-1ea2-40ff-9e0f-e54ced209cf4,Grille brackets,Auto Body Parts,120.4,12,Autoliv,2.51
+a40a6183-71f6-4166-a61e-db89f29a9117,"Deflection/Guide Pulley, V-ribbed belt",Engine and components,444.73,30,Bosch,5.51
+b5f93b8c-811f-4058-8f30-030f129e638f,Oil additives,Oils and fluids,92.15,8,Autoliv,14.7
+f68664e5-59d1-4f4e-8d68-a711e9f30c04,body kit,Auto Body Parts,460.89,22,Bosch,5.65
+4ab664c2-a1c7-40cd-9962-62a8e36ca387,Tail light,Headlights and lamps,154.19,92,Continental,1.39
+08602495-da31-4282-ade2-f49d92d8b746,TAOT,Oils and fluids,289.51,3,ZF,12.06
+7891cb0e-8add-410b-bf8c-9481a5db0c27,"Deflection/Guide Pulley, V-ribbed belt",Engine and components,160.68,87,Denso,14.42
+021e472d-e5c5-4aec-b90f-9c288d20fc90,"Bearing, drive shaft",Suspension & Steering,390.61,78,Bosch,8.95
+a6786052-8422-47b6-a35d-09a5e07972fc,Interior accessory,"Accessories, auto chemistry",384.67,29,Autoliv,7.03
+1f445df8-0ece-4301-b467-85a7101d2854,Injector,Engine and components,432.63,24,Bosch,7.66
+257f585d-8ef5-439b-9db5-590cb34e2036,"Warning Contact, brake pad wear",Suspension & Steering,93.97,69,Valeo,3.43
+0fd67b13-ab62-42a3-b362-e6667118f984,trunk opener,Auto Body Parts,58.81,32,Magna,0.56
+2ccf36a8-70f6-4326-846a-61151e692602,Bumper reinforcement bracket,Auto Body Parts,44.0,41,Valeo,5.72
+7a2579a3-058a-4fdb-aa47-c55d316f044c,Bumpers,Auto Body Parts,383.6,36,Autoliv,7.08
+dea8d698-8241-48d1-892a-9307c9be3abe,Trunk glass motor,Auto Body Parts,361.03,81,Continental,6.61
+f897fcea-88f6-4d3a-9ee9-de8c754d62f7,Emergency button,interior,91.35,63,Bosch,8.69
+b91f3247-2d35-43c1-9788-2ecd8a6e4bdc,Air temperature indicator,"Accessories, auto chemistry",324.03,23,ZF,10.21
+086273c2-aa2a-4921-91a3-2968752b2611,Headrest,interior,435.27,53,Bosch,12.35
+9f3d5905-276f-47c6-ac40-b587e72ccd4e,Oil level sensor,Engine and components,102.12,45,Autoliv,3.87
+bc3b9056-1918-408f-bc1b-86d5da7df556,Center pillar,Auto Body Parts,95.69,12,Autoliv,4.77
+f2d09f3f-0fbb-4eb4-a0b4-d8a6ace4986f,"Deflection/Guide Pulley, V-ribbed belt",Engine and components,415.95,40,ZF,10.05
+b55d85bf-df46-482b-b3cc-44b14f54a0c2,Camshaft,,379.78,32,Denso,8.25
+326cc788-c97b-4e81-8265-55b2d3628975,Disk Repiar,Equipment and tools,23.62,27,Valeo,2.14
+7d1f34b7-aaae-41f8-bdef-0a69426f6a25,Subwoofer,interior,199.38,37,Bosch,6.6
+7ea25e66-9c8c-4568-b458-4220b4102383,Rain sensor,Auto Body Parts,309.95,12,Bosch,13.58
+4ae6e74f-68e2-4d0b-a34b-9c3154a6af1b,Hood air intake,Auto Body Parts,187.73,40,ZF,3.03
+858cbe69-78c2-4461-b4f2-38cd20ba5b47,Rims,,211.74,95,Magna,3.08
+9fd41036-9edd-47f5-bc40-21f0059fb026,Flavoring,"Accessories, auto chemistry",454.33,60,Bosch,3.77
+7c0ce183-5bc9-4280-b1d8-3caafaff6268,Oil pressure indicator,"Accessories, auto chemistry",367.68,65,Continental,14.93
+ffedf3c5-8fa6-4b1a-8e87-86dca1fe4af4,rear-view camera,Auto Body Parts,172.91,85,Valeo,13.28
+fb522f6a-e0a9-42d0-8e25-e7cceeca297c,Sunroof,Auto Body Parts,87.4,74,Autoliv,12.09
+fd98377f-0336-4abd-95dd-4343e0167dfd,Hydraulic pump seal,Suspension & Steering,435.8,47,Magna,14.99
+65140d79-35b9-4a56-9262-0397e3fb5e8b,Radiator Cover,Auto Body Parts,58.64,10,Magna,0.41
+d4efc20a-b915-4827-89d0-a3eca2918f23,Rear panel,interior,358.41,81,Denso,1.32
+a77b5f5d-c524-46cc-80e7-2d5318d87765,Rear panel,interior,493.68,36,Bosch,1.13
+e6b7bdce-7f37-4e06-9602-55e0751322cd,Seat cover lid,interior,65.42,45,Magna,12.74
+76783bca-fe1f-4678-b318-58fe7bb0f7e6,Fan relay,Engine and components,200.35,34,Autoliv,10.68
+3f2b1902-3521-423d-bde8-f400df60191e,Intercooler tube adapter,Engine and components,97.76,4,Valeo,6.99
+9f42731b-1cd7-4ea9-85f2-728d99955616,Central console (bar),interior,137.36,7,Valeo,10.55
+42c123a4-dd1c-404a-a93f-72adc19a6581,Engine piston ring,Engine and components,43.48,74,MANN-FILTER,9.1
+a2bfdf80-fb35-45bc-84a4-f01628b21ba1,Spare tire clamp,"Accessories, auto chemistry",377.96,61,Denso,11.61
+86d77033-e20f-4c30-9512-94402f851810,jump starter,"Accessories, auto chemistry",56.27,60,Continental,11.81
+d71b85ab-d315-4394-ad57-b5720f066c13,Sunroof engine,Auto Body Parts,75.3,35,Bosch,1.44
+63e9a8e5-69fd-4320-bab4-b0fe3ad0fdb4,Other (engine electrics),Engine and components,376.59,5,Continental,10.25
+b0d8fe8a-41ed-4c20-8359-f92a73ffc30e,Rear view mirror,interior,448.41,91,ZF,2.8
+79c1e8c4-c85b-4109-b2ff-0531f952f9f7,Engine piston,Engine and components,213.38,98,Autoliv,12.38
+d0e60916-35f6-4a75-935a-ef3ca46de65b,Trunk Lock Actuators,Auto Body Parts,107.08,46,Bosch,9.13
+5cfaed78-a693-4f1d-ae68-1628e206fab9,Fenders,Auto Body Parts,431.31,56,MANN-FILTER,13.28
+931f3b99-6329-4241-884c-348f5a65019f,Fog Light wiring,Headlights and lamps,115.82,36,Autoliv,10.53
+78689d0a-22e2-4e44-b06b-90e1996fe184,Steering Shaft,Suspension & Steering,88.73,37,Autoliv,7.46
+134029e5-01dc-462b-b20f-ec241955e173,Mirror control button,interior,152.91,69,Magna,5.37
+0c4c6916-bb7a-4a68-8918-5c63aca81430,Bumper Reinforcements,Auto Body Parts,264.58,64,Valeo,11.72
+5a4a0ded-0c41-4d4b-b9ae-9776d3e710b9,Gearbox,"Gear box, bridge, cardan",39.61,64,Valeo,9.65
+6498347a-f1c9-4d05-a7c4-55ba677305b8,Fuel high pressure sensor,Engine and components,266.61,4,ZF,4.52
+0228c99d-9b2a-4755-8160-b7393c260e9c,Monitor frame,interior,118.0,33,Continental,7.04
+f4b6a74c-2b71-4ed6-91b6-ed79c0ef8b5a,Fuel system care,"Accessories, auto chemistry",411.34,90,Autoliv,7.59
+86609814-5124-40c6-9be5-d1ce3ea6a9cf,Oil pressure sensor,Engine and components,356.0,80,ZF,1.54
+89cecfc0-d2a8-40a6-870e-4cb9ff0d05fb,Brake disc,Suspension & Steering,101.25,5,Continental,3.03
+bd0d22b1-2d1b-4587-89b1-814d5a5a4f89,"Repair Kit, steering knuckle",Suspension & Steering,39.15,89,Valeo,12.44
+d6e2b4cb-ff9c-4707-8d59-f4dda887c735,Steering wheel airbag cover,interior,474.92,32,Denso,1.24
+c51138af-d9b9-422c-b702-f1a3a6ed661a,heater tap,Engine and components,388.63,66,Continental,0.86
+5613d26a-083b-479c-b65f-ab459316d029,Air filter box,Engine and components,71.54,75,Bosch,14.0
+334e7d8a-8cd1-4b17-a359-7afaa46abeaa,Steering wheel buttons,interior,176.82,71,Denso,5.49
+273fc677-90e7-4a77-aa2c-690417b67a5e,Carter,Engine and components,161.69,38,Continental,2.63
+3d6998f3-6ac5-450b-b5c7-455fa7cb8560,"Bushing, axle beam",Suspension & Steering,452.37,62,ZF,13.91
+9875af94-1bf6-4744-bb7f-0bef3b53318f,Glove compartment,interior,51.73,47,MANN-FILTER,8.76
+495db320-0e36-45a9-a5f2-b284405f2568,Remote control of special machinery,Equipment and tools,106.13,33,Denso,7.77
+969cb89d-9217-4fd5-b940-16259ec16009,Hydraulic tank,Suspension & Steering,432.6,53,Bosch,14.65
+c7a1625a-c0e1-46b6-bb65-acf1ccfe5351,Sunroof Bracket,Auto Body Parts,135.46,48,Bosch,4.95
+77e9d17b-5b24-4a29-8659-af4f8f704481,"Filter, crankcase ventilation",Engine and components,171.07,16,MANN-FILTER,6.61
+0ff5ad22-6362-4939-8c26-a01e9533faee,Engine cover gasket,Engine and components,92.51,40,Valeo,13.54
+935d8920-8df7-41c3-a393-b89df411d3df,Engine gasket,Engine and components,112.73,62,Magna,10.37
+267dfc4b-6bfa-495b-9f71-f69e3bbec9a8,Hydraulic pump,Suspension & Steering,441.06,48,Autoliv,12.66
+a7b9986d-cc9b-4b59-bfeb-06cc1f76d74b,heater tap,Engine and components,226.64,25,Denso,11.16
+34d1f6be-a5c5-49e0-82e3-04f20e7f81bd,Exhaust manifold,Engine and components,429.93,55,Denso,3.01
+732c84d0-8c1c-475b-a941-9cfa89909818,Road safety,"Accessories, auto chemistry",254.13,68,Denso,6.49
+5e31e2df-40d2-4d1b-9891-d6c49d410520,Rear panel,interior,257.46,18,Denso,14.7
+c36009f5-f529-4855-8738-f236603b9d6b,Wind Defender,"Accessories, auto chemistry",76.74,38,Valeo,6.27
+7bf184c5-a0fc-49df-bec8-518e0234613f,Fuel system care,"Accessories, auto chemistry",329.79,71,ZF,6.91
+63247132-f661-4bc5-8650-8e331210104a,"Wheel nuts, secrets","Accessories, auto chemistry",159.06,71,Continental,9.22
+26a578e4-6ad6-4d05-b7b8-b0b9214cc661,Adhesives and sealants,Oils and fluids,125.86,4,MANN-FILTER,6.97
+07a3072a-78ad-4377-9e05-75c3f14bd3cd,Steering Wheel Spiral Cable,interior,277.3,0,Autoliv,4.6
+31ca87f4-6bc0-42ab-99ae-c09870d2f827,Painting materials,"Accessories, auto chemistry",272.81,30,Bosch,7.61
+69654546-21e5-41b3-96df-09830281b74d,Manifold gasket,Engine and components,257.19,28,MANN-FILTER,13.03
+e58ce290-8a46-4a3b-805f-21b5b0a34756,Loudspeakers,interior,65.31,47,Autoliv,7.02
+effaf5d6-7318-4476-acbd-a38acb033ce1,Repair kit,Engine and components,278.0,13,MANN-FILTER,0.43
+d4d9147d-79e8-4f6a-a129-d755b5be9a32,Parking Brake Pad,Suspension & Steering,13.2,78,Bosch,8.3
+5b58a901-c83b-412c-9b97-f47141e7b8b7,trunk mesh,Auto Body Parts,14.15,6,Valeo,13.77
+9cafa6ec-eda5-4c7f-adb8-5a7beac0bf16,Vulcanization installations,Equipment and tools,445.22,27,Autoliv,8.24
+0b2de448-840e-4bc9-a6af-9d8fca777d8e,"Intake Hose, air filter",Engine and components,20.46,26,Valeo,8.81
+2fd57221-a239-4918-8e84-d195a44479e6,trunk mesh,Auto Body Parts,310.35,10,Continental,2.5
+ea384e19-f7f9-48f7-9e0c-ec4957b1cfe3,Control module,interior,157.88,58,Magna,12.38
+b5e43ceb-32bc-4daa-9d6c-1f207df8ebeb,Belt tensioner pulley,Engine and components,242.94,6,Autoliv,8.15
+7f68e1d9-a661-429d-8bb4-94eff0bbae7e,Clutch plate,"Gear box, bridge, cardan",339.64,87,Denso,1.51
+855ed596-70c3-486d-aa82-177163592308,Painting materials,"Accessories, auto chemistry",90.06,92,Continental,9.35
+6a804d9f-63f7-4e13-ae0e-692da841792f,Audio wiring,interior,465.84,25,Autoliv,3.29
+d267239a-962f-41d6-bce1-abea70e61dbb,Water temperature indicator,"Accessories, auto chemistry",227.85,31,Autoliv,5.44
+053086b1-9599-42ff-9e5b-5de551532320,Video Registrator,interior,392.27,71,MANN-FILTER,8.4
+05e1c992-34ab-4a01-9456-b7b9c600c534,Bumpers,Auto Body Parts,298.43,52,Autoliv,9.53
+36db3f65-4606-46f4-9d5d-148fe60164e8,Shaft,Engine and components,312.59,13,Autoliv,13.07
+f66b6563-46f4-452a-9156-c8cb22c6945c,Support frame bushing,Suspension & Steering,351.26,8,MANN-FILTER,11.81
+e2e0396c-0028-4f98-b3aa-fc8dfc71eb9b,Engine computer,Engine and components,357.29,14,Autoliv,8.51
+969c724d-5304-4f91-9235-54559e0f4cf5,Mirror control button,interior,246.12,25,MANN-FILTER,0.68
+fe8ade6d-dda6-4b35-a758-a52529d368e3,Resonator,Engine and components,363.47,54,Autoliv,2.73
+a136cd5a-cc21-4c47-8ab7-da3af1e94031,Gearbox solenoid,"Gear box, bridge, cardan",298.66,55,Bosch,1.94
+d592369d-2bae-465c-8069-5d4475adefdc,Deflector,Engine and components,436.46,16,Bosch,4.93
+f02cc2cc-3c05-4f11-bbff-8532557005d9,Car lift,Equipment and tools,75.95,47,Continental,8.5
+46eee241-8e3f-4586-b670-6cbdba02b4ea,Painting materials,"Accessories, auto chemistry",129.06,19,Autoliv,14.22
+9bb3b4bc-c10c-4a62-8036-9b311b6e3819,Car player,interior,10.76,58,Valeo,14.92
+2b8c17f9-fd36-470e-b7f1-837a898343d2,The trunk emblem,Auto Body Parts,349.53,20,Magna,2.83
+291da12b-8364-494e-8fb0-fe2a95f8a3b0,Balancer,Engine and components,335.9,9,MANN-FILTER,3.75
+989c36e9-0c21-4428-aa8c-f177810bbdf3,Windshield Washer Pumps,Auto Body Parts,391.55,32,Autoliv,12.38
+3ec1f8aa-23a6-4308-864e-5041a6874a51,Salon carpet,interior,480.42,24,Valeo,13.05
+61b4439d-8a2e-4354-bfcd-5641518f6703,Cooling damper,Engine and components,94.95,100,MANN-FILTER,0.81
+01591b77-d3ae-4bd5-b105-2d61f922e786,Fender brackets,Auto Body Parts,320.61,0,MANN-FILTER,6.78
+0666d24e-e8d6-4205-8a70-5546ccfc52ca,Oil dipstick,Engine and components,385.51,33,Bosch,5.09
+a3cd75a7-9382-418e-9fd0-0b7a456a812a,Oil dipstick,Engine and components,326.24,7,Autoliv,10.34
+53d319fa-de98-4527-b518-452de7d69801,Control Arm,Suspension & Steering,289.89,50,Magna,7.58
+426d923a-145f-433d-8064-67da73c188e0,Cooling damper,Engine and components,223.59,76,Valeo,11.72
+2c04d9e9-8435-4bd0-8971-2988bebdc2fd,Cup,interior,303.69,67,Denso,2.48
+2ff4b5c3-ba2c-4dea-bdf7-c80cf5e03ffb,Diffuser,Engine and components,420.42,96,MANN-FILTER,5.52
+f3390c60-b82c-4e33-b927-1f984ae17b41,Bumper Reinforcements,Auto Body Parts,226.37,92,Bosch,8.78
+f4ff5077-c381-4ca8-bbd2-d8c50ebd320e,Reinforcing pole (balka),Auto Body Parts,22.4,20,MANN-FILTER,12.98
+42d996b9-b0da-46c3-92f4-2327b69537ce,Snorkel,Engine and components,299.14,30,Denso,14.93
+b2b19ffd-5c38-4428-8c4b-ca7141923e47,Headlight washer,Headlights and lamps,24.32,7,Denso,2.81
+6fe19e54-172d-423c-bd95-28c2c8271d37,Roof tent,"Accessories, auto chemistry",373.77,77,Bosch,0.71
+19a25f70-29ba-4f99-af28-8b98215f24ac,Windshield Washer Nozzles,Auto Body Parts,458.98,3,Bosch,4.43
+98f89125-1230-4672-be6b-1f3331b54d6a,Headlight,Headlights and lamps,336.94,26,Autoliv,13.95
+a20d7a0f-2624-4a73-ac4f-b88bdfa9465e,Brake Shoe Set,Suspension & Steering,323.94,24,Continental,6.72
+0f99438d-9d79-4136-8fac-d3d89d92212c,Front Dash Board,interior,358.13,76,MANN-FILTER,12.51
+f55d3fc8-26cd-43ac-a936-4a7a9318a060,"Mounting, transfer case","Gear box, bridge, cardan",179.65,4,Bosch,0.57
+7f75cb73-9da0-4572-b792-43b09ec12fc3,The trunk emblem,Auto Body Parts,53.06,32,Autoliv,11.0
+676d6537-629e-4e33-a880-b078803c7ebc,Camber Correction Screw,Suspension & Steering,357.71,53,Valeo,3.97
+157ff3bc-7e4b-4587-acd9-9c8ac527dbb1,Headlight master switch,Headlights and lamps,348.72,32,Bosch,1.24
+2fb584c5-e75d-4e36-9487-777d38c89f9c,Seat airbag,interior,220.0,71,Magna,3.18
+02530d1d-77c3-4078-bc46-170e2b5e4661,Fuel evaporation tank,Engine and components,243.68,10,Autoliv,3.42
+1c5aa653-f92f-43be-afa9-7b9da8fc2df1,Gearbox filter,Filters,499.72,76,MANN-FILTER,13.53
+041bade2-7b66-4393-a678-06840491e83d,Water radiator,Engine and components,494.06,8,Denso,1.12
+1ef4beeb-fd36-4e0d-9136-9cf5e2722197,Grille molding,Auto Body Parts,11.01,78,Magna,6.81
+2d6552e0-c2dc-441d-ab5a-79cbe3698990,Front dashboard airbag,interior,492.15,85,MANN-FILTER,7.79
+06a76fcc-d6e1-4c8d-95bf-368a923ff855,Trailer Tow Hitch,"Accessories, auto chemistry",105.07,58,Bosch,10.88
+eba70ebb-1f26-4eaf-91f2-6284159053b4,Water radiator bracket,Engine and components,44.95,10,Bosch,5.55
+91a9393a-57b4-40de-9354-2c462387ec21,Inventor water pump,Engine and components,247.51,11,Autoliv,12.74
+d43a87d1-be3e-4464-8930-02f65018309d,mudguards,Auto Body Parts,256.05,55,Magna,7.04
+7d4100c8-8549-4b19-bbe3-e8c1394f61fb,"Fastening Set, leaf spring",Suspension & Steering,404.26,68,Continental,13.53
+7e133f0f-ac8a-460e-a936-243365519aec,Engine valve,Engine and components,405.39,16,Bosch,0.85
+7e4fb47b-fce1-4771-a7df-d0979f81be9f,Comfort block,Electricity,489.42,14,Magna,10.19
+22be24bf-bee1-4a17-9007-3a4f000efb4b,Interior care,"Accessories, auto chemistry",40.93,60,MANN-FILTER,5.64
+48df1e5f-8e7f-4597-a9a6-23c75aba42f3,Headlight Molding,Headlights and lamps,255.69,34,Valeo,9.66
+9f02f608-49cb-402f-a38e-a2befeb2e832,Auto service equipment,Equipment and tools,69.85,23,Denso,7.45
+7dc4df1b-6bbd-4508-8065-3c13414a9163,Trunk liner foam,Auto Body Parts,276.14,90,Valeo,14.52
+3c8b2333-a368-4feb-b533-a7b5efeafee6,Fuel tank throat,Engine and components,421.1,54,Denso,4.78
+d6383c01-5f47-47b3-9c6e-8454752edb4e,Brake Shoe Set,Suspension & Steering,436.41,65,Bosch,11.55
+7b960878-b3b2-459e-ab18-609c91c92024,Trunk Spoiler,Auto Body Parts,424.36,45,ZF,13.8
+fde30580-6f39-4227-8f30-81b363b5f687,Trunk board,Auto Body Parts,182.67,27,Magna,6.51
+18dd5e5a-da2d-4378-892c-bd132f80b111,Trunk Lids,Auto Body Parts,255.31,57,MANN-FILTER,5.88
+99a9093c-0a31-4d26-9513-fb9c0fc91321,"Other (Seal, gasket)",Engine and components,333.79,61,ZF,3.08
+01441225-1c08-4cdc-8412-c19a85252efe,Vacuum pump,Engine and components,256.35,81,ZF,7.62
+7d03ddc3-72d9-4951-adf2-cab14f3e95c8,Belt tensioner pulley,Engine and components,273.44,57,MANN-FILTER,9.3
+34f811c0-273d-464c-afbd-6ad14a2fa705,Rain sensor,Auto Body Parts,408.72,7,Autoliv,12.01
+77ff0d45-6f0f-4c57-93d6-11dd33d76cbf,lock Cable,Auto Body Parts,52.7,81,Magna,7.99
+7e9c5fdf-cd58-4b08-9eba-cc1a92169b1b,Polishing machine,Equipment and tools,254.92,93,Continental,6.09
+e5ab6860-13d6-4e0e-8eac-db487b68ac6b,Disk hub,,305.18,23,Magna,0.53
+06ee11fb-0d24-495e-8360-b97fb4e82eda,Engine computer,Engine and components,355.71,63,Bosch,9.13
+e8cc8881-b0bf-4178-9fe3-b731c96a67a3,Bumper Absorbers (foam),Auto Body Parts,360.15,65,Magna,7.99
+227a305a-691e-4c83-9d36-2110a15853e4,Interior care,"Accessories, auto chemistry",297.52,32,ZF,3.54
+170f9b83-d2e9-4941-a9fd-63d9073b8f86,Seat handle,interior,462.82,99,ZF,5.61
+fc1359ec-5068-4940-b1a9-fd1fd9dd294d,Changer,interior,257.67,7,Continental,12.83
+9f0856f1-15d9-46d8-92cf-bb4e53ddb39f,Outside temperature sensor,Engine and components,190.18,86,MANN-FILTER,2.01
+5da09fa4-a98e-4f5b-8f6d-5e3f962bc04b,Emergency button,interior,392.15,26,Autoliv,1.37
+be6d7181-57f8-46b6-9939-a3674181cbf5,Fuel Feed Unit,Engine and components,229.42,40,Autoliv,3.6
+422e22b9-6fb8-4d5d-8bf7-61a67d26904d,Grille brackets,Auto Body Parts,388.38,99,Bosch,11.91
+156960b8-8d6e-4536-931b-13d24c5277fe,Audio wiring,interior,269.58,57,Bosch,13.76
+135c3dcb-5702-4fb3-bd36-d332c61175d8,Side glass of the body,Auto Body Parts,173.51,70,Continental,12.0
+121e2a28-41b4-4fe4-b5ef-e41a63f3a3de,Fog Lights,Headlights and lamps,185.78,66,Bosch,8.48
+c1163cff-0754-4bc5-b6f7-895d55e8e3c2,Bumper Absorbers (foam),Auto Body Parts,169.13,66,Magna,12.33
+3b690574-4e66-4ee0-a862-1aa525e271c1,Hood,Auto Body Parts,117.69,92,Bosch,8.54
+2f95bda1-f4dd-4450-8699-74a210393d52,Trunk Locks,Auto Body Parts,213.57,38,Valeo,8.99
+03f96b0b-0271-47c7-b162-b98ee4e49f75,Oil pressure indicator,"Accessories, auto chemistry",383.97,22,ZF,14.94
+66f205e3-c210-4d45-8375-b7338a6296d3,Fan motor,Engine and components,50.34,26,Valeo,4.47
+9b5bf17e-d908-4291-b845-58c14c8f64b5,Roof tent,"Accessories, auto chemistry",75.89,8,Denso,7.6
+59831355-3a26-4f9a-94bc-8fef564c2a12,Belt tensioner pulley,Engine and components,118.32,83,Continental,12.71
+37ea9e17-96ba-4da7-b474-3f5ab08a1446,mudguards,Auto Body Parts,7.09,77,Continental,11.65
+ddd2c252-de4f-4489-99ac-b314afd33a24,"Fastening Set, leaf spring",Suspension & Steering,202.53,88,Bosch,5.36
+20a337de-f4bf-4423-91ab-e64a611081f1,Reflector,Headlights and lamps,11.21,39,MANN-FILTER,9.87
+10bb9a70-de8d-4f99-86ce-6fe5ae88f948,Rear Muffler,Engine and components,248.57,23,Bosch,12.4
+a4f9ce39-c15d-4099-a66a-10aef734e8f4,Resonator,Engine and components,312.49,13,ZF,5.22
+1f02911f-dbcd-4513-a8aa-b2773cb73fab,Headlight washer,Headlights and lamps,243.47,38,MANN-FILTER,1.61
+5adb3c85-4cda-4f53-a0a9-77683ae1ec33,AC compressor,Engine and components,122.63,29,Denso,10.14
+1581a755-9979-4529-9e95-df1ef9932dc0,Hydraulic pipe,Suspension & Steering,67.32,64,Denso,13.11
+1d264828-650b-4aef-af24-bd2cbc8b2e7c,Logo,Auto Body Parts,161.59,61,Continental,2.33
+b3e078eb-aa8c-48e2-97b2-ce8181fe1dd5,Balancer,Engine and components,165.41,45,Magna,14.13
+af8fd5c5-9f26-45d0-943d-b6bf882ccae4,Xenon module,Headlights and lamps,119.82,14,Magna,6.05
+c8b39c24-df61-4e56-b600-1219f8614ef4,Sound amplifier,interior,97.49,12,Valeo,14.99
+30c8fab4-4574-4eee-9701-bd1dcdbe81e7,Hood,Auto Body Parts,74.56,57,ZF,4.27
+2b97ec23-8012-4d95-8433-85958034710b,Microfiber,"Accessories, auto chemistry",279.01,31,Continental,6.0
+c2794101-2cd9-4df6-9d66-13be667e35a3,Body back panel,Auto Body Parts,397.28,14,Autoliv,6.73
+4e4b0991-a7d6-4c51-bde2-d073eeb713ab,Tools,Equipment and tools,359.57,66,Valeo,9.71
+9aba10f0-b19e-4fb9-a5f0-0212857022a9,Catalyst sensor,Engine and components,397.36,24,Autoliv,4.64
+b402d959-e7e9-4f48-a835-6d370e87d070,Camber Correction Screw,Suspension & Steering,21.37,13,Bosch,1.33
+c428b158-3e83-4bc9-a44f-b0751dee395a,Loudspeakers,interior,287.79,7,Denso,12.54
+2ef19a17-9e61-4bec-9418-ae222329b351,Rear panel,interior,393.38,41,Bosch,1.92
+5628a9fd-4085-4272-9814-9af4aabb0358,"Gas Caps, Fuel Doors",Auto Body Parts,26.61,19,Bosch,13.95
+b733a279-ad3f-44fe-af18-90afac398675,Oil filter,Filters,480.18,98,Magna,9.47
+ed665ccd-25c1-4790-8f9f-8e33d3227200,Power steering oil,Oils and fluids,236.05,39,Magna,1.75
+1399a148-ec01-44e9-bad1-e1058f50e99d,"Intake Hose, air filter",Engine and components,449.04,36,Valeo,12.56
+8c6d804b-1b60-4205-ba27-c42d615cf11a,Seat handle,interior,106.71,77,Valeo,0.63
+633149ab-005f-495c-a4b6-1f002efaca7f,Fuse box,Engine and components,152.11,39,Denso,11.42
+32e66ae0-47dd-49ae-b69b-7c676c0081c3,Power steering oil,Oils and fluids,48.36,5,Denso,14.07
+98ff0526-fc1d-4517-ad5e-c26bc528136e,Inner Tie Rod,Suspension & Steering,412.78,95,ZF,10.35
+935d1435-16cc-4adf-bdf8-205b6a2afa9c,Jumper/Battery charger,"Accessories, auto chemistry",92.32,33,Denso,10.28
+277e3781-8a8f-412f-8522-ba9ba4f3961a,Cold air inlet,Engine and components,93.34,95,Autoliv,0.83
+ab777ce3-829f-4862-af48-d4544bccb3e6,Ceiling,interior,440.12,13,ZF,6.15
+abeaec54-bb18-4388-ad5c-a4a2d98718ec,Trunk Lids,Auto Body Parts,307.28,92,Denso,7.36
+b5764190-8779-4755-acda-cf0628f14206,water tank,Engine and components,474.91,59,MANN-FILTER,11.21
+d26cceba-8a98-4e42-9566-166760a4d161,Diaphragm,Engine and components,28.63,41,Denso,4.84
+955c0d1b-4af4-4e9b-b7e3-aead29e43daa,Tire Care,"Accessories, auto chemistry",169.55,65,ZF,7.15
+1066c749-a52a-4b71-845d-d20749caeeef,collar,Suspension & Steering,28.74,33,MANN-FILTER,12.81
+7f8ef79c-ea5f-4d82-95a5-363876e9f57b,Diffuser,Engine and components,350.17,97,ZF,12.96
+d1dd3185-b146-4969-8774-3e185c62591b,"Caster Shim, axle beam",Suspension & Steering,238.18,15,Autoliv,11.09
+50dd75d4-75e0-4db6-bff8-1e6a0e59f1c9,Fan motor,Engine and components,160.96,92,Magna,10.74
+b503eedd-9794-40fd-8669-3addf7f7a6cb,Fender Liner Seals,Auto Body Parts,247.73,65,Denso,4.75
+bf008d6e-719e-42dc-b046-9d555d12834d,Hood air intake,Auto Body Parts,260.63,48,Denso,13.91
+30367abe-8ffe-4d89-a044-c80fd335dc75,Hood Locks,Auto Body Parts,356.34,44,Bosch,5.23
+b1856f84-3506-445d-b6b7-2955d7a36447,Turbo,Engine and components,319.34,30,Denso,2.6
+779b4662-b188-4ac2-89cf-a14fb8e97a08,Water temperature sensor,Engine and components,158.9,44,Magna,6.71
+041d9d35-9e95-485f-b95e-0a02191aca04,Suspension beam,Suspension & Steering,398.11,56,Continental,11.69
+22c8ffd8-0b8a-4e61-a49e-493c1f187446,Exhaust Pipe,Engine and components,141.64,58,MANN-FILTER,11.62
+41e66f96-4921-4b67-9bcb-f4db78703f1e,headlight wiring,Headlights and lamps,122.57,46,Continental,9.49
+0a48dbbd-1ece-4455-a12e-07b1239cc9a3,Fuel tank throat,Engine and components,231.89,33,Bosch,4.06
+bbb810f4-e2f3-4822-a43d-e7309c688f0c,Clutch plate,"Gear box, bridge, cardan",398.39,42,MANN-FILTER,14.43
+73078127-e2bf-4ae0-a4ee-58be41325085,Oil dipstick,Engine and components,411.14,73,ZF,3.41
+d8f0f3c5-4ff8-4fc3-853b-b4c29aca033b,Imobiliser,Electricity,146.94,80,Bosch,9.83
+538038a2-e404-4a2f-b0de-c26d627404a9,The trunk emblem,Auto Body Parts,153.53,85,Valeo,2.7
+a7e2f5b0-9d40-427c-97c5-c3d8d31bc80b,Hood regulator,Auto Body Parts,399.46,19,Autoliv,9.76
+ce300adb-222a-4a06-b7e9-8a00eee9b21c,wiper panel,Auto Body Parts,387.42,75,Autoliv,12.73
+4ac30806-d47a-419b-bdc6-38d73d3e3dff,Tow covers,Auto Body Parts,256.23,0,Bosch,8.52
+3b35a0e6-fe88-41f2-b69b-043a974247d9,Wiper Blade,Auto Body Parts,338.09,83,MANN-FILTER,7.46
+c607a474-f3b7-40d1-8ef9-5e428df0eb20,Cup,interior,164.33,85,ZF,1.62
+75fca042-5be3-4528-a06a-af4d6ec421d4,Hood Hinges,Auto Body Parts,336.55,7,ZF,4.67
+bebbd1db-bda6-45e8-b4ef-5b3d60f57d19,trunk opener,Auto Body Parts,222.14,91,ZF,12.74
+b6eb0720-cb61-42f0-afed-b9c123d9cc47,Oil filter cap,Engine and components,282.65,49,Bosch,5.6
+831c6e27-8d90-4d5e-97ed-1bbc71fa43da,Clutch bearing,"Gear box, bridge, cardan",354.06,74,Autoliv,4.18
+82b8c25e-11ea-4c04-82f5-53a7b552898f,Rims,,187.99,22,Bosch,1.68
+15df1926-ec6d-4b18-bf4b-47a789f4cd63,wiper panel,Auto Body Parts,76.0,60,MANN-FILTER,9.22
+3f0737d9-74b7-440b-9542-e8975c72af19,Heaters Engine,Engine and components,147.62,91,Bosch,13.38
+2d1be3f5-27a4-488d-9342-7cfd9c7d3613,Microfiber,"Accessories, auto chemistry",486.63,23,Continental,7.35
+58fce4a7-3bc8-491f-87a2-422651adfab1,Cooling damper,Engine and components,145.64,52,Bosch,1.41
+b42b5567-5fa3-49b1-a5e0-c956c3ee2150,Wheel Hub,Suspension & Steering,306.53,29,Autoliv,1.93
+6512bf8d-3417-441b-adcb-f4a9238f11d7,High pressure washer,Equipment and tools,169.95,19,Bosch,3.09
+6c5338d9-bd99-4c90-8f55-7a14b9209bb9,Winch,"Accessories, auto chemistry",454.04,89,Bosch,5.21
+288e5d56-85c6-4ca1-86f9-07f3da414eff,Trailer Tow Hitch,"Accessories, auto chemistry",380.11,30,ZF,1.73
+29543357-05bb-4f86-9ef9-c6277a617942,Sunroof Bracket,Auto Body Parts,13.43,72,Bosch,2.35
+4e19dd48-008c-4cde-bc3d-571477ddc80d,Tools,Equipment and tools,158.2,41,Denso,10.79
+9620679f-efc5-4ff2-8bc9-fc46ce23e56f,Carter,Engine and components,140.14,15,Magna,12.99
+1090028a-0678-4204-b2c1-29af9e93df94,Oil filter cap,Engine and components,244.41,39,Magna,2.92
+35614f66-ef6f-4267-8bc9-154f9b2084ee,Transfer box oil seal,"Gear box, bridge, cardan",87.23,89,Continental,2.06
+532a34a2-d817-490b-844c-8214607a12b3,Water temperature indicator,"Accessories, auto chemistry",389.54,80,Autoliv,9.99
+b99babf3-d8f2-4502-a156-bd6d4d3ce90c,Vulcanization installations,Equipment and tools,133.86,59,Denso,14.55
+395ce0ee-a5a3-4e7f-9f2d-818e1acec0b4,Door moldings,Auto Body Parts,40.82,81,Continental,8.91
+66ff92ef-bdaf-4f09-8f96-3080a827d82c,Caliper cover,Suspension & Steering,9.98,36,ZF,8.2
+31b5121e-42a8-4b15-9926-59e4e11f79be,Charger,Electricity,178.28,53,Valeo,7.53
+3f5a59f8-27bc-4cd9-bbdf-8cadffbfce4b,Car pump,"Accessories, auto chemistry",182.01,66,MANN-FILTER,1.79
+daad0101-fdf3-47fe-ba55-d823526e8c78,FM modulator,interior,187.58,47,Valeo,13.61
+8b56b09f-095a-43fc-a2f6-70412fd5e429,V-Ribbed Belt,Engine and components,178.03,81,Magna,5.41
+8c38caf1-9263-44a5-81ea-4d4bd007612c,Engine cover gasket,Engine and components,314.89,37,Bosch,2.57
+abf867a8-32f3-49df-981b-400785d01007,rear-view camera,Auto Body Parts,250.85,75,Magna,6.92
+9ef6eecf-352e-46d8-b3ec-2971dcc68ed4,"Pillar, Front body",Auto Body Parts,405.73,20,Magna,12.37
+e5cf46fa-f3f9-4ae8-abe9-4ab358c0f38f,Flavoring,"Accessories, auto chemistry",228.14,77,Continental,4.04
+9169df9b-1f7e-4163-8b77-f1e57496907c,Trunk,"Accessories, auto chemistry",315.63,53,Valeo,14.9
+57598d27-c37a-472f-9d83-1f7d02e3d7d1,Transmission oil,Oils and fluids,497.9,51,Bosch,14.13
+33fc4d40-fbe9-4810-8d4a-844a18398ea3,"Clamps, chargers","Accessories, auto chemistry",291.13,81,Bosch,6.78
+45ca35ed-581d-4908-b894-5d4fd1e2bd1a,Rear view mirror,interior,56.25,36,Denso,14.1
+2dd4732a-9ac5-4f7e-bda4-6cd2910b85e3,Changer,interior,96.72,61,Magna,10.86
+a9ae1ff2-1cc3-4229-845a-b7c22393c2d5,Engine chain tensioner,Engine and components,184.99,21,Valeo,0.51
+1f6eafed-022e-4719-ac12-8dfaff7a67ef,Child seat,"Accessories, auto chemistry",332.98,85,Valeo,6.81
+c90ccd12-b02e-4d03-97f8-04da405e39a7,Wiring,Electricity,384.64,13,Denso,11.24
+3845838c-914b-452c-a145-900ba8def080,Axle,"Gear box, bridge, cardan",5.81,40,Bosch,2.98
+01f13e0d-237c-4bd0-af39-51b2c3cbef6d,Tire bluetooth sensor,Electricity,226.93,21,Continental,4.97
+d23b180e-e226-48aa-b13e-b3c0c8e9ef50,Front grille,Auto Body Parts,475.7,88,Denso,2.65
+ec02402f-ab6b-4dd0-8ff4-fa4dd37f4350,"Expansion Tank, coolant",Engine and components,133.6,48,Continental,2.48
+4a2a723c-8750-4bcf-b73b-7003e9f15a8b,Engine cap,Engine and components,406.94,15,Magna,1.69
+90e7202d-b176-47aa-ab8c-306775490353,Air filter box,Engine and components,339.51,52,ZF,1.4
+1ed371a0-3218-49e5-b0f9-75a46b4feb57,Winch,"Accessories, auto chemistry",221.43,33,Denso,14.68
+8c98d3ca-3cba-497a-b7d3-1d9b91a6a834,Shock Absorber,Suspension & Steering,144.06,69,Magna,2.72
+c7b1025b-edfe-408f-8c7a-02be23155a39,Wiring,Electricity,14.1,3,Valeo,3.22
+f8bbe522-2f5d-4e86-b31c-5f680f95a7d8,"Sealing Cap, oil filler neck",Engine and components,308.56,85,Bosch,1.94
+f77361f8-1eda-4224-b5be-3f11fd68c23a,ABS pump engine,Suspension & Steering,40.18,10,Continental,11.49
+0a012879-94ef-41b3-8b40-099f7dd4deb4,Expansion tank cap,Engine and components,494.73,90,MANN-FILTER,2.63
+4ca1832b-d1f8-44e7-b071-12672271b256,MAP sensor,Engine and components,348.8,13,Bosch,13.83
+0c2d1e14-5d31-4df5-8c37-7f7f67b2187f,Tire bluetooth sensor,Electricity,56.79,14,MANN-FILTER,1.29
+95f58312-6ba1-4e8e-b282-6c8170f192a1,Windshield Seals,Auto Body Parts,40.01,77,Magna,5.22
+f581d009-f0a6-49df-b847-e14fe7827930,Comfort block,Electricity,137.19,32,MANN-FILTER,11.35
+4f781779-a473-44eb-9fdf-cde2558e8315,Vanos,Engine and components,396.0,94,MANN-FILTER,12.34
+b9d71ce7-c025-48ee-9e08-8589b9cd4a3b,Rear panel,interior,71.24,63,Autoliv,3.3
+54bf72a0-0a82-4586-8afb-78ee3de30af2,Engine rear seal,Engine and components,66.48,59,ZF,9.17
+687dae3f-157b-4cb2-a521-681eab6a0e75,Auto service equipment,Equipment and tools,126.72,24,Denso,9.06
+ba6fa991-48ab-47f9-a5fb-b66d235be606,"Shaft Seal, camshaft",Engine and components,84.5,39,Denso,4.03
+e3b12e6a-7aa0-4b35-81ab-8bd015eca6db,Ceiling,interior,321.59,86,Autoliv,8.34
+b85a1900-2753-47d6-8dec-4c4bb97bcefc,Tire Care,"Accessories, auto chemistry",346.47,41,Continental,3.58
+7fbc4c9f-5df4-46bb-8752-edd8795d9691,Fender Liners,Auto Body Parts,21.54,15,Bosch,2.93
+8b72b2ea-7875-4d09-9881-2a536eb01624,Windshield wiper switch,interior,77.07,42,Magna,2.62
+82ff59d1-4726-4d79-bf7c-4049d5f0ae37,"Master Cylinder, clutch","Gear box, bridge, cardan",260.75,72,MANN-FILTER,9.31
+b98ae473-c028-4ea1-a623-20a0de795559,Jumper/Battery charger,"Accessories, auto chemistry",53.73,3,Magna,5.82
+c224bb07-d971-4d6f-a9cf-fce6611f3ee2,Disk Repiar,Equipment and tools,251.96,47,Valeo,9.92
+a26245a4-497a-41df-9ff1-33f6c2bfde2d,Windshield wiper switch,interior,230.56,5,MANN-FILTER,2.11
+cbb303c5-12a2-4ff9-b92b-88bee1e43b2c,Glass lifting mechanism,Auto Body Parts,465.53,16,Autoliv,12.63
+ee230583-58db-4407-b4b5-4419595393b7,Tire bluetooth sensor,Electricity,234.84,34,Autoliv,3.48
+910faac5-2bbb-4b01-b87b-a97d6a9fcd0b,Gas Equipment,Engine and components,487.29,42,Valeo,14.23
+646d434d-6093-4274-a72d-8929e2990977,Hybrid elements,Engine and components,388.36,69,MANN-FILTER,0.71
+0f5ca374-57a8-476f-9741-47d78aaa8361,Hood air intake,Auto Body Parts,195.65,31,MANN-FILTER,3.85
+8c875eea-c213-4683-a8b7-328fb7783b29,Power steering oil,Oils and fluids,201.92,19,Continental,14.39
+b7f9259e-a344-4fde-ad4e-dd6c3a77571c,Oil pressure sensor,Engine and components,226.06,31,Continental,8.96
+5a27b23d-f258-4bfd-a2be-064149327d42,Roof airbag,interior,57.37,31,ZF,9.08
+b172b4d6-a5e1-418c-93ca-5d5255631d06,Oil temperature sensor,Engine and components,442.4,41,Continental,2.89
+77fcd27f-535f-4875-bcc0-b0cc421fc0c5,Repair kit,Engine and components,145.79,29,Continental,2.7
+ef47b433-62b9-4ac0-a93e-0f890f2b5f26,Trunk upholstery,Auto Body Parts,405.25,100,ZF,11.72
+6ca3f06a-d13b-4880-bfab-1cef5f891973,Heater radiator,Engine and components,88.33,36,MANN-FILTER,12.4
+e35be359-49c4-4d49-a1ed-198b3cb77b89,Cold air inlet,Engine and components,106.59,68,Continental,7.13
+2ef510ff-eb41-4886-af03-440d75580719,Coolant Flange,Engine and components,321.07,58,ZF,11.94
+56cb1177-3888-4ae2-bf01-d83ac6d2ee43,Gearbox computer,"Gear box, bridge, cardan",351.36,35,Denso,0.51
+412f5435-7612-4bbe-a308-2605b351e30e,High pressure washer,Equipment and tools,291.99,99,MANN-FILTER,8.68
+7d5e7934-1b12-4f28-ba72-b994f5b84280,TAOT,Oils and fluids,111.94,25,Valeo,10.26
+856f6962-73b7-4c0f-9e41-c537bfed6c8d,"Tensioner Pulley, timing belt",Engine and components,217.44,8,Denso,4.36
+079293a7-5305-4e1c-89a3-fe2e2cfc6e0b,Disk hub,,372.3,38,Autoliv,1.17
+f109a9f4-ffb3-4ade-a82d-c27a816e97a7,Diagnostics device,Equipment and tools,262.79,9,MANN-FILTER,10.85
+ae49c4fc-a50e-4ae1-a72d-909ff88abbb5,ABS block,Suspension & Steering,164.68,17,MANN-FILTER,8.94
+24f3ae0e-6ca2-44b8-a9e8-8bedfbf27bd6,Rocker panel moldings,Auto Body Parts,177.2,5,Denso,11.19
+593cb34c-0dc0-4de4-8f70-2e1b79f5a8b5,Glass lifting buttons,Auto Body Parts,374.36,95,MANN-FILTER,12.87
+cca2bdb5-df96-433d-9eae-9dfbfbb85a23,Gasoline pump,Engine and components,379.48,96,Valeo,9.33
+cb011e65-96bf-4b9c-8f51-dd17882a546a,Ashtray,interior,365.09,41,MANN-FILTER,11.92
+9196c95d-a647-4092-9d3d-6f4ab6ef55d3,Wheel Hub,Suspension & Steering,424.83,79,Denso,9.7
+1f74c5ac-32ae-48e0-8d45-5ea5d19ca3c9,Hood Moldings,Auto Body Parts,396.64,69,Continental,0.79
+f9bf9971-cf6c-4c3c-83d9-b48fe1ca0dac,"Flex Hose, exhaust system",Engine and components,349.53,71,Denso,11.06
+037783f4-a738-4579-af42-f06723f33975,Crankshaft seal,Engine and components,169.52,46,Magna,13.12
+e21ac2af-1520-4cea-81d3-c93e62a9b989,Brush,"Accessories, auto chemistry",17.82,81,ZF,7.82
+5154c8d5-98cc-4095-a52e-feb548d3640d,Oil pressure indicator,"Accessories, auto chemistry",50.06,66,Valeo,2.8
+499ad9a9-4912-474f-b367-9a890abaf086,Control module,interior,172.53,59,Autoliv,8.89
+9d9f787f-f374-42a6-9567-f10ed84ed4a6,Tie rod ends boots,Suspension & Steering,408.09,20,Magna,3.51
+904cc5cb-2d78-4659-9a67-faa83e13df14,Engine piston,Engine and components,206.98,79,Denso,0.56
+7c5dda49-8d2b-42b4-acf7-33f5fb39c0a6,Oil level sensor,Engine and components,233.29,61,Bosch,1.33
+eb1f69e6-34f2-4ff0-9cde-6e714f164520,Front windshield,Auto Body Parts,280.32,25,ZF,12.95
+e2684252-55bc-4381-910f-f6c0186f0ea1,Wiring,Electricity,458.1,95,ZF,2.38
+7f6e52a4-1b67-4f78-9caa-6a859eb71e12,Remote control of special machinery,Equipment and tools,454.72,85,Denso,14.04
+9fcebbbd-a886-4f78-a809-7ad58cb8cac4,Catalytic Converter,Engine and components,62.83,41,ZF,14.53
+ce02ab1c-3dc3-480e-bbea-dc00e9c1df8d,Steering knuckle,Suspension & Steering,236.95,22,Magna,11.19
+6fd8201d-02be-43e4-aa32-1ee4e1cdcdb0,Seat handle,interior,443.39,39,MANN-FILTER,4.24
+fd9f0317-b3df-4793-9ee1-d8fda8a04cfa,Trunk,"Accessories, auto chemistry",377.76,14,Continental,3.5
+b86b1763-cfff-45f0-a691-a9080520c947,Front Seat,interior,405.26,78,Autoliv,13.74
+463bb419-733b-402b-a90b-79b0242c4402,"Full Gasket Kit, engine",Engine and components,219.97,46,Magna,6.66
+73254210-e747-470f-97e2-051aba3e9054,Fenders,Auto Body Parts,51.53,27,Magna,6.24
+65bbcc3d-6216-43ca-a5ef-1699d8920b4c,Gearbox filter,Filters,380.78,80,Continental,2.71
+9640b68a-afd4-4564-8b27-35049aebcf4b,Car perfume,"Accessories, auto chemistry",244.7,59,Continental,3.26
+fe5fa536-33e3-41f6-9ed1-28647dfc8e1f,intake manifold,Engine and components,413.22,7,Autoliv,12.64
+f88587f6-5a8d-43df-b02e-dbf1c420038d,"Clutch, radiator fan","Gear box, bridge, cardan",319.87,47,Denso,3.42
+129a9b58-9135-4165-8d88-9c81bbc60ea7,Engine piston ring,Engine and components,199.77,53,ZF,6.92
+ce58c45b-d383-4e7b-b104-4f830866b624,Outside temperature sensor,Engine and components,53.78,98,Valeo,6.99
+ba6e8533-d231-4ea7-91eb-1777b693ec04,Gearbox Carter,"Gear box, bridge, cardan",51.68,50,ZF,5.13
+b60de515-81e2-4687-aefd-0afe99620ace,Air conditioner radiator pipes,Engine and components,213.37,13,Continental,2.28
+e016b9da-a609-41dd-8507-4c3b873554da,Other,Electricity,174.52,90,Magna,10.23
+d5bafd81-bfe3-413d-a84c-7d29d34ec107,Child seat,"Accessories, auto chemistry",98.52,13,Magna,4.92
+6fdd23d2-11a6-44cf-be2d-81371e47f56c,Headrest,interior,428.1,81,Denso,12.09
+57ab9d1e-84d7-4145-a397-54126f80a2f5,rafter,Auto Body Parts,216.67,46,Continental,12.91
+c50496e8-0e60-45ab-a126-68fcb15bca86,Bridge and transmission,,209.94,20,Valeo,4.81
+8be18dae-dd43-4b4f-b8dc-07cb16143533,clipper,Auto Body Parts,454.94,12,Denso,11.79
+07fabb58-e692-43c9-b1b5-6de67dad265b,Gearbox traverse,interior,230.71,26,Continental,2.12
+32d73b4d-2f35-455f-84de-6bb7f3deb350,deshboard Ventilation grilles,interior,271.85,39,Denso,14.44
+c03bead3-1df5-439c-8c14-6689a85b8441,Bumper,Auto Body Parts,121.65,95,Magna,4.46
+c90c340d-b59d-4aba-b433-d20157b4505d,License plate frame,"Accessories, auto chemistry",335.18,18,Denso,13.28
+03b5ef39-8c6d-42ea-a4a6-d4441ba31bef,Bicycle rack,"Accessories, auto chemistry",203.46,73,Magna,4.56
+238f3e38-3355-4c52-bc63-ac42781fae37,Catalyst sensor,Engine and components,106.2,82,Autoliv,2.13
+99dab932-e968-447c-9244-28d34b065a62,"Bellow, driver cab suspension",Suspension & Steering,166.92,4,ZF,14.38
+96ab93c7-6768-4445-9edd-9d1555129b4f,Body reinforce,Auto Body Parts,409.84,100,ZF,11.33
+1b78bc35-09a8-44c2-aa25-f25b917d1934,Hood regulator,Auto Body Parts,118.62,52,Magna,14.89
+cbe5e746-1945-4246-9d20-bb0be82b0df0,Selector cable,"Gear box, bridge, cardan",245.46,70,Denso,8.39
+be7c6761-e75f-407a-8a8f-4cfb3ed32ccd,Hood Moldings,Auto Body Parts,135.6,84,Magna,14.33
+8ec5f9ea-710f-4c9a-9346-fdb4351a2ae0,Roof airbag,interior,11.58,74,ZF,9.4
+3b940df4-2e23-4509-a8bc-1fb1cc3e8afa,Carter,Engine and components,498.51,48,Autoliv,6.37
+1a5f4eae-3369-4a86-b6a9-fe38442eee5d,Floor Pans,Auto Body Parts,111.45,2,Autoliv,14.09
+62646810-157a-46ab-bc59-91701db0622c,Engine cap,Engine and components,53.67,83,ZF,4.87
+9f33982f-7f04-44f6-b0bc-84766966a24f,Cardan Bearing,"Gear box, bridge, cardan",282.57,100,Autoliv,10.82
+8b531e08-ee40-4794-9008-599b9b6a9dd9,"Bushing, axle beam",Suspension & Steering,36.29,72,Continental,11.45
+625f2ab1-6f79-4407-ba2e-b90ac29e7e1c,Electrical wiring of the trunk,Auto Body Parts,172.72,39,Autoliv,9.77
+b9244e86-5782-4ced-b000-8b642a2a414c,Sunroof engine,Auto Body Parts,173.03,30,MANN-FILTER,0.6
+1e3b46db-c7e0-40b5-962b-44fd837731df,Gearbox filter,Filters,182.04,74,Valeo,7.33
+b5c8fb70-61a7-4734-a9e2-732c030bacf6,Trunk curtain,Auto Body Parts,238.27,93,ZF,7.19
+7194cbf8-e27f-4115-a1e7-8da59238ee2a,Diffuser,Engine and components,172.23,3,MANN-FILTER,1.96
+fce37b7c-7556-429d-8def-e93526195d8a,"Gasket, oil sump",Engine and components,357.28,59,Denso,5.71
+3dd035cb-5c17-4ccf-be03-44d7389d15f9,"Caster Shim, axle beam",Suspension & Steering,404.02,62,Denso,7.31
+b5b341c3-5294-4f65-8990-249edc7c6fd6,Engine block,Engine and components,100.66,42,Denso,4.81
+0356eb07-21d8-44a3-9082-4e24c2c49143,Headlight Molding,Headlights and lamps,485.22,77,ZF,4.72
+56ee6109-ed75-4dc0-961d-43d479926893,Trunk board,Auto Body Parts,240.54,81,Denso,8.45
+7797eddc-995d-4508-816e-aeea9010c579,Battery stand,Electricity,149.17,91,Bosch,14.49
+4413fe1e-4e6a-4f73-983c-f2236e095433,Polishing machine,Equipment and tools,223.78,37,Continental,12.76
+7d0794ad-d9df-43c2-b7ab-487c2b424734,Fuel high pressure sensor,Engine and components,433.49,82,Bosch,13.78
+6cc9df33-d5ac-47c5-a405-435e008143f7,Free movement sensor,Engine and components,471.23,87,Bosch,6.23
+0138146d-57c9-4b31-bdaa-decfc6bc9ff8,Front dashboard airbag,interior,351.49,89,Continental,10.61
+7987b64b-022d-45ec-805f-19f9acaeb0d9,Windshield fluid,Oils and fluids,20.2,84,Denso,9.83
+be3c65a4-9e62-4d03-8a2a-59a2f68015e2,Front Seat,interior,200.31,97,Autoliv,4.76
+407a2d96-0051-4e9f-ad7c-6acee44a71aa,headlight washer cover,Auto Body Parts,26.67,66,Autoliv,5.85
+337508b8-926b-4812-8282-54839f4b45fc,Headlight,Headlights and lamps,348.99,100,ZF,14.13
+6c7ba08a-4df1-4c96-a871-25db7e15860a,Rear Muffler,Engine and components,462.63,38,Magna,10.48
+5ef9f654-8c47-44a9-a7ab-d55b56b6bdc6,Washer Reservoirs,Auto Body Parts,417.97,87,Valeo,11.89
+00a17b0b-10cd-4c81-8a3a-f54723934024,Control module,interior,259.22,67,MANN-FILTER,4.04
+9ce199e7-c03d-4aa7-8cb2-2a048f95e115,Water cooler bushing,Engine and components,154.34,51,ZF,9.83
+48899dae-8f0a-48c2-b8a6-4ffbedcc26d7,"Rolling Bearing, suspension strut support mount",Suspension & Steering,443.18,92,Valeo,4.28
+0cbfa47a-e8f9-4188-af16-7626d4217a72,Bumper,Auto Body Parts,320.94,41,Bosch,9.67
+11b22dfa-9c76-47d9-980c-34a18ceb1508,Engine computer,Engine and components,281.47,85,Bosch,14.24
+e9e5e566-44db-48ed-a24a-1004ebd856d7,Gearbox computer,"Gear box, bridge, cardan",54.03,78,Autoliv,4.7
+ac0380d0-cf03-4a99-a69a-dd579d2a0ca8,Wiring,Electricity,316.96,91,Continental,7.92
+2d52b2b9-76f8-4cf4-8cec-aaead1a2001a,Hood Hinges,Auto Body Parts,466.37,13,Denso,0.94
+445b5423-56f7-42d3-9484-ae549384ba82,crankcase ventilation valve,Engine and components,165.86,18,Bosch,11.91
+b16bb91f-71df-4d09-a2d6-7c83ba3b9989,Hood rubber,Auto Body Parts,240.2,25,MANN-FILTER,7.72
+ed2e1ac0-5f51-4f3a-9866-84ad3a1de4de,Transfer box oil seal,"Gear box, bridge, cardan",158.69,69,ZF,4.9
+eebdbc48-eef8-4dfb-ab07-25aa84946ffa,Fuel high pressure sensor,Engine and components,282.18,12,Valeo,5.93
+65714c71-6946-43bd-8779-1f9b6268cdc3,Engine crankcase gasket,Engine and components,203.4,65,Autoliv,7.91
+df366314-454e-40a2-82be-78cacaabd3e8,Polishing pad,Equipment and tools,53.5,14,Continental,4.27
+25498709-cb8c-4cf1-a766-d996842c6595,Additional lighting,Headlights and lamps,475.35,65,Valeo,1.62
+67e8fe46-647f-4feb-a610-706c5037d4da,headlamp glass,Headlights and lamps,84.51,66,Valeo,1.03
+8e87fc54-7fce-46e9-9bb1-a5bf4fd2be9b,Relay,Electricity,314.06,49,Bosch,12.42
+977ab9e8-806c-409d-8d08-0c4c5cd5b122,Engine Gear,Engine and components,161.8,78,Autoliv,5.85
+72de6ebe-178e-4191-81a0-f7b8c27c818f,"Wheel nuts, secrets","Accessories, auto chemistry",114.19,12,Magna,14.95
+e7e8e78c-3a4a-4e7a-afba-69145108deef,Front dashboard airbag,interior,116.5,34,Denso,10.37
+084c9d20-f60b-4bdb-bd05-8fed33b5618c,Door handle,Auto Body Parts,289.33,60,Valeo,10.46
+29da36e7-7fa4-4acd-98e2-23612ef0b621,heater tap,Engine and components,194.21,90,Valeo,13.82
+837fa0bb-8ffc-4519-837f-aa2d3979d962,Trunk liner foam,Auto Body Parts,96.28,93,Magna,9.96
+78d9410f-9ee8-4e03-b575-198281cd5660,Inside door handle,Auto Body Parts,118.63,24,MANN-FILTER,10.23
+82be01c6-2093-4662-916d-ef71b8a675dc,Road safety,"Accessories, auto chemistry",104.85,25,MANN-FILTER,6.53
+2b8749ba-696c-4ba6-9fcf-6ad135ef25bd,Windshield fluid,Oils and fluids,399.77,93,Autoliv,4.77
+cba305dc-e50f-4bf7-92b4-478a8a3337c4,Cabin wiring,interior,417.82,3,ZF,0.71
+2a442387-7e21-461f-9e0c-93d5a11a3b53,"Mounting, transfer case","Gear box, bridge, cardan",258.73,68,Denso,2.73
+e428306a-6f1c-4cbf-a821-e45c999ee1f7,Gasoline pump,Engine and components,137.29,87,Continental,14.01
+4ee2ccc2-43d4-4f57-8c19-c77887f07b3c,Other (engine electrics),Engine and components,102.67,75,ZF,2.46
+d6fcc5d6-791c-47e1-89b4-519211d28da6,"Gasket, oil sump",Engine and components,363.61,95,Autoliv,4.4
+e9f9b21c-1699-4bc4-b178-ec7c2b211ba3,helmet,"Accessories, auto chemistry",191.58,14,Magna,6.58
+5a70fc6c-04ba-405f-b19c-783bd93e6fff,Changer,interior,208.92,36,Denso,7.01
+51102a23-da49-4f98-a4f8-e18b725b68c6,Electric generator (dynamo) belt,Engine and components,390.29,16,Autoliv,6.36
+53955ac1-6a8b-41ed-a8aa-478c0ed513bc,water tank,Engine and components,65.97,56,Bosch,14.36
+dc76fc56-7de6-4c81-910f-2d74fc449585,Coolant,Oils and fluids,154.08,81,Autoliv,2.76
+25bb4722-2d2f-4295-9764-c602e81e2255,Oil pump seal,Engine and components,462.47,40,Autoliv,8.19
+863ba697-d20d-4f17-930f-443aefa17bd3,Diagnostics device,Equipment and tools,24.17,90,ZF,3.21
+bdde185f-59d5-4578-b300-6cc9be0a031f,Bumper grilles,Auto Body Parts,148.4,28,Autoliv,10.31
+ba3011aa-a6bd-43ff-b3bc-99570c175ee2,Engine computer,Engine and components,142.42,95,Denso,5.26
+6f8e929c-7124-42e7-9683-15abf0996711,Headlight cover,Headlights and lamps,463.08,6,Valeo,1.61
+cb25a496-1c68-4cb2-9424-684aaa41b7a0,Detergents,"Accessories, auto chemistry",216.7,35,Bosch,14.83
+f7b6dc4a-318b-463f-8fdf-9a59556ab920,"Bushing, axle beam",Suspension & Steering,207.18,36,Magna,4.55
+57a6f1a6-042d-482e-9552-af159c3a7c0e,Fender intake,Auto Body Parts,39.85,43,Bosch,4.97
+294f2556-e900-4719-95b2-9f9e703f64c2,Vulcanization installations,Equipment and tools,472.21,67,ZF,12.32
+007d2165-b39d-45e2-92c1-ff04fc85b729,Shock Absorber,Suspension & Steering,119.53,70,ZF,6.63
+24b772d4-9437-4955-be76-ec78bfccd0a9,Hydraulic pump,Suspension & Steering,182.53,56,Magna,4.02
+1637c5af-8d42-4644-9670-6e2d6dfd7707,"Thermostat, coolant",Engine and components,11.89,4,ZF,1.34
+4ddcadd4-1da0-45bc-ad14-72fcaf988cf0,Gas Equipment,Engine and components,352.32,34,Bosch,13.93
+ef9494aa-6e1a-40a3-81b7-fc3ccb44a544,Indicator panel,interior,238.11,24,Magna,7.27
+4017409f-a921-45b7-9694-69194c5e841f,headlight wiring,Headlights and lamps,255.05,44,Magna,7.28
+0d5e9079-d1db-4f25-8b1c-b9a84d57d60b,Resonator,Engine and components,197.47,47,Autoliv,2.74
+b8912643-2520-44cf-98bb-6452b331a5cd,Sunroof,Auto Body Parts,217.02,81,Autoliv,1.45
+b84af728-d833-45cd-90b5-9034f034181e,Transfer box,"Gear box, bridge, cardan",79.45,6,Valeo,10.82
+7e605163-9c6d-49d4-be68-118972c53145,Spare tire clamp,"Accessories, auto chemistry",307.79,49,Continental,14.91
+5b0a0262-e634-4fc0-b76b-7af0f737012f,interior upholstery and trim,interior,413.52,10,ZF,0.67
+df37bfc0-79ed-49d4-a87a-9f6fd951fa9a,Diffuser,Engine and components,9.87,56,Continental,14.31
+cae920b1-50f6-4705-b242-7a341a824414,Gearbox gasket,"Gear box, bridge, cardan",123.18,77,MANN-FILTER,7.41
+1853b0f9-5f24-400e-b34e-eac3f76e927e,Water pump rotor,Auto Body Parts,424.33,31,Magna,14.24
+00c1e66c-e821-4ae2-8ae8-b279ae7cb86b,Door hinge,Auto Body Parts,5.56,68,Magna,6.42
+d5cec646-d7af-4335-9ab6-408c285d3bb9,Trunk board,Auto Body Parts,336.5,54,Continental,5.53
+e88eb387-974a-4a35-a18e-a4d7c1e0501a,Fuse box,Engine and components,170.31,47,Magna,13.28
+3edae52b-0990-4b88-a787-dd10345d61ad,Water temperature sensor,Engine and components,335.32,67,Autoliv,4.77
+05078fdb-308c-4ca5-9ce9-987e8354cafc,Water pipe adapter,Engine and components,297.25,21,Magna,5.46
+3bb13382-7957-467d-b8ea-fccca3939839,Fenders,Auto Body Parts,326.23,27,Continental,12.4
+e674b002-253c-4432-9801-16d60f5471d4,"Deflection/Guide Pulley, V-ribbed belt",Engine and components,489.44,41,ZF,13.45
+4a673001-1740-4d8b-bac1-e474c5bb9582,Тool kit,Equipment and tools,483.91,46,ZF,3.48
+88381f8f-1cb6-4846-a534-009070b0700c,Parking Distance Control,Auto Body Parts,304.49,69,Magna,1.55
+cdf2ce93-97be-4bea-9a7d-f122f13b4ad7,Vulcanization installations,Equipment and tools,346.33,95,ZF,0.92
+bf9b86d7-52ca-48e1-a432-ffeb0665db34,Tail light wiring,Headlights and lamps,339.62,86,Bosch,14.34
+48e91024-31ad-4214-8307-8e369687d845,"Intake Hose, air filter",Engine and components,187.72,4,Continental,6.52
+a6fefac9-bac5-4ed3-8f87-3a24381c5db2,Battery,Engine and components,129.75,44,Continental,11.89
+e9bf58a0-22f9-423f-b7cc-7d57c86d9225,"Bellow, driver cab suspension",Suspension & Steering,65.15,9,ZF,14.67
+5c054507-c328-4342-896f-f3d60870eb58,Hydraulic coupling,"Gear box, bridge, cardan",213.48,36,ZF,7.92
+653663be-5105-4f85-b54d-d3e313887c37,Shock Absorber,Suspension & Steering,367.1,65,Valeo,8.98
+63db24dc-3366-4376-8089-bdcc076c5ed9,Engine block,Engine and components,424.34,95,ZF,3.72
+b77dda30-8ec1-4d3b-8e9f-6061b65a436c,Hood regulator,Auto Body Parts,359.71,63,Denso,2.52
+127e3e0a-855b-4b85-bdb5-92011153d3cf,Headlight,Headlights and lamps,306.28,93,Valeo,8.35
+5387cd75-ccb0-4d0b-a2cd-74b54da43bc1,Engine rear seal,Engine and components,181.28,27,Bosch,7.9
+04375120-7f36-4771-baad-ee632363def8,Trunk Lights,Auto Body Parts,6.95,78,MANN-FILTER,7.87
+c40652cd-8300-48ac-ab88-5b79f9ffbd49,Cardan,"Gear box, bridge, cardan",167.1,30,Bosch,4.97
+203e2a3c-6739-4b35-9423-9081c7c2d462,Heater pipes,Engine and components,76.73,30,Valeo,12.67
+36b4f760-407b-4a00-a0cf-f4859ff609d7,Lubricants,Oils and fluids,216.53,79,MANN-FILTER,14.44
+117b8363-749e-468e-a980-213faaf0a2f3,"Master Cylinder, clutch","Gear box, bridge, cardan",485.48,40,MANN-FILTER,0.86
+bb25ca72-3c1c-45f3-a4c5-c6ddbacc289a,Brake Fluid,Oils and fluids,300.87,20,Autoliv,0.82
+77940d47-8c06-46ff-849d-4ae3c8d9067a,Engine chain,Engine and components,412.92,91,Denso,13.64
+8ab434af-a428-4e2a-9400-b8ecfb4a6ef5,Fuel tank throat,Engine and components,169.84,100,Denso,2.06
+be61a386-656e-43fc-8112-d9ef7e503f7a,Torque counter sensor,Engine and components,222.03,56,Denso,11.83
+b5d29daf-4846-446e-83c3-c7b87c783f38,Vanus valve seal,Engine and components,259.98,95,Magna,0.6
+3d0f9032-3087-44fc-ae57-1b36159c257c,The trunk emblem,Auto Body Parts,466.57,20,Denso,8.49
+a8f374e2-f901-4004-8067-5ec0008dbb92,Fog Light Trims,Auto Body Parts,310.19,90,Magna,7.67
+7e628ca1-e0d4-45e9-ba6e-59a564cdd060,Clutch Kit,"Gear box, bridge, cardan",479.13,53,Autoliv,3.72
+0d2b3a98-dc03-47d5-a020-1df11aceafb3,Gearbox selector,"Gear box, bridge, cardan",132.73,33,Bosch,12.72
+81121e8f-904f-4014-8dc8-fd09fdeb53dd,Leading Arm Bushings,Suspension & Steering,93.39,30,Magna,10.64
+391f0c72-610f-44c2-b392-f633cb318be8,Hood Release Cables,Auto Body Parts,101.06,65,MANN-FILTER,12.96
+814db726-a967-49b3-ab54-6cdab3597dfe,Phone holder,"Accessories, auto chemistry",148.65,6,Bosch,6.41
+4a542b01-0810-409a-b42c-2eab3bcf4194,Xenon module,Headlights and lamps,82.04,29,Denso,10.43
+fdc313eb-c966-4c17-b445-c5fe5cd79b62,Gearbox gear,"Gear box, bridge, cardan",236.03,64,Denso,13.01
+040c46b0-1cad-410e-b818-d69e1cebfe39,Reflector,Headlights and lamps,220.98,10,Continental,4.64
+69d5341f-e2d3-4a97-8f85-f7ecdde1d799,Stabilizer bar bushing,Suspension & Steering,387.92,44,Denso,12.4
+a1cfbfcd-06cf-499b-bf58-107eb0098b42,Back seat,interior,54.63,57,Continental,2.11
+97f7b2af-d65d-48f2-b554-e247ecff04db,Seat handle,interior,252.64,77,Denso,0.91
+0737b169-d21b-445b-bac0-01a52bf1541a,Shaft,Engine and components,331.81,8,Valeo,12.71
+37eb1acd-d51c-4517-8012-0ccd354eaf7c,Electrical wiring of the trunk,Auto Body Parts,217.82,72,MANN-FILTER,14.62
+a8ff255e-6415-4ce2-a0fc-619d9b51b288,Fenders,Auto Body Parts,494.51,21,Autoliv,3.94
+537f2fec-2198-4513-9233-092e045813b8,Pedal,interior,378.25,81,MANN-FILTER,13.93
+ee1784f3-6589-40ac-a1bb-f7d1f60d58cd,door wiring,Auto Body Parts,445.12,13,Denso,14.73
+e737aed1-ebea-4049-af45-8c6292aebff5,Car headphone,interior,36.87,11,Continental,14.19
+861f6cc8-4f09-47c7-994b-589152750213,Spare tire clamp,"Accessories, auto chemistry",460.73,88,Magna,5.26
+8eaedd26-6fba-48a7-befc-467e926326a8,Oil Pump,Engine and components,96.25,34,Magna,13.26
+010f243a-f84b-400c-97a0-2b4a6dc7af96,Trunk lid damper,Auto Body Parts,340.99,18,Autoliv,13.84
+e53a6a7d-e3d3-4f09-972c-a8aaa85a309b,Trunk Locks,Auto Body Parts,261.75,13,Magna,9.02
+b1f4a78d-acff-4ae5-89cd-ab1c34b1e4ff,Wind Defender,"Accessories, auto chemistry",464.44,52,MANN-FILTER,1.44
+ef359faa-83dc-4bb2-922c-4ca47633163a,Rocker panel,Auto Body Parts,443.73,43,Denso,12.97
+31d7f1c3-9ff5-467d-a797-fb9ba69f5198,Changer,interior,88.27,49,MANN-FILTER,7.64
+163614ac-29ab-4997-842c-734712e88689,Trunk duct,Auto Body Parts,305.05,8,Magna,8.78
+9765ba39-52da-4e8a-8f1c-f93b29bcb4e6,ABS block,Suspension & Steering,261.38,13,Magna,7.15
+8f85b99f-a087-4692-a9f7-da140ce36ba0,Engine pad,Engine and components,57.4,54,MANN-FILTER,14.4
+e13b526a-0267-439d-8ee8-f1de25f7a361,Fog Light wiring,Headlights and lamps,383.1,4,ZF,13.78
+9813d535-9c35-4285-8a95-ba09cf28c897,Center pillar,Auto Body Parts,440.04,88,MANN-FILTER,8.51
+7cb99c30-97af-4560-8c62-59d4c565dbdd,Changer,interior,340.5,39,Continental,1.4
+91e4b7cd-5519-4922-b5a4-26c9e5b8098d,Door Glass,Auto Body Parts,499.97,19,Denso,12.83
+90c7581a-d819-4062-9a1d-24a8894e4c59,Camshaft sensor,Engine and components,435.94,60,Bosch,1.36
+4de26d00-edd4-4b5b-a3d1-c0fcb38e64b5,Air filter box,Engine and components,448.82,44,Valeo,2.16
+cbf6ca0c-abda-4a33-8d63-118bba83e32e,Handbrake engine,Suspension & Steering,135.28,97,Denso,8.9
+bfc98c14-4b67-44dd-a2d6-5556a45fb966,Engine Belt,Engine and components,389.49,49,Magna,11.78
+fecbdf68-f2e8-4591-80c7-4ad8ee89cd47,Reinforcing pole (balka),Auto Body Parts,483.06,6,Valeo,11.85
+f44c637f-d42a-4e85-bcc6-1e0727da8f6c,Fuse box lid,Engine and components,453.72,62,Valeo,4.45
+93cb07f5-9ba6-4f18-8dcc-6c3976ec1a86,AC compressor,Engine and components,318.34,54,ZF,1.6
+3521eb17-2494-465c-8bae-dd72ea567e18,Side glass of the body,Auto Body Parts,274.39,79,Continental,8.51
+a68c422e-9b07-4112-8917-17528a165f26,Balancer,Engine and components,59.11,16,Denso,9.94
+182359ad-c3a1-47ed-960e-ec585e8740e0,Parking Brake Pad,Suspension & Steering,217.58,5,Autoliv,14.72
+091c9813-12ec-48a3-b412-479025e8c457,Axle seal,Suspension & Steering,302.26,47,Denso,7.58
+96217b68-f2c7-4782-a52d-9fa8370e1e04,Reinforcing pole (balka),Auto Body Parts,447.94,41,Denso,13.76
+dfc5d7df-9f81-4630-8068-80bdf3c3d8d0,"Bushing, axle beam",Suspension & Steering,252.62,38,Denso,11.01
+5a77ffd1-5a78-4690-b053-f1cb0dc39247,Mirror glass,Auto Body Parts,236.78,15,Magna,12.65
+e577152f-655f-4689-bac7-7484ff1ea1a8,Cabin buttons and switches,interior,89.43,31,Autoliv,7.89
+fc0b2323-78bd-4cfe-9c7b-e0aedebc192f,Disk hub,,469.33,61,Magna,6.71
+c1d9b8bf-affa-49c6-97dd-6eb65abece2b,Vanus valve seal,Engine and components,336.77,62,Autoliv,4.41
+e9ee4c92-36bd-4308-af3d-1ce387410d91,"Slave Cylinder, clutch","Gear box, bridge, cardan",321.57,0,Denso,7.32
+277e767c-ba4d-4317-81e5-91b7a8bec017,Sensor,Electricity,31.8,89,Denso,12.73
+bc5df28a-be04-4b29-ad19-17f1014da94c,interior upholstery and trim,interior,31.75,85,ZF,8.12
+0ab07ba0-3ae9-47d4-b29d-016112560bcc,"Cap, radiator",Engine and components,328.73,33,Valeo,11.57
+b5c42c0f-35d5-4828-9a29-32fe74a32698,Hydraulic tank,Suspension & Steering,169.26,38,Valeo,4.64
+7557b723-0b8f-4eb4-8600-a1199b153793,Rims,,21.97,32,Denso,4.4
+7a931fc6-cd6a-4ed4-97fa-16d0b1da550c,Gas bottle,Engine and components,29.33,8,Autoliv,13.76
+4ed3a307-670b-461b-92ed-dba0b9a318cc,Battery stand,Electricity,348.75,36,Denso,8.8
+2644fc34-af51-44d6-bb02-0c152ee0abda,Expansion tank cap,Engine and components,58.18,32,Continental,6.34
+de455515-ab54-4b2d-9296-1e03f0b97133,Hood damper,Auto Body Parts,229.03,43,Autoliv,3.28
+2a37072a-2a6c-41b8-b596-7b5f0b2e1b3f,ball joint,Suspension & Steering,25.15,31,Valeo,10.44
+41955ad1-ba68-4c8d-869b-2663142f3c7f,Seat cover lid,interior,443.43,57,ZF,14.75
+76902a16-b866-4d6d-a064-5fa27b4bf5cf,Gearbox Carter,"Gear box, bridge, cardan",483.96,31,Denso,1.97
+c7ec848d-3563-4750-a653-1024de4ca0c4,Fuel Feed Unit,Engine and components,298.29,30,Continental,8.27
+028aab09-04eb-40f9-8b53-2ddf092c60c2,Resonator,Engine and components,21.28,70,Denso,0.63
+a069ef56-0773-4a1c-b73f-4313b8268882,"Caster Shim, axle beam",Suspension & Steering,282.84,25,Bosch,6.54
+537fcc66-9375-4e4e-a5b5-653924577572,Interior accessory,"Accessories, auto chemistry",227.22,24,Denso,7.86
+0aa3d6cc-40ed-4313-a9f3-1b72da3a78dd,Engine oil,Oils and fluids,277.52,41,MANN-FILTER,8.76
+7411760f-7eb8-4d6c-9048-a1cf51aa5be8,Adhesives and sealants,Oils and fluids,203.7,27,Denso,4.97
+fadfb260-8dd3-46d1-b91e-e459b9a8b188,Headlight cover,Headlights and lamps,313.11,48,Magna,1.79
+a4a2bbec-507c-4c4e-bde3-e4722900f33e,"Warning Contact, brake pad wear",Suspension & Steering,110.0,41,Valeo,4.71
+f8359b80-d1df-45c6-8f06-7adb86f21a79,FM modulator,interior,343.0,66,Bosch,9.86
+b9a5ee8b-d87b-4026-9c57-1ce9f9b96213,Windshield Washer Nozzles,Auto Body Parts,447.56,43,MANN-FILTER,3.45
+2246e495-c2f7-4a7f-b9ff-6885237f2363,Body reinforce,Auto Body Parts,24.94,27,Denso,9.43
+84fe7749-7fca-4253-a446-b01c90414757,Changer,interior,229.96,82,Bosch,6.15
+8da06648-3af0-4b12-9e2f-e77893bef800,Engine chain,Engine and components,471.08,78,Magna,1.08
+6d0b15bb-187d-418e-8ad6-9e96c01a9f7d,Fuel additives,Oils and fluids,320.95,51,Continental,0.61
+1876b0ea-90da-48e0-8e35-deb88c8d9198,Gearbox gasket,"Gear box, bridge, cardan",199.74,86,Denso,1.38
+3fff8dda-6bd0-4c6a-a9ca-32d999a2a265,Transverse Arm (Rod),Suspension & Steering,148.03,85,Continental,8.32
+20310c3f-d06b-42d3-a69a-959a35235faf,Engine splash shield Engine splash shield,Auto Body Parts,335.5,11,Bosch,14.9
+2234346e-fd1d-4516-b554-f2644b3ff9ab,Changer,interior,469.55,5,ZF,4.62
+0a1516bd-6b2a-467c-9f25-4783d5060736,"Expansion Tank, coolant",Engine and components,302.92,26,Autoliv,8.84
+4ffcdd9f-580b-4acc-9083-8ffcee566369,Engine chain damper,Engine and components,484.2,70,Autoliv,4.59
+13ab8a74-a562-4709-9adc-922a2e921779,Control module,interior,200.1,43,Denso,11.77
+15049a54-db2c-4f29-b36e-5add1191f5de,Key,Electricity,366.24,77,Denso,6.69
+c7a49648-83a7-43bf-84b5-c2cae5afaf11,Relay and cabin unit,interior,47.97,79,Valeo,9.6
+e05ba203-83df-4cfb-a9a1-4c65711a8903,Radiator Supports,Auto Body Parts,349.43,18,Magna,5.38
+677bdd29-1969-4657-a354-ae9955475c90,Injector,Engine and components,129.61,19,Bosch,4.79
+80ef8dbf-7cf2-46f1-8d18-2d212df8341c,Mirror glass,Auto Body Parts,497.9,14,Autoliv,0.63
+6dcdf232-9bdd-4d09-bb92-c9926b9a4f3c,Knee airbag,interior,73.41,29,Bosch,10.26
+e8f01401-7ee0-46bd-9fe3-e775f454f221,Mirror Turn Signal Lights,Auto Body Parts,235.7,65,Continental,5.94
+260193d7-054e-4117-a2fa-385455a1d165,Oil additives,Oils and fluids,476.97,79,Continental,5.15
+c4749341-7e32-4f2f-9ac2-cd7c3b486b9f,Camshaft,Engine and components,225.19,43,MANN-FILTER,5.85
+8ee4582b-916a-427f-ad01-37530e79efad,wheel seal,Suspension & Steering,118.13,86,Autoliv,4.97
+bc8fc89b-0de0-46db-85fa-25b2ee6b7549,Hydraulic radiator,Suspension & Steering,394.25,14,Denso,11.22
+8387a50f-ae31-4dfc-8fa6-3b5d82f7aa98,Hood Insulation,Auto Body Parts,395.07,4,Denso,8.34
+65023747-39b8-436f-88b5-bb88f466e3fd,Heater pipes,Engine and components,132.82,90,Autoliv,14.03
+1d67a4a2-701c-460c-ae3b-82ec64b4765b,AC compressor,Engine and components,347.04,83,Continental,10.06
+60eec213-2007-48b3-b3b2-01dab82b8996,Charcoal filter,Filters,215.53,5,Bosch,10.89
+62badb3f-9708-4f81-8f31-296cc9aecb6c,Gas Injection,Engine and components,444.97,37,Valeo,4.99
+53cbf514-ed08-42d6-8c59-d79028015eda,Tire Care,"Accessories, auto chemistry",15.62,27,Continental,3.43
+51dcb550-6a50-4d26-98ae-5fc99e7fc88a,"Spring, cab suspension",Suspension & Steering,17.91,19,Autoliv,11.24
+0ad77b5e-368e-44bb-84b7-084ef0fb4398,headlight washer cover,Auto Body Parts,179.92,9,Continental,1.71
+f2ddfaf1-7a93-4411-b7a9-03806636d0c7,injector pump Shaft Seal,Engine and components,136.91,37,MANN-FILTER,11.99
+294bbac3-5ea9-452a-85a2-934d4f625aa7,Intercooler,Engine and components,454.84,59,Autoliv,9.32
+ab89336f-ae9b-469a-ac02-016bc7261e58,jump starter,"Accessories, auto chemistry",294.47,87,Valeo,3.42
+851969e7-3451-446b-84a9-7f9f77c5ab2a,Control module,interior,212.48,94,MANN-FILTER,10.94
+88ba789c-002b-48ea-8721-2e6bccd86679,Engine pad,Engine and components,155.94,21,MANN-FILTER,10.95
+a037a16c-b41b-42eb-aaaa-762ab3b2d0bf,Cooling damper,Engine and components,71.54,41,Bosch,2.97
+65aff30a-39e4-42dc-b557-13040efd01a4,Trunk Lids,Auto Body Parts,403.49,56,Valeo,13.62
+37ad0b55-bdb8-4a0e-80fe-06b884618560,Child seat,"Accessories, auto chemistry",13.75,89,MANN-FILTER,8.3
+47d3cb5b-ea53-451d-9f01-52b67f41a62d,Flywheel,"Gear box, bridge, cardan",346.13,92,Valeo,11.09
+7ddbd3d1-2d20-43f7-a846-8d3a73b0ce5c,Sensor,Electricity,204.98,61,MANN-FILTER,10.54
+c81d99b1-aa48-40d6-989d-9d4c546fa65a,Inlet manifold gasket,Engine and components,410.82,29,Valeo,13.43
+a554fb89-f743-4c0c-bc39-9a4120e5988d,Battery charger,Equipment and tools,71.27,91,Valeo,4.92
+6d2ba3ea-c44a-4cb1-81d9-498ef8e8d99a,Car pump,"Accessories, auto chemistry",398.91,4,Denso,9.88
+b63c2b5d-6289-4fd2-b8f9-5f1486205dba,Charcoal filter,Filters,148.25,29,Magna,7.81
+e2a9cc73-c80f-452d-90a3-579059c27d41,Gearbox solenoid,"Gear box, bridge, cardan",428.94,20,Magna,10.07
+5dd52cd0-5379-40b0-b021-8a18315905cf,Door,Auto Body Parts,90.85,36,ZF,5.06
+c51e07e9-8baa-41a9-a9c1-3d0d780d0ca4,Remote control of special machinery,Equipment and tools,256.07,44,MANN-FILTER,6.84
+dca3caca-1d86-4492-b32c-6397b26eddd7,Water temperature indicator,"Accessories, auto chemistry",432.39,38,Magna,13.98
+88705f5d-21d2-4b40-9208-162118891198,Hydraulic coupling,Engine and components,249.89,14,Denso,2.61
+aa01b979-036c-4164-acd6-dbbfde5c61f2,trunk rubber,Auto Body Parts,492.51,79,Bosch,8.87
+93788b69-c329-456a-95fc-f4b9d2ace812,Water temperature indicator,"Accessories, auto chemistry",369.25,30,Autoliv,3.03
+7783125d-ecea-4130-94e0-178ac080a70b,Lubricants,Oils and fluids,213.32,80,Denso,9.37
+bff0e30b-f274-421f-bee9-669a03db5970,"Shaft Seal, camshaft",Engine and components,21.94,9,MANN-FILTER,1.18
+c723b6a1-3a28-4d5e-9e7a-be5095ff3a1c,Diagnostics device,Equipment and tools,28.29,89,Magna,10.08
+b287f883-aef2-4bfb-bc4e-85e6a73e8269,Valve spring,Engine and components,14.04,50,Denso,13.73
+fe25c918-8e5f-43cb-8da8-4710c3d80521,blow off,Engine and components,62.46,1,Continental,11.03
+f73da26e-6968-4ab8-b195-7710a8aaa4ed,Brake Caliper,Suspension & Steering,411.79,85,Continental,13.88
+ebb21613-417a-4c95-880b-443bf8338f34,Oil filter,Filters,241.64,20,Autoliv,11.94
+231b674e-2297-470c-a63e-b4d116cc40f8,Muffler nozzle,Engine and components,33.58,91,Continental,12.32
+bd95e46f-738f-4ff5-a863-3ade596b7c0b,Fender intake,Auto Body Parts,175.15,78,ZF,3.4
+64d53bc1-060f-4f3e-9965-05329c12bb13,Brake vacuum tank,Suspension & Steering,301.65,81,Continental,3.0
+c623f1b3-ae4c-4405-ad15-5c5017010fbc,collar,Suspension & Steering,157.27,100,MANN-FILTER,7.57
+7a047828-0200-46e0-ac59-9e9637c9f450,Brake Caliper,Suspension & Steering,471.24,80,Magna,13.23
+dd24ef21-be04-4c51-9156-35682241a8f4,Fog Light bracket,Headlights and lamps,475.47,43,Continental,7.33
+ca4241ed-1183-4ac4-b513-ad91d1480cdc,intake manifold,Engine and components,307.01,88,Denso,2.33
+55288d35-5676-4259-8300-bea60ff03172,Hydraulic pump seal,Suspension & Steering,55.46,82,ZF,1.52
+97506583-267b-4ef4-b0b8-0f23da6a1304,body kit,Auto Body Parts,9.53,91,Autoliv,14.18
+9d1585dc-8c2b-410f-a31b-056a76d98e16,Repair kit,Engine and components,210.95,22,MANN-FILTER,1.84
+9f2a111c-3b9e-4a8f-8893-d80d262be18b,Imobiliser,Electricity,199.82,84,Denso,12.53
+65014571-f4ae-463d-84dc-01df8a53156b,Mirror glass,Auto Body Parts,60.52,7,ZF,14.84
+ff504205-7293-46c4-afce-16938ef3c726,Sound amplifier,interior,384.0,53,Valeo,13.65
+c71f25ca-2529-46d6-b933-dd9e2dcd59fd,Climate control panel,interior,202.72,45,Denso,4.61
+272e683a-9416-4d5c-b94f-35b6893b1e1c,Fog Light Trims,Auto Body Parts,223.74,52,Bosch,10.18
+8c856e91-048d-4911-a449-f433b7af9397,Front dashboard airbag,interior,90.91,84,Valeo,3.2
+a85d71c1-eb37-412a-a070-b88f5583fea8,Fuel filter,Filters,251.22,41,Magna,7.22
+8cf86ba5-a6f7-4846-aa13-1e258287d1e6,Radiator Support Brackets,Auto Body Parts,96.49,25,Autoliv,3.61
+89249dee-096f-48c2-8f05-c1147ca123d5,Ceiling,interior,74.48,81,MANN-FILTER,0.69
+168b37b4-3525-4730-a218-c43d1449b0d0,Inventor water pump,Engine and components,212.99,80,Continental,1.35
+45c9ae52-fe6e-4ed7-8a30-2095c54fe1f2,Roof,Auto Body Parts,21.56,96,Valeo,2.46
+5a5eb9c4-1b30-4c11-94e8-5a836432ce9d,"Gas Caps, Fuel Doors",Auto Body Parts,105.02,91,Continental,1.83
+11f5d47d-d12b-4e53-b8b4-280d6df09fa9,Transfer box oil seal,"Gear box, bridge, cardan",136.94,47,Continental,12.84
+366bbc95-8550-4e21-bc19-2c62a7731979,Engine cap,Engine and components,224.26,82,MANN-FILTER,3.23
+3aaf9e25-f4b2-49d5-a57d-a14dddfe42b4,Car perfume,"Accessories, auto chemistry",157.99,12,MANN-FILTER,4.14
+700036c2-fdff-4c9b-9c9a-5afa1ae1f07d,Suspension beam,Suspension & Steering,61.48,53,ZF,13.48
+db6675eb-cbab-49dc-bc61-6c969b93cf85,"Bushing, stabiliser bar",Suspension & Steering,401.93,30,Bosch,3.79
+479b65ad-53c8-40e9-a8fc-86c3df84f17c,Wind Defender,"Accessories, auto chemistry",471.36,51,Bosch,6.07
+beb519c6-049a-4700-9206-e09bac44b927,Relay,Electricity,306.31,59,Autoliv,12.53
+791ff6d6-f031-404a-9a89-ad029a527947,Disk hub,,438.82,74,Magna,7.68
+b6a3876b-5c70-4af6-9772-4f5a5d5171f3,Cabin filter,Filters,463.6,25,Continental,5.74
+4d8bf767-8433-40c4-b11f-438692cf1ef8,Trunk upholstery,Auto Body Parts,245.75,68,MANN-FILTER,12.13
+e6b2a560-65ce-4b39-9b44-591ecd0efa75,Seat airbag,interior,296.13,6,ZF,5.22
+f25e7c9b-54f3-4853-a0bf-fc38415dd654,water tank,Engine and components,195.28,28,Magna,13.31
+f856b310-76c4-4b3d-95e9-02577684799e,Hydraulic pipe,Suspension & Steering,225.37,71,Autoliv,0.91
+85eed131-eac3-4e56-b5cc-ef932aa57e62,Bumper reinforcement bracket,Auto Body Parts,436.77,80,Valeo,4.03
+26f6850e-d527-475a-8ecb-c97cc1cbcf3f,"Rolling Bearing, suspension strut support mount",Suspension & Steering,420.05,0,Autoliv,7.78
+58af223d-a0d3-4390-a9b3-3714becca260,AC compressor,Engine and components,143.47,9,ZF,5.5
+a101fcaa-61d7-4f2f-ade7-e91c29069378,body kit,Auto Body Parts,121.59,51,ZF,11.05
+9ee387dc-9294-42aa-ade7-9bc2e7a14c79,Detonation sensor,Engine and components,258.89,95,MANN-FILTER,5.79
+e89d5065-617a-4ea9-8b4f-15397d6cf8f8,Reflector,Headlights and lamps,100.2,4,Denso,0.58
+e14373ab-641e-4d66-8de6-240025a41440,Transverse Arm (Rod),Suspension & Steering,383.77,1,Valeo,8.25
+edbea361-8194-4250-84c4-65e6a8c186cd,Washer Reservoirs,Auto Body Parts,372.17,18,Valeo,3.26
+14c379c1-1fd6-4ae0-898a-fbdfd8fb8c0c,"Thermostat, coolant",Engine and components,491.18,79,Denso,4.28
+ac0f82bd-e6c9-41b7-896a-8b98e76d7aba,sunroof glass,Auto Body Parts,229.0,87,Denso,6.79
+6309346d-8173-4395-b79d-2ee81096f7ae,Windshield Washer Nozzles,Auto Body Parts,103.04,82,ZF,2.66

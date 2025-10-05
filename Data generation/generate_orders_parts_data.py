@@ -29,7 +29,7 @@ def generate_order_parts_data(order_id: str, auto_parts: list[dict], num_parts: 
             "product_id": product.get("id"),
             "unit_price": product.get("price"),
             "quantity": quantity,
-            "total_price": product.get("price") * quantity
+            "total_price": round(product.get("price") * quantity, 2)
         })
 
     return round(total_amount, 2), order_auto_parts

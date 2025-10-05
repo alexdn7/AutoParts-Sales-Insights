@@ -1,101 +1,1001 @@
 id,user_id,order_date,status,total_amount,payment_method,is_paid
-a0aded9c-1525-46f3-ad6d-62e0811ff59d,84ad72c5-b8e3-40c0-81d8-232faeaca4cb,2025-09-14,Delivered,0,Card on Delivery,True
-effb04c6-5f49-48db-aaa6-15b6709334a7,d654b755-800b-4fd7-9553-7195ac394f00,2025-08-01,Delivered,0,Cash on Delivery,True
-7cb372b7-5427-4371-9346-0f72860be05e,5bd6f22f-0b4d-4453-afa5-0849cef17e5a,2025-08-02,In delivery,0,Cash on Delivery,False
-e42665df-4e5c-49b1-8c85-3f8457ca5477,6039e65c-1440-4f16-a6e4-9325bfa31e05,2025-04-08,Cancelled,0,Card on Delivery,False
-1ed8497d-bd0f-4f01-b958-c82d7a28c939,f12768a4-4d63-436c-a603-8b814b9b362f,2024-11-09,Placed,0,Card,False
-8067ce15-0d62-4b9e-915e-803f937f98e2,7474d538-553e-4786-98d9-7b4718522d8c,2025-01-22,Processing,0,Card,True
-6b2f90d2-8049-456d-90f3-ec21650d49a5,b597c0a6-6060-4ed0-ac75-55eb34f49a7d,2025-08-06,Placed,0,Card on Delivery,False
-a34880d8-da72-4eac-a7e0-2c4569836470,b597c0a6-6060-4ed0-ac75-55eb34f49a7d,2024-10-23,Cancelled,0,Card,False
-295c6036-7498-4232-a3a5-48723fad985e,00cfd90e-692c-49b3-99ba-bf2ab533db4c,2025-07-14,Processing,0,Cash on Delivery,False
-5e46716e-0b64-4341-9e64-df8a47489232,ae1bbccd-9b0f-4e9f-840d-5f9c784ee43e,2024-12-08,Delivered,0,Card,True
-e40278c3-6cdc-4627-bec1-e219e9ba109f,96e9058b-6993-4cff-a890-0079fcefa1e6,2024-11-01,Placed,0,Card on Delivery,False
-f93dbc79-868c-4c49-889b-1fb0142178d6,4cb47bfd-706b-444c-8bd5-edd2241d38b2,2025-09-16,In delivery,0,Card on Delivery,False
-a37b6e1f-98e8-4153-96c0-c2aa0d608a21,5bd6f22f-0b4d-4453-afa5-0849cef17e5a,2025-07-30,Cancelled,0,Card,False
-063f9135-3f99-463a-9136-e2cc0ad3456f,6ab25d67-2440-4cb2-a643-353abfef39b2,2025-09-06,Cancelled,0,Card,False
-7f13912c-b9bb-4ed7-884d-45f60f06c40b,512967f9-7e50-4a74-8212-44c2cea9993c,2025-09-01,Delivered,0,Cash on Delivery,True
-fedd7858-9721-4293-a64a-95da284259f9,d654b755-800b-4fd7-9553-7195ac394f00,2025-08-01,Processing,0,Card on Delivery,False
-9e86c9ca-4241-4479-ae9a-a37d3f834931,4cb47bfd-706b-444c-8bd5-edd2241d38b2,2025-01-03,Cancelled,0,Cash on Delivery,False
-2615234c-9fd4-4ff8-81e1-d556d3b188f0,6e4c0bb7-105a-45de-899c-a5c08d9a62a5,2025-06-19,Placed,0,Card on Delivery,False
-395a2c98-c3e1-49d1-8651-ab08c1c03ef0,8a27a392-cd3c-494b-85a2-145612451403,2025-05-10,Placed,0,Card on Delivery,False
-1bbefda1-89af-468d-9b5f-55df560a584d,60bc81d0-5074-4169-b822-ef5475457eaa,2025-05-16,In delivery,0,Card,True
-e7a2b277-5faa-4da2-9ea7-b2e128914307,96e9058b-6993-4cff-a890-0079fcefa1e6,2025-08-09,Processing,0,Cash on Delivery,False
-dbfb6a8c-f4ab-4f59-bb4e-97c2209e4394,f2141e96-5d7c-4485-b93f-222f8c39f2eb,2025-09-24,Cancelled,0,Card,False
-4a511f0b-c511-4271-bca5-923b87a6a367,c69ede13-08de-4588-979c-8daa503ce291,2025-09-20,Placed,0,Card on Delivery,False
-cfcbc081-fdfd-4684-a0d2-ac522d1d929c,04cfeba1-62c0-4e9a-ba39-341bf6559847,2025-02-04,In delivery,0,Card,True
-42beeb46-b13e-4ebb-9d5d-c6ea3a674048,ddc8c1f6-30aa-4841-ab0f-84a4f714aad4,2025-08-18,Placed,0,Cash on Delivery,False
-6f508539-31d3-45a3-90b1-bd6f7bda0b27,1b373d19-2b28-435f-87de-f580a75abd6c,2025-06-20,Processing,0,Card on Delivery,False
-aa01c6a1-ea98-4b7f-9d54-f1df07305da2,065aab41-12fa-476a-80c5-b2faeab47ac3,2025-09-24,Placed,0,Cash on Delivery,False
-77f878a7-9a13-4a27-8311-56e7469a097a,2d2ebee4-ef35-435c-a78d-513eaa2c0f93,2025-08-28,In delivery,0,Card,True
-a367ae6d-80bd-494d-a0fe-b96079d0cdc8,84ad72c5-b8e3-40c0-81d8-232faeaca4cb,2025-09-15,Processing,0,Card on Delivery,False
-7ed2ceda-24a1-4ac7-bb54-e45876ea335a,2d2ebee4-ef35-435c-a78d-513eaa2c0f93,2025-06-23,Placed,0,Cash on Delivery,False
-c9530eef-f6d8-42f3-a490-d013ea9265bf,6a5d673b-831b-457b-935b-3fcdf4fa01a4,2024-08-15,Delivered,0,Card on Delivery,True
-b7f34015-dac1-440f-8d7a-b9209c810f8d,aa9432e9-9207-49a0-98b5-9a8480b02309,2024-11-24,In delivery,0,Card on Delivery,False
-e48a9426-496e-4a68-85d3-0c5e95b94005,c4daa7a1-c54b-4a59-83e2-79b1f5703561,2025-08-24,Cancelled,0,Card on Delivery,False
-7f77bf9d-f148-4578-a060-7d364907ca1c,6506d6b8-41f8-4510-97ca-bf4d23fa7e5e,2025-09-01,Placed,0,Cash on Delivery,False
-42db2172-523a-453e-9869-450f147707ab,17192030-d85b-48d1-a99d-5f37f53391b7,2025-09-27,Placed,0,Cash on Delivery,False
-0b87932c-a0d6-4552-86f5-33e9ccb42853,04cfeba1-62c0-4e9a-ba39-341bf6559847,2025-08-20,Processing,0,Card on Delivery,False
-e33af6a4-05d6-47d5-8a9a-d75f61da8050,e8d3bb9e-d53c-4a63-8e3d-24b24241ff83,2025-08-18,Cancelled,0,Card,False
-3f724047-2962-41d1-ab9c-bac2db985dc5,e8d3bb9e-d53c-4a63-8e3d-24b24241ff83,2025-07-22,Delivered,0,Card on Delivery,True
-43277844-db4c-42ec-85ff-2a175a91c7ae,d518235c-aa76-4cf9-8822-cbb013131d8b,2025-08-17,Processing,0,Card,True
-7109ae01-e68c-416c-bbf9-64fb981a9550,bd1b333b-9ff7-4022-9111-f8436d140669,2025-08-25,Delivered,0,Cash on Delivery,True
-5f520ade-2319-4f3f-83c6-0711b5b4882d,202b3fdf-ffee-4412-8371-c9b88d837e40,2025-07-18,Cancelled,0,Card,False
-8fd2789a-502c-42b4-8bd2-2d3ce88aa744,aa9432e9-9207-49a0-98b5-9a8480b02309,2025-05-03,Delivered,0,Cash on Delivery,True
-7279078c-2f05-4aa1-8793-6e2d348455e5,c4daa7a1-c54b-4a59-83e2-79b1f5703561,2025-09-03,Delivered,0,Cash on Delivery,True
-a08c4d17-97da-4ee4-9fa1-a981f07cbd5f,c4daa7a1-c54b-4a59-83e2-79b1f5703561,2025-08-26,Cancelled,0,Card on Delivery,False
-2475059f-bbf9-40ec-972c-4964509705d5,befd4caa-7504-4c00-82c2-0ac6ed93b7c7,2025-09-08,Processing,0,Card on Delivery,False
-890c33bc-5228-4cbb-af0f-d6a0156bdf8d,326bec0b-143a-45e0-803d-e5e2e1760a2e,2025-06-07,Processing,0,Card on Delivery,False
-726f8baf-9389-4046-928c-5c91624ea0ae,9a198855-50e2-408a-9686-d45a6339e535,2025-08-18,In delivery,0,Card,True
-6abdaa75-5bdf-49b9-9f70-526d368a1d1b,d214a6c6-e0b7-4cd9-be6c-d2a5d58569d8,2025-02-04,Delivered,0,Card on Delivery,True
-c8d586fb-c386-4130-a81f-2982bdbfe350,641b19cb-7ecb-49cc-aaca-a7ed3a25a263,2024-12-20,Cancelled,0,Cash on Delivery,False
-fa16b89b-54f2-4d9b-9ca1-02934b3a8a41,c91a020f-efd8-4c3f-b5ba-16e3c8d0f8ef,2025-08-25,Placed,0,Card,False
-c846fb7b-6bd8-4691-afec-10af5fc4e78c,6b077690-c975-4949-834d-63585b289134,2025-09-02,In delivery,0,Cash on Delivery,False
-1a49655c-8e40-4ba5-a6f1-87835c4d830b,326bec0b-143a-45e0-803d-e5e2e1760a2e,2025-08-04,Processing,0,Card,True
-bc7987c9-d4a1-468b-8ac1-1104d97343c9,da43aac3-1851-4577-b7db-41c392857f79,2024-09-14,Placed,0,Cash on Delivery,False
-a2cb9e1b-b35c-4736-b492-97dfc75e841a,ae1bbccd-9b0f-4e9f-840d-5f9c784ee43e,2024-12-22,Placed,0,Card,False
-62719e28-3228-421b-b674-a8e2b1222d85,7f98c67f-cd2a-4e52-a636-25416a907a19,2025-09-23,Delivered,0,Card on Delivery,True
-b0bf5632-4a94-4ffb-8075-7a7bad867882,641b19cb-7ecb-49cc-aaca-a7ed3a25a263,2024-12-19,Processing,0,Card on Delivery,False
-ca5ade27-5e64-4ee0-a51c-14b7f6463b79,31c1eb19-c16d-4013-93c9-5bc978f90d13,2024-12-04,Processing,0,Card on Delivery,False
-c51930ce-bad3-4ee1-a97a-3ccc0ea6adab,326bec0b-143a-45e0-803d-e5e2e1760a2e,2025-06-24,Delivered,0,Cash on Delivery,True
-32e268df-2c10-49ba-b3a0-7bedabd754a1,e19d9155-420f-4b00-9015-b6c0e3bb081d,2025-09-29,Cancelled,0,Cash on Delivery,False
-e5645dff-912a-4bad-8b76-c550fe246c18,14dfefa3-1e40-4f3f-9f15-1b8a1f2b6085,2024-09-23,Placed,0,Cash on Delivery,False
-a466ccab-91e8-4524-858a-0647ae24d4ff,7d0409fc-237e-416a-8541-8223955d0e24,2024-11-22,In delivery,0,Card,True
-83a8b0b3-dfd6-4bd4-9113-bdbf0745d8d4,63e34610-aff4-475c-b1d1-8349a05ed0c6,2025-05-12,Cancelled,0,Cash on Delivery,False
-84d06834-f00e-4839-a37e-5b1db6903559,6ab25d67-2440-4cb2-a643-353abfef39b2,2025-09-27,Delivered,0,Card on Delivery,True
-d828039a-c4ca-4a99-9f2a-de259da55050,74134781-1413-4cf4-8f5e-2507778363e2,2025-09-28,Delivered,0,Card on Delivery,True
-54e0d9ad-39fe-4e28-ae42-ad8391949b64,ab89d9a5-2983-4aa4-b81b-a3ea8398261b,2025-09-25,Processing,0,Card,True
-370f8aee-ade6-4e0c-9bab-65d87b114254,d649e229-face-4ee3-9a3f-d598b070be35,2025-08-12,Delivered,0,Card on Delivery,True
-d10ec5cb-4059-485a-b764-ad3b82269b4e,f2141e96-5d7c-4485-b93f-222f8c39f2eb,2025-07-26,Cancelled,0,Cash on Delivery,False
-70214990-3420-4ff4-805f-0c8a33ab5e5a,d4c088bf-dc61-44e0-9f37-cba4683e18f5,2025-07-28,Delivered,0,Card,True
-7cec5e0a-a6e8-4284-baf4-7c62a0634101,84ad72c5-b8e3-40c0-81d8-232faeaca4cb,2025-08-21,Processing,0,Cash on Delivery,False
-ab102044-4865-487a-a56b-f4cb2c4a530b,17192030-d85b-48d1-a99d-5f37f53391b7,2025-09-22,Delivered,0,Cash on Delivery,True
-ff9a000d-86d7-4c1b-aa86-df443f5c7c7c,e19d9155-420f-4b00-9015-b6c0e3bb081d,2025-09-26,Delivered,0,Card,True
-955b69c8-0db7-4972-be26-eec293f26cb3,a9f1f86a-a773-46eb-ac29-15c950a028e8,2025-08-22,Processing,0,Card on Delivery,False
-97bc3091-b927-4bb7-8a4b-c17ff6df96a9,44f53367-fb17-4eb2-a497-e1450ddb1715,2025-02-05,Delivered,0,Cash on Delivery,True
-a573e6db-f255-4152-8478-03aa6bb449f5,bd1b333b-9ff7-4022-9111-f8436d140669,2025-09-08,In delivery,0,Card on Delivery,False
-a83bedd0-8fcb-4958-b18d-86db5bc24440,997093d9-8638-4331-a7e3-6bc41625fda0,2025-10-03,Placed,0,Cash on Delivery,False
-c8341486-26a8-4bf8-a0d9-bbc7dbc89e86,bd1b333b-9ff7-4022-9111-f8436d140669,2025-09-10,Cancelled,0,Card on Delivery,False
-02fdfafb-985b-41ba-8885-5896c4758096,45af4964-5ad3-49e1-bb05-1102e4793593,2025-08-30,Delivered,0,Card,True
-d56ad147-d9ba-40de-abd8-cd4f96b39ff4,77b4ad69-2b20-4754-8ee6-0ee1f2e3b52a,2025-08-02,In delivery,0,Cash on Delivery,False
-8650dc3a-68b7-4f28-a08d-b9cbfb02f6f7,326bec0b-143a-45e0-803d-e5e2e1760a2e,2025-06-21,Delivered,0,Card,True
-65d75327-caef-4eac-8bc8-f8045101aacb,32457c84-127f-4ff1-a78e-02c372ac6b2c,2025-10-03,Placed,0,Card on Delivery,False
-492ffa22-a600-474a-a78b-30220b3b7262,da43aac3-1851-4577-b7db-41c392857f79,2024-08-24,Delivered,0,Card on Delivery,True
-1fc97242-9603-4062-8878-fa99bd3d8759,44f53367-fb17-4eb2-a497-e1450ddb1715,2025-02-12,Placed,0,Card,False
-e914fae6-6d15-4c7f-8657-1576bb6b2e66,303352bb-30ff-474a-8efe-72c5bff5b0da,2025-09-28,Cancelled,0,Cash on Delivery,False
-4fc69545-ddcc-463b-8724-691e73479783,6506d6b8-41f8-4510-97ca-bf4d23fa7e5e,2025-09-28,Cancelled,0,Card,False
-09f87e7d-963f-4e11-a298-760ccc8a021d,c4daa7a1-c54b-4a59-83e2-79b1f5703561,2025-09-19,Cancelled,0,Card,False
-be491f92-561b-4038-b80c-a3aff83ac754,512967f9-7e50-4a74-8212-44c2cea9993c,2025-09-09,In delivery,0,Card,True
-565a68e4-9fd8-4767-8915-01af06fb5369,62c04eba-5bb7-438c-a079-0050e5d1cbbd,2024-12-07,Delivered,0,Card on Delivery,True
-0274893c-5f29-4355-9040-dc06d2d97245,7d0409fc-237e-416a-8541-8223955d0e24,2025-07-17,Processing,0,Card,True
-cdcf013a-6ee5-4f40-8d21-bb380695f98c,ddc8c1f6-30aa-4841-ab0f-84a4f714aad4,2025-10-02,Processing,0,Cash on Delivery,False
-deb3ce86-3eec-4ab0-88fa-65ba24032de7,51bfb7de-9e12-4a01-9c07-6fa6186dcee4,2025-04-26,Placed,0,Card on Delivery,False
-7333bbb5-1cb7-4507-886c-9d74c7f8023a,ae73fe14-a3cf-4cdf-9ea4-b74951a22f9d,2025-02-18,Processing,0,Cash on Delivery,False
-e60773c3-c355-496b-9218-94e253c79e02,641b19cb-7ecb-49cc-aaca-a7ed3a25a263,2024-12-04,Placed,0,Cash on Delivery,False
-88e1a902-4b90-4ecc-b913-701fd14828e4,5bd6f22f-0b4d-4453-afa5-0849cef17e5a,2025-07-16,Placed,0,Card,False
-60cc3929-d521-4f5d-aad2-42c83489da24,b356998a-ed4b-4b79-9c12-5500ec03de9a,2025-09-09,Cancelled,0,Card,False
-a9af66f6-1781-4253-941e-7a68fd6a1c81,60bc81d0-5074-4169-b822-ef5475457eaa,2025-10-01,Processing,0,Card on Delivery,False
-58134f5a-dc99-4f6b-89de-7ca1b61f021f,2d2ebee4-ef35-435c-a78d-513eaa2c0f93,2025-08-26,Placed,0,Cash on Delivery,False
-24df392f-ded5-46fc-8f67-4cf54efe06f5,78dde129-a1df-4b08-aece-5b31b74239b3,2025-07-29,Processing,0,Cash on Delivery,False
-1541d4cb-ef97-451a-9b4c-01aba5df28a4,17192030-d85b-48d1-a99d-5f37f53391b7,2025-10-01,Cancelled,0,Card on Delivery,False
-44e925ee-3629-4a63-a8d0-c99902bcfa27,b55b431d-30c7-4a7e-b3f0-fc422fa000c9,2025-08-13,Cancelled,0,Cash on Delivery,False
-289ec5d4-c8da-4231-b885-fe54f2c6ca58,c4daa7a1-c54b-4a59-83e2-79b1f5703561,2025-09-20,Placed,0,Card on Delivery,False
+79ce2f45-8fe7-42fd-904d-28cbeb5c4daa,7062cbe5-1c8c-4d7a-b3e4-fc5587799194,2025-09-25,Cancelled,113.58,Card,False
+937ab640-fb2b-48f8-9921-e7e19c801eda,d9c9a726-fe98-4b08-bf88-fddb9a2b31a9,2025-05-18,In delivery,3042.98,Card on Delivery,False
+955fb642-8b0a-4263-83bf-993fe7ea41bf,9bf4d7d6-b4d5-43ef-a796-e31459988f9b,2025-03-31,Delivered,2512.16,Card on Delivery,True
+c676bd9a-5367-496d-b66c-ffe39b800fcc,f19140b0-daf3-43d9-987f-b3e579235841,2025-09-05,Cancelled,1840.92,Card on Delivery,False
+36af07ad-0d1b-4328-8f3a-7fd1bb3a337e,ab66dbea-f77a-4f7f-9bd0-880a479d64e4,2025-09-11,In delivery,467.88,Card,True
+bc3ca60b-5de3-4e06-a95d-3730f22a4ecb,06f8b1d2-babb-4856-9a18-458eae92926e,2025-09-14,In delivery,1581.28,Card on Delivery,False
+eea14ed4-2adf-47eb-8506-04810bf89f62,0608f862-bb29-4652-be49-c31405cc34ad,2024-10-24,In delivery,2329.35,Card on Delivery,False
+0d35c420-9dc9-47ae-b1c5-c8238831f3ae,7e85a927-50c6-4ada-b84e-a32b348ba5e5,2025-09-08,Cancelled,1073.35,Card on Delivery,False
+7f448c1b-c184-439a-871e-809831de592d,ce5c9e81-53a0-4a01-a179-3c59a5d71cc8,2024-11-12,Placed,608.16,Card on Delivery,False
+09a6a771-9de6-4b2b-922c-19af7de09357,0177d095-e969-497c-a82d-b70fffd83efc,2025-03-31,In delivery,452.79,Card on Delivery,False
+57c6fc77-b1eb-44c7-a9ef-19e27730fd4e,a33e2d7a-7ba5-4017-9688-bed250cd56f6,2024-09-23,In delivery,679.15,Cash on Delivery,False
+1090c48b-29c0-4475-ae14-af00d2c331b2,5a823bd3-68fa-4f79-b2b8-627e4bf2ca5b,2025-09-22,Cancelled,1073.7,Cash on Delivery,False
+5c860d4b-133f-43f5-8c50-75a9d2f2db86,65a7eea9-4b16-4a79-b1ab-d22cbc32dcd1,2025-09-05,Processing,1706.23,Card,True
+1d6dd95b-99f1-4cf9-8c98-6c4267b62d83,c4e3ff39-d642-475a-866c-34658cc04a0f,2025-09-16,Delivered,383.9,Card on Delivery,True
+f44688ac-5d00-4c3c-bad7-029d0071a8da,7d083b8b-37fc-4b08-b422-49320bcd8ff3,2025-10-04,Delivered,1706.21,Card on Delivery,True
+e6aa2ef1-9e95-41f4-8d41-7fadd29e1964,10b366b9-fcdf-44a5-a287-b4900ecbd8b6,2025-03-10,Placed,2446.57,Card on Delivery,False
+9a518e96-efb0-46fd-87a7-43874cee1936,4ae004c7-25ad-4a5b-a3b0-b28e0a842917,2025-10-04,Cancelled,733.56,Card,False
+1d9de2d6-3c3f-429b-be6d-b74977ea7a65,0d45b740-a439-407b-affe-d153d9a350dd,2025-08-05,Placed,173.19,Card,False
+28241334-dfae-4e1b-84fe-c414e7ef7864,5d1df364-78dc-48c8-9e3f-b58fbfb2eb84,2025-06-29,Delivered,3250.3,Card,True
+c1904749-e8c1-4f98-82b8-4cab18d3e4ef,3b08cdf4-137b-445d-81e5-4494aee32e39,2024-11-17,In delivery,1053.68,Card on Delivery,False
+261d7291-94fb-42ca-964d-e7edeccbe441,4158d4ae-3615-45fe-a58b-c8622cd0ddae,2025-03-22,Placed,2505.81,Cash on Delivery,False
+a7b31e3e-0cf1-4c46-be09-733836ec88d2,8c7658a6-05e9-4756-bebd-85b3323442ba,2025-09-13,Processing,195.52,Card,True
+73992e65-ba3c-45ee-a3b6-e8d1244d886f,2ca90ec6-c1bf-499b-bb76-efceeb75f3e9,2025-06-16,Processing,2340.36,Cash on Delivery,False
+6f906b11-36ab-43a7-818d-fe0a991ee540,53ebf87b-6724-41b1-8108-e7bb63de9258,2025-09-26,Processing,1103.49,Card on Delivery,False
+4cca4a2d-f530-4277-aacf-407eaddf6b84,51567aac-7817-4e74-ac25-4ecad194d08d,2025-02-09,Processing,694.04,Card on Delivery,False
+7cbb29aa-a079-4812-8470-daff682c5512,7ed31f85-a8e2-45d0-9740-eab5c6ceac1c,2025-09-28,Processing,607.45,Cash on Delivery,False
+d4af4bd2-cf49-41b8-b4f2-e547a9e2ae7a,9b16f286-8315-49fb-b4ad-125045a1347e,2024-10-09,In delivery,2165.31,Card,True
+3dccfb91-8207-472a-bf46-e56db9eb7c9f,132058fb-69e6-4f5c-bbe6-c64c226c58e0,2025-09-14,Processing,361.54,Cash on Delivery,False
+bb85179b-2825-4fcf-bb3a-1c97ddb177c8,77dcecd3-c8b5-42c3-9d91-31b5662b30a4,2025-04-06,In delivery,2205.28,Card on Delivery,False
+acbe7425-d8dc-490e-8b1d-685e466d7f98,692dec9f-7745-486d-a68f-88c14487e2e0,2025-01-18,In delivery,1495.16,Cash on Delivery,False
+9849ba7d-d92d-4dd5-9708-56727738ce30,02df93f1-f714-4586-9e08-78288eba5532,2025-05-29,In delivery,2432.02,Cash on Delivery,False
+3b3402d7-c6d3-418e-9913-0c58d39f1fda,f150b8b6-451d-4ce5-bf66-8f9ff1f43dc4,2025-08-23,Delivered,968.61,Cash on Delivery,True
+705ab06c-bb13-41c9-891c-2a4311d41024,eb411954-ae37-470d-9ba5-875e5dcb4c3c,2024-10-15,Delivered,670.64,Card,True
+77bdc181-f773-4d53-bc99-323d79c0349d,f7ab1646-93fc-40a8-8d1b-17edba173d08,2025-09-16,Processing,524.13,Card on Delivery,False
+92809486-bfba-4331-948f-f11656f1edc2,4d14f743-bd42-42f1-bd63-3ec972b31178,2025-08-09,Cancelled,1553.48,Cash on Delivery,False
+c3bda682-e193-432b-9f29-1206121eff33,12cd3408-c374-422d-9f43-9bf432cf9e24,2025-08-23,Cancelled,1167.96,Card on Delivery,False
+5b5875b7-4eb5-4d0d-bc13-5dc86233ebf3,824fcf0a-0b29-4287-9228-a7d39005542a,2025-09-27,Placed,2487.98,Card on Delivery,False
+98a92959-abb3-4dba-8716-9ed7bf5fac65,e7f19537-64a5-4a9a-964d-9f1a411bcd02,2025-02-26,Cancelled,656.6,Cash on Delivery,False
+a7d248be-8e5c-46b3-bad8-86b7fb0d1f1b,f60154b9-1577-40f5-8174-825df26b8938,2025-04-20,Processing,1363.83,Cash on Delivery,False
+cf8b1b74-e9ed-4241-8ffe-3444d27709e2,448c5b4f-7f91-4f0b-9740-d53ecb4905b9,2024-10-01,Placed,1408.65,Card on Delivery,False
+b5ee145c-c968-433e-af4d-1efedbe79f82,9bcff7dd-c5a0-4b5a-9ea3-bcf9a9c72070,2025-08-07,In delivery,2207.36,Cash on Delivery,False
+4d207d27-ee15-4373-abf6-7d81f3990b14,2df9c7fc-3d7d-44a7-b589-0fcec3e850f6,2025-06-02,Cancelled,909.15,Card on Delivery,False
+24626629-076c-4e65-8e02-9b4049600102,846e9151-997f-479f-9b9f-1286bb86d496,2024-10-17,Delivered,1291.72,Cash on Delivery,True
+703ac117-c818-4b87-b2c2-2bf3d843b6a7,b181f18b-b40f-4d0f-8ef4-cd0524117c4f,2025-03-03,Delivered,507.78,Cash on Delivery,True
+81d48667-0dcb-4bba-9423-ac739b8374a9,366e4a76-7a3b-43e9-a624-e63af7d3abc9,2025-08-23,Delivered,53.78,Card,True
+fc3cb6a3-d67c-4ccd-8717-1d0cbef33608,f6177d96-0744-400b-85df-8c58c67cf562,2025-09-02,Placed,2954.98,Card,False
+606d1400-9fe2-429c-be2a-b227d6c002c3,169a834a-d501-4a90-aef0-f5405698f9de,2025-06-28,Delivered,1875.55,Card on Delivery,True
+64188a50-e7a0-481a-a60d-35583b62ad0a,f19c9445-8404-43a1-b273-0095c91940bf,2024-10-26,Cancelled,1916.12,Card on Delivery,False
+e881b3bb-e2da-4221-8745-c042029848aa,e936c201-0af7-45c4-8a59-53bd90ee31b0,2024-12-30,Cancelled,862.34,Card on Delivery,False
+08632ab3-c43a-475e-b647-9feb86260aad,7b527c56-9ffd-44b9-b55e-ff35400b5325,2025-07-30,Cancelled,1007.14,Cash on Delivery,False
+8664fe01-44ee-48e5-94ee-49c2b67a9713,093ced23-d529-4eeb-9152-7c2acc319341,2025-08-09,Cancelled,2026.11,Cash on Delivery,False
+53e400e6-2072-415a-bfdb-3bc48880839e,a352a5aa-6ada-42ac-9ab3-9f54b7e13d25,2025-07-07,Cancelled,769.37,Card,False
+8dcfe039-6260-4940-99c9-b459524dd4c6,0d339052-66e8-4ff2-ad9b-697f99e9e374,2025-07-03,In delivery,2299.12,Card,True
+d7fe166a-41f9-485c-b7f4-1f45ba4c5d5d,c59d986d-9b08-41a8-aaa8-10f46d729702,2025-09-14,Cancelled,1537.21,Cash on Delivery,False
+37a31755-1245-495c-91e6-eb2f16d206ef,4f9170b9-5c53-48d1-a348-94bd014f9dc5,2025-07-01,Cancelled,631.52,Cash on Delivery,False
+acf4921c-b42c-4574-a33f-cc53ce3fc9e8,75670157-aee9-4c39-baa5-f44155a27bac,2025-09-17,Processing,984.46,Card on Delivery,False
+1457ef31-66c4-408b-ab92-e40e9e7f7d3c,b04bf188-ddf0-472a-91a5-097584f17304,2024-10-27,Processing,3108.7,Card,True
+6dcc890c-1206-471a-9db2-5dc803fbced2,53eb28a6-5e65-490d-8f3a-171c875003e6,2025-09-03,Processing,1551.14,Cash on Delivery,False
+2547c739-bac1-42c6-a090-1d08905c4d7d,134c1470-00cb-4191-9b83-ca6a1d60aad6,2025-09-23,Processing,3829.75,Card,True
+51da41b1-7871-4525-b46e-7abe4f8f0094,ddfa238c-62bf-43ed-9311-98dcf01d0094,2025-03-29,Delivered,542.47,Card on Delivery,True
+ad6f6285-5c81-42f9-a08a-599f46a462ad,0e8fd204-82b2-4d2c-a0a9-674af25ddd91,2025-04-03,Cancelled,1977.1,Card on Delivery,False
+d5888514-7977-469e-97f3-1bb410e49c1c,c59d986d-9b08-41a8-aaa8-10f46d729702,2024-12-21,Placed,2570.44,Cash on Delivery,False
+fa54a5df-7972-4aab-be5d-4ee8284db956,c4ad44ac-2578-4eb2-a873-eb8421e5eeb7,2025-09-16,Cancelled,2296.76,Cash on Delivery,False
+4f78723c-7ab2-415d-babf-8070c48bad4a,22344218-cce3-48ac-817c-ed941e0bc495,2025-09-14,In delivery,4226.64,Cash on Delivery,False
+d8ea5f71-2fd4-4d59-ba86-6ec84d2ed9bf,660f73c9-49bf-46fa-b0ce-efcdce7e0ab8,2025-08-22,In delivery,520.32,Cash on Delivery,False
+e766d996-cbef-4a95-af13-bbefdb6c33af,9e50d227-f4a0-4ee2-8364-200ec50cb6c8,2025-06-13,Delivered,877.24,Cash on Delivery,True
+67a7ee3b-34f5-4083-bdae-9c98b96622a3,a9ceaa30-bddc-4266-95a4-4f5324f9060a,2024-12-23,Cancelled,1258.6,Card,False
+82e09aa2-9c61-42af-81fa-0fe855c1c133,7eb1e46f-e126-4f2c-ba7a-e2d3a37d013e,2024-12-28,Delivered,1508.96,Card,True
+a4aca606-6b95-467c-bed2-0488a1d57aa6,ef8bbfb6-3d82-4d7e-8a83-f2882d1b9e58,2024-09-29,Placed,1471.37,Cash on Delivery,False
+2914e34c-c536-4ceb-9d5b-dd42392543bb,8598ed28-b3e0-4d6c-a7f0-2e276ba66aaa,2025-04-22,Processing,1680.96,Card on Delivery,False
+9d7d5c59-3d09-41e2-82f4-21284206cfda,0177d095-e969-497c-a82d-b70fffd83efc,2025-03-12,In delivery,2749.54,Card on Delivery,False
+bb49108e-3f13-45b9-9e7a-a3f0a0ceedc6,c55ac706-4fb4-4557-80bb-1758bc733aa8,2024-11-03,Delivered,1580.16,Cash on Delivery,True
+5ce74d74-7efb-46dd-adc8-9cf8d135bac7,f0cbf3e1-a901-4166-b2b8-e1ff0e335597,2025-09-26,Delivered,2738.19,Card on Delivery,True
+74d7ea44-c38a-4099-8df6-94d20cbac780,824fcf0a-0b29-4287-9228-a7d39005542a,2025-07-09,In delivery,1048.26,Card,True
+31cd418f-0e5e-4f0e-811e-3ca485e8c428,47d95fc0-52b2-47e2-9d90-12df233e7562,2025-10-03,Processing,4201.56,Card on Delivery,False
+b6cfe5cf-142c-4df6-a1b0-e1bf51bcbf43,298db471-ea7a-4487-8a3b-f0d41ca497a9,2025-09-04,In delivery,1718.88,Card on Delivery,False
+6d84784f-076f-402d-836b-cdf40f4b5b67,d3317289-0b82-4348-8fe1-e1fd28b1586f,2025-09-08,In delivery,413.45,Card on Delivery,False
+52bea1c9-69b2-4c9b-b90b-8366e58d51f3,d40b7d1c-4f7b-43ac-8367-bea2b1a83409,2025-09-28,Cancelled,1293.03,Cash on Delivery,False
+f1314bfc-d02c-4ab5-a82f-742cd9b59530,e5b372bc-e452-454f-b59e-087da2ea8e20,2025-07-29,In delivery,1468.4,Cash on Delivery,False
+2c0fd212-2835-4c18-895a-d8eb708be458,4afab07c-b150-454c-8d3b-1d4af5d6a490,2025-09-09,Processing,391.0,Card on Delivery,False
+26d0938b-03eb-43ca-aa78-843202d8f7e8,cdf81964-e014-4b79-b46f-a4383d72322d,2024-12-17,Delivered,24.72,Card,True
+23a21863-3b59-47fd-be6f-a07908f642b4,13b1c924-da0a-4933-af30-3e8dea753269,2025-06-25,Cancelled,277.77,Card,False
+85393612-6ead-4035-8841-6847ce75696a,d946a0f8-049e-4000-914e-c76cc2a17f04,2025-09-13,In delivery,791.26,Cash on Delivery,False
+6948ad35-5722-47df-b40f-cd4ac9b9c979,84dda952-d0e0-42da-b008-fe251f51e047,2025-09-15,Processing,917.96,Cash on Delivery,False
+113935d8-09a8-497a-b4e1-3f1a00388b3d,51d4d032-911e-4bf8-9949-1d022b889341,2025-02-01,Processing,2652.66,Card,True
+b26fbe27-425b-45d4-8b00-44723eb9ac04,337eaef9-1dcb-45fc-8693-c547f4392378,2025-04-30,Delivered,21.27,Cash on Delivery,True
+052f5e6d-be4a-4c83-93c4-bdb3eea05ef2,08625366-8758-41f3-8c0e-61151ad91abe,2025-09-14,Delivered,489.44,Card,True
+ac98f377-67f7-41e2-81a3-433619f35de7,017c0ce5-b9a0-4fde-8c84-40a038560dbb,2025-09-01,Delivered,1690.55,Card on Delivery,True
+29bc59bf-2840-4a27-915c-f1c108584f12,1bea3f29-4b36-4a1b-bfe2-6cb30bb42521,2025-09-05,Processing,1219.41,Cash on Delivery,False
+35b64b71-3351-40ab-bc4a-c9dece3f557f,3b08cdf4-137b-445d-81e5-4494aee32e39,2025-05-24,Delivered,3782.82,Cash on Delivery,True
+411bb20c-977d-484a-8273-2db744ffbe7f,46f0eab1-dd42-48fc-b2aa-5a33d6492e37,2025-03-03,In delivery,768.66,Card on Delivery,False
+56c9e78a-52c6-4d57-9ff3-0801978424d5,536291fd-f397-4add-b863-fb3e7986492c,2025-10-03,Delivered,2359.7,Card,True
+4dc9caa2-911a-4cbf-9382-5d376b80d22c,96a3015d-56fa-4b9a-9988-76dcd213e39a,2024-09-29,Processing,1573.95,Card,True
+991add0b-c7f7-4d8d-b37b-c6f16309dd72,23c8bf52-882c-478b-ae15-84f1e91d841f,2025-08-10,Cancelled,1056.42,Card,False
+e38b2801-e064-489c-bff2-8d275cc50bb0,63011eed-fd4c-407f-8ea9-7175422bb784,2025-05-03,Processing,476.06,Cash on Delivery,False
+cf1bab04-8c09-4e8b-b0c8-8ac7c7650a78,ef285510-900c-430d-baef-6360fe0a62e9,2025-05-15,Placed,1375.21,Card on Delivery,False
+291a3c9d-06b7-429a-bf0e-7498097b8d23,0608f862-bb29-4652-be49-c31405cc34ad,2024-07-28,Processing,516.15,Cash on Delivery,False
+46404716-2e86-4bdc-a24f-121e6af94a75,407b9cf8-b132-409d-add7-b9cffcff6ef7,2025-07-26,Placed,109.05,Card,False
+00c8c3aa-1b9a-42ac-b1ec-6054ff7efe26,0d15876d-5fd8-4d22-be5c-e691228d22f9,2025-08-06,Placed,397.78,Card,False
+12fd854a-104f-459a-8d59-2192bb45e9c3,2afe5735-acb4-49ce-9eae-68ee95249481,2025-04-29,Delivered,438.82,Card on Delivery,True
+7bf946d4-6441-4411-af36-d67115ec89e7,4af4edcd-f836-4682-91f6-91b5f715634e,2025-02-09,Processing,181.56,Cash on Delivery,False
+4214f7ec-7f94-4efe-b9be-73fb12f362ee,5278cf2f-d84d-4a82-a03e-ffff5b477e9b,2025-07-21,Placed,2165.39,Cash on Delivery,False
+d0d178f1-3877-44a9-bb8e-af3052ed96a9,a254597f-6d07-4047-ad78-6fa466407605,2024-12-15,In delivery,1341.28,Card,True
+767cce08-0bc1-4a53-97f7-a58d5e6cdc4d,d254639c-037d-4923-862d-f0390a2d20bf,2025-09-03,Placed,798.96,Card,False
+acda6c19-673a-4799-908d-130738c5806c,a9db82c0-34d0-4a14-b09e-7e971478dcf7,2025-10-03,Delivered,3585.45,Card on Delivery,True
+9e729406-34cd-45e4-82f7-8b7f5000440d,4931d240-b332-4c63-9559-48d142a22295,2025-03-25,Placed,272.73,Card on Delivery,False
+9ccd3644-596f-4937-bc0e-a310f15bbae2,43422c13-9571-4525-9c93-084cc21ae004,2024-12-21,Delivered,1976.1,Cash on Delivery,True
+b52d86be-46cf-4ffe-a559-359f63f46850,4729efce-c3bc-4677-9de5-965a094d0cab,2025-06-06,Processing,775.68,Cash on Delivery,False
+545fc114-77b4-4525-aa13-1edd24808742,dffe9857-c0f0-4669-a66d-bc59c6ab36ec,2025-07-25,Processing,346.33,Cash on Delivery,False
+8f86931f-2a2d-481e-aae3-b150e2a754fe,f0886f1b-1f27-4950-ae4f-af6edfd52ea6,2025-06-02,Processing,561.39,Cash on Delivery,False
+3eaad316-3881-46a8-89a4-71aa4aeff0a8,4331b05f-6ad0-4dea-b45a-a042e78d0bec,2025-09-30,Placed,417.82,Cash on Delivery,False
+6e754a25-2fad-4d8c-ab5f-12ca864b27ef,8e7f68b0-b7af-43d3-ab59-af7c6fe4ba39,2025-03-11,Delivered,2557.85,Card on Delivery,True
+b0380e17-73e0-463a-8738-24201067f926,b5c8fe46-35c9-4cc6-8ddb-e4f059dc309d,2025-06-29,Processing,176.54,Card on Delivery,False
+bea5a761-829b-4108-aba4-b077145eb670,918e99fa-a7f8-41ec-b01a-6ac72cb3cdb9,2025-07-21,Cancelled,2275.8,Card on Delivery,False
+baf66d01-237d-4670-9dd8-c1daa1784a47,2d42b164-d7a2-4b38-9ff2-79142c6fdf0f,2025-07-30,Placed,927.2,Card,False
+c3cb4b5d-6a80-4d40-ba30-c01dcedc05d7,b20f213f-4fdc-45e2-9f2e-1a8e1ffe8f3b,2025-06-02,Placed,2180.93,Card,False
+7a0f3003-b3e3-4a3e-b205-6296f4999527,9f3a25d1-c8f6-4695-977a-7aa3a002e1dd,2025-06-29,In delivery,3166.5,Card on Delivery,False
+c56972db-ea2c-4837-b652-f79dce333bd5,95a73140-be57-48fd-81d8-4bf020d50cf6,2025-03-06,Cancelled,162.75,Card,False
+0ff7606a-83a7-4057-a86c-3122f1e3bbf1,ba3aaa86-a81a-483a-ad79-9bfc59abd811,2024-08-29,Cancelled,732.48,Cash on Delivery,False
+72110ef7-a0cd-437c-99b7-15de045b62c6,eb7e9733-f6cf-4943-ba7b-827fdaa10e3c,2025-08-21,Placed,1522.49,Card,False
+f591a7ae-9492-4068-a9f2-80891e06988e,a1120c87-0772-42a8-973d-93979de38259,2024-10-08,Processing,853.17,Cash on Delivery,False
+f53e66a5-73cb-4938-bff5-20b1f029ec0a,77071298-01a6-402f-8c72-39d123e2e01e,2025-05-01,Placed,689.8,Cash on Delivery,False
+47b2d798-b719-4a1d-aa34-b2f91b1c33aa,8262aaad-0e24-47e8-8c74-44bf145e7896,2025-09-02,Delivered,1367.39,Card on Delivery,True
+a2135893-d350-40e5-82a3-a14a5ac67565,537a822f-f5ad-4862-aab1-ec61d8f75856,2025-08-19,Delivered,2180.13,Cash on Delivery,True
+1548a080-804c-4fcb-9cc2-ed31db79b88d,344122d8-34a8-4a86-9ef4-238102f25949,2025-08-08,Cancelled,2492.7,Cash on Delivery,False
+ae65888e-2164-4ac2-b279-ff34c3eb88e2,4ec9436a-7924-4719-b9c7-e78d29723e3b,2025-05-07,In delivery,873.54,Card,True
+645450ba-ff28-4356-bc6a-38f0206f981d,ac753e80-228c-4fc8-8751-e8a2cb30e87e,2025-09-02,Processing,244.19,Card,True
+6f9cbf2e-26fc-4ea9-9369-96945030aa50,cd7e99cb-b73c-4eb2-a7d6-53e0be2302a2,2025-07-12,Processing,3482.87,Card on Delivery,False
+a98f69a2-feda-4b65-9846-c0a87aea6883,95afc51b-ec67-4f60-879c-95e928afc3b2,2025-10-02,Processing,1342.68,Card,True
+573cd093-1a25-4383-80d1-99c81118aabb,4f9170b9-5c53-48d1-a348-94bd014f9dc5,2025-07-14,Delivered,3455.31,Card on Delivery,True
+da5a84d6-a519-40a0-8eef-1bdf04c35af1,3de28e4d-aa71-45ee-9018-914c3cd2a9ce,2025-04-13,Processing,1790.02,Cash on Delivery,False
+8313ec29-8ad4-4cf7-932f-bc27f9723b02,31ad139b-743d-421e-8c56-d140ccf9f152,2025-05-29,Delivered,1201.37,Card on Delivery,True
+5493f30d-8f24-4145-bcae-9e412c123b70,963f06d8-dd9a-4327-82fe-a6ed2cc435d3,2025-09-02,Placed,879.24,Card on Delivery,False
+24a90480-c269-40e0-8d6d-37866834a07b,fbcbef8f-1c04-458a-83a1-865829d8a29a,2025-03-18,Placed,763.22,Card on Delivery,False
+cafe9f16-ab5c-491e-bbdb-c0ae3d225dfc,6664cded-627d-4bb8-9c91-7a66f59d52a1,2025-09-29,Delivered,22.02,Card,True
+1420afad-f869-479f-9966-87b35c4ba5e3,259403d0-0e50-4bcd-8b79-dbc2058d810b,2025-06-29,Delivered,2732.55,Cash on Delivery,True
+ee502a2c-251b-43d3-9339-6bfea9922f72,8346165c-6931-4c64-af0e-2c8822b45465,2025-06-21,Placed,1663.01,Card,False
+987c0b78-9783-4aea-9838-13c8d6cfdb7c,cb545a15-5142-4fc3-b839-d40a9da837ae,2025-07-29,Processing,1109.31,Card on Delivery,False
+9426a86c-207f-418c-ac68-3bfca111e90a,0eb17967-39cb-4d9c-902b-da1cbcd36513,2025-06-24,Placed,2669.43,Cash on Delivery,False
+4afece0c-1e34-4d0f-bc2f-cfea1e8f449d,150eb4a2-fb82-4f58-9d22-669d6423de68,2025-03-14,Cancelled,2543.33,Card,False
+c513b129-548e-4beb-b0d7-94e5403035ad,946179ef-695c-45d0-b87b-d7c1c50479ba,2025-08-20,Placed,1046.92,Cash on Delivery,False
+45e6bff0-9998-4bf4-a757-6f692d33027f,4a3d4012-af9a-4a79-a5f1-698977990511,2025-03-15,Processing,972.65,Card,True
+d9e7c3dd-6c8c-44da-88c2-496f6f711d60,2707d973-615e-4916-b3f8-9a0e9f4405cd,2025-08-09,Delivered,2385.38,Card,True
+8cbe3de3-6919-4e2c-a855-c91a94adf821,4d7adbe4-24dd-4a2a-be9d-0b55d0341bf0,2025-07-31,In delivery,171.76,Card,True
+ab0f5d44-d416-4d22-aa98-984fc50a72d8,88f680fe-5c51-4b63-a0e7-48033ef954e5,2025-07-11,Processing,2649.99,Cash on Delivery,False
+34ef58bb-586f-478e-bbcc-304bd1e9e747,0e3369bb-7422-4f0b-bcb4-8d1d1205a307,2024-12-29,Processing,674.02,Card,True
+e8666737-41d1-4bea-89cd-63072a40c45f,043cba4b-d322-4fae-86f1-060f18695344,2025-03-18,In delivery,2113.66,Card on Delivery,False
+e4f150c7-1d78-4204-a084-ea29ab5491c3,7f7a544d-102d-47b4-b2b2-563c2cad27b8,2025-07-12,Delivered,1390.14,Card,True
+f30085b3-777f-40c7-9b55-59f9849444bb,a60a6fc7-ef26-4696-a517-b6a9fa132136,2025-10-01,Delivered,1287.62,Card on Delivery,True
+29c5f07a-d80d-4493-a506-3ecb1df76e80,89ddece7-c729-48ae-b155-d43dc26998fb,2025-08-28,Delivered,612.08,Cash on Delivery,True
+a5329ba6-6d80-41ce-a0a6-1f6f5b3a13d8,07508659-2820-4a75-b1cd-6cde96ca0cbd,2025-10-03,Delivered,1414.29,Card,True
+5d95f7f0-54e6-43d4-975f-0dfc938aa901,b83248b7-b3f7-45c0-a59e-8ac029d78db6,2025-09-09,Delivered,822.68,Cash on Delivery,True
+507e5dac-608e-46ce-b571-79f7dbd1d238,877ab413-48f5-46da-9dcf-796b96e11b30,2024-11-05,Cancelled,2910.03,Card,False
+69707ed2-84a2-4f5d-8479-b3c3dca1b6df,8c95916a-e163-4af9-9670-c32cd4882b7b,2025-06-20,Placed,1717.9,Card,False
+a077091c-0357-4c1a-b273-265560ad253c,f19c9445-8404-43a1-b273-0095c91940bf,2024-12-14,Cancelled,1369.52,Card on Delivery,False
+da9c899f-4823-4e7a-8d45-288799935ee5,f7b1ced0-6701-4389-8955-e80bfdefbf44,2025-09-15,Placed,2509.11,Card on Delivery,False
+ddad74a1-0bab-43da-9870-fd13c04255b3,72e38b3b-4236-411d-993c-1042d3af7035,2025-02-24,Placed,2361.8,Cash on Delivery,False
+fa49aa51-48eb-4575-a78b-4a0a4276bf7a,a44932c7-92ea-47b4-93ae-b8ccea682009,2025-05-22,Delivered,3242.89,Card on Delivery,True
+26ed50af-97f3-4ea3-a04f-40a1b5794112,12cd3408-c374-422d-9f43-9bf432cf9e24,2025-09-11,Cancelled,3248.26,Card,False
+192ed033-9116-48a6-bf66-e20b7e8912e6,346db906-95cd-4fe1-8a7c-4f6ecd90590c,2025-03-10,Placed,2804.01,Card on Delivery,False
+df628974-ff19-452d-858a-66e53883718a,4db66b50-c762-4e36-a122-464a6c8ccb4e,2025-06-16,Placed,487.36,Card on Delivery,False
+d2e504a7-06af-40ef-9903-6979d83d54fe,ab8689c4-9142-4424-867b-4eb862b2b290,2025-05-08,Cancelled,3026.33,Cash on Delivery,False
+2a7d4d22-b2f0-4d3a-a5f1-422891f8e753,0d3f1257-53c6-4390-b9fe-03b152b74119,2025-04-12,Placed,2459.89,Card,False
+c5ad99ea-65ee-453a-8f7a-894ef791af25,2ce16235-b726-4c78-9968-0a542545f95a,2025-09-15,Cancelled,2081.33,Card,False
+52b5728a-4ab3-4056-8a1b-e1b7ef1c2c66,5256fc61-110d-4030-9a21-8ae1e248e9be,2025-08-31,Delivered,2530.29,Card on Delivery,True
+2bf68a3b-438b-42f8-aaed-0c18a1d3778b,537a822f-f5ad-4862-aab1-ec61d8f75856,2025-07-28,Cancelled,398.96,Card on Delivery,False
+bc926d34-b196-49c8-a13b-966e6bdd41d4,84732054-35ac-43cf-bc22-e0142687dccd,2024-08-19,In delivery,1022.07,Card on Delivery,False
+fd65409a-ee8a-4267-9e18-a51b61fc3314,5658f17a-953c-4c56-a15b-a8dc6a913511,2025-09-27,Placed,306.28,Cash on Delivery,False
+9a34b23b-dc9f-4666-a8e7-c671d8c767c4,646d5e5d-30b9-4df8-8960-92eb942e1706,2025-09-14,Processing,931.05,Cash on Delivery,False
+3a767456-6ecb-48b4-9a00-ccd63286f550,2bc91b2f-a552-4c08-b4cf-7c12adba4c2e,2025-09-15,Cancelled,1453.66,Cash on Delivery,False
+439f04c3-7e8b-4db3-96c7-a323c8fa0eeb,ec8ea0d6-d4ad-43c3-8a79-adb55b894f38,2025-08-25,Placed,664.56,Cash on Delivery,False
+e4920a66-9f46-4fbf-98e3-92434544393c,11c4f931-4f72-4792-b90a-ebb3cc5b4ec8,2025-09-11,In delivery,637.83,Card on Delivery,False
+32b3b425-59ed-40a4-813f-18cf913a16b9,e0773d75-e9cf-40ba-a993-50ca5c46db7f,2025-09-15,Delivered,538.74,Cash on Delivery,True
+6b12077e-7264-4f62-9e65-01f71159e4b1,9d672f94-43c4-4688-9d7a-dfdcc85c7864,2025-07-03,Cancelled,1780.5,Cash on Delivery,False
+5eae8b14-0a7f-4328-87be-dc09741c2388,7ba400a6-16ec-4cd0-961e-e1a30ca41e55,2025-09-05,Cancelled,1686.32,Card,False
+a8f74716-20af-4be8-9004-04459ebcb1a3,c38e5ba1-aeb7-45d2-8fe7-677909da1c32,2024-12-07,In delivery,629.3,Card,True
+3afa26e3-06e7-4a81-af35-6d389b12818f,11f54fe9-2101-473f-9c54-2645f49d3d16,2024-10-24,Processing,1357.44,Cash on Delivery,False
+bc7d6b93-864a-4982-8405-0554c6a04af0,238f48d4-92a1-4268-864e-61e16b62ceb7,2025-03-24,Processing,960.49,Cash on Delivery,False
+a29a16b2-45e6-46b8-b0ae-756fc40672dd,aa7e0064-3570-4aa6-80af-39abfa903bc3,2025-09-13,In delivery,2397.5,Cash on Delivery,False
+d0d271be-ac2b-4063-aeaf-4b11d1e524f7,8e7f68b0-b7af-43d3-ab59-af7c6fe4ba39,2025-08-31,Placed,1469.85,Card on Delivery,False
+6f2ced3b-3320-4915-a64c-634dc1525257,46f0eab1-dd42-48fc-b2aa-5a33d6492e37,2025-07-15,In delivery,256.35,Card,True
+d68aeaac-8918-4cf5-9153-00c92e524562,4cad4c68-bc0a-42ae-b4a2-7405e0980978,2025-09-02,In delivery,1136.97,Card,True
+ce109387-0389-4d71-a1a3-b3259aadab81,a0756dec-66ac-4505-842d-ae1ea7b5b859,2025-09-20,Delivered,1404.9,Card,True
+553900e6-fdea-4d88-ab2c-9b99777505bb,c4a0e239-3521-42c8-ac43-34bd38eea0d5,2025-09-26,In delivery,1313.14,Card,True
+0bd57f51-5700-4eb2-b751-707de8531481,f3726935-4a62-4128-99fd-06fcccfa54de,2024-12-17,Cancelled,380.92,Cash on Delivery,False
+3a9cb5bf-2d0c-4d7b-aa60-d3a36688d92b,6e7555c1-2324-4be1-afd2-2de3c1d3749a,2025-09-21,Processing,2750.13,Card,True
+60618c01-694e-4263-8a8d-7085454318e8,a254597f-6d07-4047-ad78-6fa466407605,2025-03-11,Delivered,2077.41,Card on Delivery,True
+65798f2c-9db7-41f0-9363-e3784eb5ad89,d946a0f8-049e-4000-914e-c76cc2a17f04,2025-09-06,Placed,2832.2,Card on Delivery,False
+10325291-0c1b-4f92-b097-d4ef28d92ea8,8d48b52b-2d8d-4ae9-8f88-0c9f76e45132,2025-05-21,Cancelled,1113.36,Card on Delivery,False
+c68cb29f-2fa1-4246-8829-5b3659c5076d,4158d4ae-3615-45fe-a58b-c8622cd0ddae,2025-06-13,Cancelled,142.68,Card,False
+04fa43fe-415e-43d1-a9d9-61d8a025c78f,96b91789-d905-4fcf-9e79-0ce604935b66,2025-08-25,Delivered,1371.34,Cash on Delivery,True
+558c9d36-0d2c-432d-893a-09ceb338d4a5,2af70002-4a71-4369-8de8-1a9a885bd01d,2025-09-17,In delivery,759.67,Card,True
+0c862ab5-f6cf-424c-8d18-93ef86c7def3,0018bc90-9454-4a90-9446-4890ffc81f4f,2025-05-08,Placed,2495.22,Card on Delivery,False
+19224372-d0df-41d6-89d7-545aa3d5a247,57a6d8dd-ed01-4aa0-9ea3-1054a76932c7,2025-09-20,In delivery,1785.92,Card on Delivery,False
+aa1a07e9-43eb-4a5c-bf71-86e7fc8a70e0,ac630a9a-f9ad-47aa-9628-7ed568a6c804,2025-06-29,Cancelled,631.95,Card on Delivery,False
+564b2723-7649-41d5-9601-2a7c0adf4bee,f9f107e1-52b1-4ccc-b4c2-bb889099af89,2025-07-12,Processing,1187.27,Cash on Delivery,False
+2938dd7f-1a36-4888-9782-be93448d2698,298db471-ea7a-4487-8a3b-f0d41ca497a9,2025-08-22,Delivered,1549.82,Card on Delivery,True
+d7c7a872-98a8-4860-958e-40d65a7b369e,5a823bd3-68fa-4f79-b2b8-627e4bf2ca5b,2025-05-01,Delivered,1911.77,Card on Delivery,True
+e2594c71-8bad-4b88-9715-f26c08d35b94,71e37395-a87d-4bf1-a507-d7302c354739,2025-10-04,In delivery,2365.31,Cash on Delivery,False
+1c4bd6b2-d22b-479d-ad95-9460895dd54b,70b019c1-2e59-4b0f-affc-8c2cf1814839,2025-10-04,Delivered,1529.6,Cash on Delivery,True
+7b909fbc-e6e2-46eb-a494-6188fab2dd8e,05fd8ab7-590b-4c1b-b377-e2778b974e5f,2025-06-17,In delivery,2988.31,Card,True
+bd5e36ad-bb19-4a6d-a947-0688e953144c,28cd2f25-a46e-4577-89cc-836c8dbf1b0e,2025-05-01,Delivered,331.81,Card on Delivery,True
+f800f4a8-73d2-4198-b0f6-b4b2d90bb1af,4db66b50-c762-4e36-a122-464a6c8ccb4e,2025-04-22,In delivery,1825.32,Card on Delivery,False
+cc7c92b1-ee68-4512-a11e-039343c7912e,50579baa-259e-4730-a2a3-ea5f15ba7508,2025-05-04,In delivery,107.94,Card on Delivery,False
+f0e8293c-310f-435e-a0d9-5836e683f51b,afb4f169-8ce5-4aee-ba0f-552159397bb2,2025-07-14,Cancelled,1763.86,Card,False
+a353585e-b07f-4f44-8f46-01d3c67b629b,67afd8f7-6384-4221-8e78-ca8041bba9f9,2025-08-20,In delivery,1832.4,Cash on Delivery,False
+cf2a666b-b402-4a76-a366-77f3c4670ffd,a1120c87-0772-42a8-973d-93979de38259,2024-12-06,Placed,1314.92,Card on Delivery,False
+2720d52d-8b20-43a2-9c6a-58bd27aff1c7,42689da8-d509-4ea1-81a1-d9d9db68c3a8,2024-12-03,In delivery,323.76,Card on Delivery,False
+8e8a7246-a6f8-4d08-8749-a1d5764e2568,cd557ca8-7b7a-4e33-a00c-e146f049b04f,2025-10-04,Cancelled,2051.84,Card,False
+76a44e3f-1d2e-4679-b26c-4708b5d0d321,f5cc750b-8c9b-4386-a6cb-b08af7eb6ff6,2025-08-07,Cancelled,3551.66,Card on Delivery,False
+6c188ba5-3116-4f7a-938f-4f05580ff652,c2ccbffd-6c16-4aea-9cae-cd580d07d25c,2025-03-11,Delivered,229.0,Card on Delivery,True
+2a5870f6-d7ee-4b7a-a2e8-b21c5f0985d0,e63cdc07-69e3-4d5d-ae61-2b11819f2126,2025-06-21,Delivered,680.79,Cash on Delivery,True
+4dffaf5e-bc80-4e37-a4a0-f0d613b81bfd,96a3015d-56fa-4b9a-9988-76dcd213e39a,2024-12-09,Processing,3684.02,Cash on Delivery,False
+23a9a669-54a5-4e63-bf2d-82096c501352,10b366b9-fcdf-44a5-a287-b4900ecbd8b6,2025-03-28,Processing,2571.13,Card on Delivery,False
+8097934d-2781-4122-a759-060ae435d3e0,51d43fe2-eb29-4f7f-b82b-fd433ea75626,2025-09-09,Delivered,2069.36,Card,True
+b1891058-dcba-4a63-8cc5-2ac6eeeee2c5,7e85a927-50c6-4ada-b84e-a32b348ba5e5,2025-04-26,Cancelled,1237.5,Card on Delivery,False
+6246fd1b-3550-4f0e-a4bb-4a62293da59e,a651a8a6-10c0-47d4-a6be-a04e73f57dd0,2025-03-21,Delivered,647.2,Card on Delivery,True
+9f4bdf31-9b78-4fe4-b7fb-c0bcbbe517db,c427dc5c-0f0e-4036-91ab-88fe6e8e5396,2025-09-05,Delivered,1744.27,Card,True
+0f1d7ea5-4620-4cef-b287-229595618f89,2df9c7fc-3d7d-44a7-b589-0fcec3e850f6,2025-08-04,Cancelled,2566.44,Cash on Delivery,False
+e7c4827d-3872-47b7-810a-59d465d30e86,c980705c-b721-4fa9-8823-35f423e170da,2025-09-08,Cancelled,286.94,Card on Delivery,False
+3efcfba6-757d-4d61-a91e-d416fb34e899,c8534c16-7dbe-4e9b-87c6-8489b9057cc4,2025-07-15,Placed,1058.82,Card,False
+21d1cda1-bcc5-4493-a800-ea8691b71b47,18b69d5b-b8e3-475d-bee0-b080ff72f60a,2025-10-04,Placed,596.57,Cash on Delivery,False
+26366666-17cd-492f-b74d-f405fb7b5925,eb411954-ae37-470d-9ba5-875e5dcb4c3c,2025-06-13,Placed,4194.36,Card on Delivery,False
+c1acd1e6-08fd-4df1-a75a-b17e28cf5c66,e7e74fc5-9fec-4b01-b9e6-7d7dfec87abb,2025-08-18,Cancelled,2970.14,Card on Delivery,False
+945e5500-cfdc-4abc-b624-399aff701125,3a468ccd-df5e-4c7c-98d0-7ddb6166cd95,2025-02-20,Delivered,1512.8,Card,True
+c17139eb-0fc4-43f1-8eb2-3a89cb3b9ad1,3700bf7f-32ba-4f4e-8f91-c1412c717c4b,2025-08-13,Processing,302.04,Card on Delivery,False
+a59ef869-c398-4dcc-a548-a49e4b3b9902,9bf4d7d6-b4d5-43ef-a796-e31459988f9b,2024-12-28,Processing,1360.31,Card on Delivery,False
+b922e6b9-d602-464b-b622-1d146cae3886,4e4d3b3f-fe86-439b-9454-532b2ce4e0c7,2025-09-19,Processing,3512.45,Cash on Delivery,False
+e88fa39d-4caf-48fc-95b3-7ecc47722e63,f5de0a6b-fb6d-4476-8801-150d8c8a1fbe,2025-09-21,In delivery,1236.02,Card on Delivery,False
+0698a5b0-bd13-4ecc-a392-754c171c0c1d,89ddece7-c729-48ae-b155-d43dc26998fb,2025-06-09,Delivered,1949.75,Card,True
+037bcf3a-a576-4666-b01d-635c34bcba49,42689da8-d509-4ea1-81a1-d9d9db68c3a8,2024-10-15,In delivery,2291.38,Card,True
+f5f39b73-215d-43ce-a7ed-f6ce0d23bf0b,0e8fd204-82b2-4d2c-a0a9-674af25ddd91,2024-11-22,Placed,2793.26,Card,False
+d1a4580f-8847-4acc-9cd6-a655b559c71f,7062cbe5-1c8c-4d7a-b3e4-fc5587799194,2025-10-03,Placed,1392.28,Card on Delivery,False
+97062fb8-a045-45ee-81f7-2f3d41b56cd0,a495aa23-f945-4756-81a7-288f8696c68d,2025-05-29,Delivered,2048.2,Card,True
+8cbb3b0b-ba45-45b7-a79a-fcbd77a7d91b,a214c051-71c8-42f6-aee1-5c3049145ad7,2025-08-16,Cancelled,2919.81,Card,False
+947d11ea-7a9a-4cd2-9bfd-2ca73d284c8f,e513549f-b8e0-4770-8418-9351f0b22e23,2025-09-28,Processing,772.65,Card on Delivery,False
+2588a232-40dd-4151-968f-4c9c39c11d50,d254639c-037d-4923-862d-f0390a2d20bf,2025-08-10,Cancelled,1383.63,Card on Delivery,False
+14d777fb-3dd9-477f-b147-8c87c8294eea,91833e11-942f-43b8-bbf3-0ad1f9804013,2025-02-03,Cancelled,2709.74,Card on Delivery,False
+af2282ac-5257-4b9a-8f29-785f2fd697e6,f94e509d-0cda-4211-8b1e-761634fe8b9d,2025-08-20,In delivery,1716.15,Card,True
+c7ae1690-8903-4c9a-b30d-e0d2ad4599a0,f0fc6c00-e43f-4a96-a712-2da367266b99,2025-04-01,In delivery,2057.8,Cash on Delivery,False
+d7159381-2378-4843-b8c9-d228303c23a8,632055b7-5eb8-4165-b025-6c1434e7b250,2024-12-16,Delivered,900.97,Card,True
+1225cbed-d073-41cb-9dab-d055e4246330,a02a7d4a-1b9b-4ce5-bb31-fda347ba94e7,2025-05-05,Processing,1843.56,Card,True
+ff00260d-7788-46e5-a526-aa05f947b9f0,a207b292-509d-4ea8-b7f8-3f9250ed33b2,2025-06-09,Processing,249.9,Card on Delivery,False
+74f72d0b-0be3-4d73-be68-89dc4182b103,a254597f-6d07-4047-ad78-6fa466407605,2024-10-31,Placed,619.9,Card,False
+577d2544-a5bf-4ae5-bb27-725b6ddee1c0,18b69d5b-b8e3-475d-bee0-b080ff72f60a,2025-09-29,Processing,283.35,Card on Delivery,False
+c5141c47-2b91-447e-9d09-671aa82b3b11,ab66dbea-f77a-4f7f-9bd0-880a479d64e4,2025-08-01,Placed,1507.06,Card,False
+a9cfca7e-eea6-47d3-98d6-75e9d83f9cd9,d860763b-31fa-4413-ad58-5908ce145442,2025-08-26,Placed,647.02,Card,False
+9f9d0282-dfbf-4254-8fba-e3ecf97a5c77,a2902b27-d512-4d47-922e-10943690be11,2025-06-03,Placed,733.02,Cash on Delivery,False
+e274f0f0-f206-4575-b63d-bce2b45eeaac,b107713e-b637-40ce-9a1e-957175649247,2025-05-04,Delivered,2538.94,Cash on Delivery,True
+0a5d6281-c049-48e9-98a6-0bd73963d67f,95a73140-be57-48fd-81d8-4bf020d50cf6,2025-03-10,Placed,1872.93,Cash on Delivery,False
+e4a0401d-a2b9-410d-b10d-c7d77b2bda6e,9cc89063-dadb-4b2e-8bcc-35497070872b,2025-09-19,Cancelled,2089.71,Card,False
+3695fd71-7e48-4604-939b-0aaafc0720e6,ac753e80-228c-4fc8-8751-e8a2cb30e87e,2025-08-30,In delivery,1806.06,Card,True
+65b653d8-8956-4ba7-8e7a-441db180eec5,d558acb7-bc40-4129-82ad-f0c801432159,2025-09-09,Processing,3068.06,Card,True
+3d3153b0-07b7-4540-bf5f-2225b64948af,39e28249-836d-4efa-896f-fb9908b14639,2025-03-16,Cancelled,282.57,Cash on Delivery,False
+1c189e60-0fd3-43eb-b606-87f93510fdd6,b20f213f-4fdc-45e2-9f2e-1a8e1ffe8f3b,2025-09-13,Delivered,1587.69,Card on Delivery,True
+2c722367-cad2-45e4-8ae5-321f319ac8da,4807b86b-2d55-4a74-b6b8-aa0d8a051eb0,2025-07-13,Delivered,1607.69,Card on Delivery,True
+0b083a79-ea25-4178-9175-34917352636c,f94e509d-0cda-4211-8b1e-761634fe8b9d,2025-09-15,Cancelled,1912.18,Cash on Delivery,False
+311669eb-7786-4c9b-9b18-fc2003131c9d,7be0286e-c119-4f57-af04-63981420553f,2025-02-07,Processing,3160.48,Card on Delivery,False
+ff92dbbd-7a11-484e-a530-ef7c1152fba7,35fd1bb3-06cb-4668-9320-646908b3ad5f,2025-07-17,Cancelled,508.12,Card,False
+cd5ca8cd-7e36-4882-a102-5809f40a7f45,834dfa15-12b8-4c25-8b57-f733b7e48e68,2024-11-13,In delivery,1425.36,Card,True
+86ce1558-29be-490d-8e7e-7a6c62843ffa,050a35e6-5782-419e-953c-e6c0b224df17,2025-09-25,Cancelled,678.52,Card,False
+2b1b3845-1111-4b01-83d3-e9df313bd951,113ae716-4e6a-455b-9b25-68412bc16701,2024-08-30,Cancelled,1035.75,Card,False
+f4957df7-c16a-4459-92e2-ee0d05d77d88,df67d0b3-078e-4226-a4ea-96bf188dfcef,2025-09-04,In delivery,428.48,Cash on Delivery,False
+4dce0320-f9b7-4d34-bbd0-2cd13495d98b,97a43bd0-7017-416c-957d-cf334b06c2e6,2025-04-27,Cancelled,1004.37,Card on Delivery,False
+704f5a3b-e87e-4edb-9d7c-abefb5298256,ad70d913-f04c-4608-a308-7d679e6b7cb2,2025-06-14,Processing,70.06,Card,True
+6f384a05-31ef-4f90-b223-b04bd2127dc6,3a468ccd-df5e-4c7c-98d0-7ddb6166cd95,2025-09-12,Delivered,612.33,Card on Delivery,True
+fbf60818-cea8-4029-97f6-7d36c17eb825,87db644a-bbba-4a1e-9535-cf47dbb76b7b,2025-02-12,Placed,1079.61,Card on Delivery,False
+f9f14a0b-4ee2-4d92-8f2d-9e86d65482a1,ca4b4094-b784-4455-b9d6-30067d21fb0a,2024-10-05,Processing,1876.33,Card on Delivery,False
+417ebf6e-f2ce-436a-b1ac-b3e7e8b376f2,942a2748-4b3c-44ef-a6f8-80874d4ee901,2025-09-21,Placed,1125.7,Card on Delivery,False
+fcd17dc9-d2e2-4d7d-9172-384438d7a4b7,268b7848-cbf0-4569-b044-230f305bf894,2025-09-11,Processing,432.77,Cash on Delivery,False
+bb4a3033-7f29-4561-82f8-e102d66cdc96,3d28d537-8d27-4d1d-a664-5a144fb8408f,2024-12-23,Cancelled,3353.93,Cash on Delivery,False
+f1ff8ca1-cb19-4160-bdfc-71bf0f7d0d08,17c92d02-4420-49b5-88c3-f7ead2ff0404,2025-08-06,In delivery,2860.81,Cash on Delivery,False
+f83e128f-ff2b-4e65-883f-36cb5193c882,427b3edf-a8ee-4252-b037-90fe4cc99916,2025-07-28,Processing,2453.4,Card on Delivery,False
+9ea61490-06fc-418a-a669-abfb28bb355a,aefa5b3b-b63f-45b9-89f9-2afe2f5f35be,2025-08-11,In delivery,1683.76,Cash on Delivery,False
+4f968f9d-15b0-440d-85c7-b58767da334d,cb91d014-9246-4987-92d5-f5d60888c93c,2025-08-22,In delivery,932.3,Card,True
+5293596f-b86d-4e14-84a0-edfc524c7b95,a0b06abb-2b6c-440e-aed8-5b0fde77138c,2025-08-17,Delivered,456.12,Cash on Delivery,True
+23a4ccd5-685a-466c-beec-f8bbbdd5c292,e2e37b30-bbec-49d1-8f2c-047b557bbd10,2025-07-12,Delivered,187.94,Cash on Delivery,True
+8e666f3c-1533-4380-8ccf-fad3be744092,d754b88b-04cd-45b7-af5b-21e80baecfdd,2025-08-31,Delivered,2213.92,Cash on Delivery,True
+e1ad8ce3-571a-4fb8-bf85-f4ade369d007,2bc91b2f-a552-4c08-b4cf-7c12adba4c2e,2025-08-19,Cancelled,2350.94,Card on Delivery,False
+5667455f-e05a-4df4-b1db-fc0d103128ba,b235e59b-5227-429f-a9a2-8b8cb9958857,2025-02-28,Placed,731.24,Cash on Delivery,False
+4a91278d-3cb9-4c99-b854-74a9af58f8f7,49d09dda-af47-46ec-bd0b-b803dd7da46d,2025-08-12,Placed,819.05,Card,False
+86161f15-27a5-4b0b-b7e0-b760b06c5298,3f4aa9c8-cfd9-42aa-9a0c-6d2afecb6e40,2025-06-20,Placed,1030.67,Cash on Delivery,False
+cfabac60-3e1e-47b5-a26a-0fe098577b5e,9c19d426-6b46-48e6-afa7-329813de9283,2025-04-25,Delivered,329.36,Card on Delivery,True
+a16070be-7e62-4351-8328-4caf1e12b025,5563490b-27fa-4cc3-93d9-be045e35ba69,2025-05-24,Cancelled,2080.64,Card on Delivery,False
+6c8c8129-2838-41b9-86f8-ab1a2eb6a429,4d3b4505-93d5-4505-af8d-8c4f41ab86c2,2025-05-09,Processing,1534.09,Card,True
+ff617535-22c4-47cc-969c-09a3f1483c85,f726aa4a-2e00-4d82-8735-9a85003edfe9,2025-02-07,Cancelled,3008.53,Card on Delivery,False
+890a5be1-389e-4617-8b9b-908ef1027e82,298db471-ea7a-4487-8a3b-f0d41ca497a9,2025-09-10,In delivery,1087.4,Card,True
+e428fcff-54d2-4979-8829-7373754c981e,e614b9c5-d019-4c33-91e3-b5930597717c,2025-08-06,Cancelled,1203.48,Card,False
+551b2eaa-3d80-4dbc-8a7d-afd40b067003,e81b3c29-6650-47cf-8694-d4ede3e6e0b9,2024-11-19,Processing,837.07,Cash on Delivery,False
+a16ebf76-db54-4971-8b7c-9f97d381099d,2eb00278-1044-4378-a4b5-8f8ae7f84a40,2025-09-08,Delivered,1640.55,Cash on Delivery,True
+7d90e243-c84f-4201-9210-7db13f891234,5ea6701b-4c6b-4968-b487-36f9e0a79942,2025-09-06,Delivered,487.41,Card,True
+186f8c2e-d530-432d-87af-872319154a47,6ff5b98d-0fd3-4443-985b-8631e66b982d,2025-08-14,Cancelled,2414.56,Card,False
+82a8b441-5dc4-4c66-ac9a-46332718619b,4df549e7-be15-4e58-a300-0a6c59d95882,2025-07-09,In delivery,1048.93,Card on Delivery,False
+f0ee0507-c6c2-4a84-bbbb-028b9c719026,96a3015d-56fa-4b9a-9988-76dcd213e39a,2025-04-01,Cancelled,1074.0,Card,False
+a7e51667-55a6-4f80-88e7-6e4e141d5dc8,40462884-ad48-4062-8e92-d697b83f67b4,2025-07-14,In delivery,3870.14,Cash on Delivery,False
+638b2d71-4c98-443d-af72-6089ce451f7a,8598ed28-b3e0-4d6c-a7f0-2e276ba66aaa,2025-09-20,Delivered,1409.9,Card,True
+15e1de87-8bb1-4fac-aa60-6957fd2b568a,9a662351-f1b5-45f1-b1d0-201b81ef24ee,2025-01-07,Processing,2932.65,Card,True
+a954ceaf-70c9-40f7-b96f-f92682521a50,e523d356-e61f-4659-8c5d-7b9e400f7996,2025-09-05,Processing,1265.3,Cash on Delivery,False
+646d44c9-b378-4e6b-9092-8eb66cce1a48,562b19b9-02a5-49c1-8171-cb68ec4f47bb,2025-01-25,Delivered,3247.21,Card,True
+41577bad-c107-450a-9cb9-61a0fa2f94cd,8598ed28-b3e0-4d6c-a7f0-2e276ba66aaa,2025-07-30,Delivered,2013.67,Card,True
+7739b485-07d0-4199-a681-e38946b9616a,12cd3408-c374-422d-9f43-9bf432cf9e24,2025-08-05,Processing,959.98,Card on Delivery,False
+665d237a-c98c-42ba-a5f9-1dd9464fe724,95a73140-be57-48fd-81d8-4bf020d50cf6,2025-01-25,Delivered,2503.46,Cash on Delivery,True
+dfd3606b-b820-4bc1-8308-72277d27738f,f8198b1a-2136-406a-a813-4b3d5f29d799,2025-06-25,Delivered,303.75,Card,True
+f42b8b0f-b20b-45f7-9925-59cfb9567515,ea37db6b-a12c-4c74-9c88-3d5eaa60afa9,2024-11-03,Processing,755.88,Card on Delivery,False
+01273dee-c9ef-4f96-82c8-aa0432b769f7,c1f9e349-cacc-409a-9c7e-40c3b8bb62be,2025-01-02,Delivered,974.72,Card,True
+f702b843-f0ec-44a4-a6cc-1abc364e2148,88f680fe-5c51-4b63-a0e7-48033ef954e5,2025-07-10,In delivery,1084.42,Card,True
+c8cdbee4-3513-4569-8da0-5cdfe00960e5,16a3968a-baf3-4383-8351-dd1ff7575741,2025-08-13,In delivery,2909.93,Card on Delivery,False
+4885fa02-0879-48fb-bd0e-9a7cd8f05f99,70f67a4e-413b-4a01-9e8c-f747a1d8ff72,2024-09-27,Cancelled,1814.05,Cash on Delivery,False
+046da2cb-5ed6-4acb-b885-b7eb3be12638,3bd084ca-1fd6-47e4-8013-5702cafd1e38,2025-04-19,Delivered,2848.9,Cash on Delivery,True
+db7fa5bb-b9a7-4f6a-81ac-a411bea2c6e4,8f8a91a7-1b2c-4261-84b2-013dfe04236b,2025-05-23,Processing,2799.54,Card,True
+bf8665f2-e158-4a54-9ab8-d374941b00d9,e7f19537-64a5-4a9a-964d-9f1a411bcd02,2025-06-18,Placed,1696.81,Cash on Delivery,False
+f187ef1c-d1f4-475b-a070-8094fd852d03,11c4f931-4f72-4792-b90a-ebb3cc5b4ec8,2025-04-27,Placed,1438.58,Cash on Delivery,False
+497f7b35-4d9a-4c94-ad38-310306bd0abb,3dc6ca75-f2d0-4972-9c3f-07d20cf6b9cf,2025-10-01,Processing,1427.16,Card on Delivery,False
+2a5b6f25-56d0-4b22-9049-a901b1815f6b,9e7c9da7-08c0-491e-96f0-edbb339aae5c,2025-03-07,In delivery,1520.2,Card on Delivery,False
+87110161-8b26-4acd-b78e-3f8038e47fad,869a3107-4315-454e-818e-c9862d3a45cf,2024-12-31,Delivered,2645.15,Card on Delivery,True
+1dd3c3d5-35e9-4692-9557-c9e7978d09e0,abf6c398-1d88-4c33-b574-3b4b4ef1bee1,2024-12-20,Cancelled,1185.72,Card on Delivery,False
+c06a6fd4-4b63-4277-bbd7-3a7d6e0cfc4d,946179ef-695c-45d0-b87b-d7c1c50479ba,2025-08-21,Processing,1363.84,Card on Delivery,False
+dc5075b6-b611-4bf1-b5e7-4e78cb95cb12,0018bc90-9454-4a90-9446-4890ffc81f4f,2025-09-02,In delivery,3417.84,Card on Delivery,False
+b290e1ed-f622-495b-81bc-b2c6ed073eb3,08625366-8758-41f3-8c0e-61151ad91abe,2025-09-21,Placed,319.87,Card,False
+b0895100-ca11-41b7-a67a-56521b479ba7,7eb1e46f-e126-4f2c-ba7a-e2d3a37d013e,2025-08-30,Placed,3514.48,Cash on Delivery,False
+3d3a4d5f-bde3-4a4c-8f01-dc32c2c84b80,5610078a-55c9-436c-97d2-02c732a3759e,2025-09-03,Delivered,2024.92,Card on Delivery,True
+df243cf7-06e2-40c3-8784-c99235019314,aefa5b3b-b63f-45b9-89f9-2afe2f5f35be,2025-05-15,Processing,2241.37,Card,True
+dee36f0f-b536-4df1-8335-9b968f8917f7,9aa1fdf2-d66c-4f3b-9f39-b702bb91087f,2025-09-18,Processing,436.46,Card,True
+8470db1f-df5b-4e1b-87a7-d18f8782f071,8d48b52b-2d8d-4ae9-8f88-0c9f76e45132,2025-08-01,In delivery,272.73,Card,True
+345e01c4-b330-4ef8-9160-86ebf0d45311,67144bc0-f1d8-4229-9e34-4f87da5238b1,2025-09-07,In delivery,2215.59,Card on Delivery,False
+ac74b210-931b-4933-9e2e-317534358f99,344122d8-34a8-4a86-9ef4-238102f25949,2025-05-05,Placed,2494.14,Card on Delivery,False
+5994902a-ab5e-4d55-8ee9-d2b60d117bbf,c38e5ba1-aeb7-45d2-8fe7-677909da1c32,2025-09-01,Processing,1149.52,Card on Delivery,False
+8427d4e0-d8ac-4276-a7d7-6d40eb032342,ef37b875-ba0a-4074-a0b8-8b0eb3960147,2025-03-13,Delivered,949.27,Card,True
+6b99722b-ae85-4bcd-bdfd-c3e2b6365c73,d860763b-31fa-4413-ad58-5908ce145442,2025-01-28,Cancelled,1977.88,Cash on Delivery,False
+9ca902cf-54c1-46c5-8639-a0b90a31e174,9230f60e-00c3-4e12-8174-f435fc2bb197,2025-07-23,Cancelled,343.12,Cash on Delivery,False
+61093ad9-f250-44ae-90f1-dd58708ec3f0,8f1e9248-4530-4498-ad20-0d341148a33d,2025-09-21,Processing,3229.42,Cash on Delivery,False
+b55f1c7c-feb2-4db4-ade4-f33d400c7d76,2015968a-2bae-404f-b974-8220bfe59a24,2025-09-05,Placed,1430.71,Card on Delivery,False
+5f84f4ae-cf08-49ac-8e2a-185e1e520108,537a822f-f5ad-4862-aab1-ec61d8f75856,2025-07-27,Delivered,1028.34,Card on Delivery,True
+57efbd01-c8eb-4339-96f2-0bc444d828ce,0a0a688a-ac2c-4b12-9822-ba627c9e9fb1,2025-05-02,Cancelled,1454.01,Cash on Delivery,False
+a9b6a294-0ea1-45a5-bfa6-d13479c5ae8b,bc48445e-eed9-43f3-9cf1-c2bcf6084723,2025-05-25,In delivery,925.35,Cash on Delivery,False
+b51d04b2-e5a0-4f8f-825d-b109059d4aa6,4b59c295-3787-4101-8905-cc5831b78e1c,2025-04-11,Processing,1706.09,Card,True
+b459afe6-5985-4578-b21c-6bb9db37950b,77945f67-1681-4fb5-915b-1711461cc629,2025-06-13,Cancelled,1885.53,Cash on Delivery,False
+42a85653-f06f-448b-b0c0-15ddc740d721,9a662351-f1b5-45f1-b1d0-201b81ef24ee,2024-12-07,Processing,847.25,Card,True
+6d6aa697-388c-409a-94a3-c85bf4dc90db,5d1df364-78dc-48c8-9e3f-b58fbfb2eb84,2025-10-02,Delivered,300.44,Card on Delivery,True
+3c9bdaa9-667c-4cfe-8b3a-160de71b451e,0d339052-66e8-4ff2-ad9b-697f99e9e374,2025-09-24,Delivered,1986.7,Cash on Delivery,True
+ff8d3fb9-3d2d-41ff-9fa3-83c9bcd0baca,30aa6202-f054-4939-a957-b522290492d1,2025-09-21,Cancelled,174.8,Cash on Delivery,False
+c56193cf-599a-4d63-8d67-11c97606a0d1,c14fb2f4-053b-4074-8a0b-d6973631540d,2025-05-22,Processing,2451.38,Card,True
+567f217f-bc6e-4cfc-849a-ad342ecc4fb4,eeb64c36-f259-471f-b718-02045526b26b,2025-09-28,Cancelled,2714.01,Card on Delivery,False
+88c95cd0-12a2-47c6-9709-132da2f22ab5,017c0ce5-b9a0-4fde-8c84-40a038560dbb,2025-08-22,Processing,379.78,Card,True
+73273339-44fd-4890-8b29-d4a8b93bb58d,d3317289-0b82-4348-8fe1-e1fd28b1586f,2025-08-30,Delivered,1942.28,Cash on Delivery,True
+55b79204-730b-44d8-a8e2-904401f9ae46,41c65028-d26f-409f-b6b3-f2c023b361ab,2025-07-21,In delivery,1253.64,Cash on Delivery,False
+8d45f228-2a6c-4ece-b273-2addf167ee7a,72fde0c5-aab5-4883-95b4-522ce916d59b,2024-10-08,Placed,1751.47,Card on Delivery,False
+446081e6-4525-4604-ae93-c0893472d7d7,c2c05b99-0289-4025-8dc2-28de8b7f4827,2025-08-31,In delivery,312.61,Card on Delivery,False
+2aaf38e3-3ce9-405e-b2f2-ec82c8df12c4,539ae125-c9c4-498d-a385-2529c8605f38,2025-08-21,Delivered,807.36,Cash on Delivery,True
+17a6bc1e-2f6f-4cee-9ac4-53bfa26525ac,eaf45890-387c-42c1-8a9e-b81528a6fcc6,2025-04-30,Processing,939.63,Card on Delivery,False
+f322da68-9bbc-4393-bde2-99029613293e,3a78809f-787a-4d36-a79c-080d9ed4431f,2025-02-27,Cancelled,231.64,Card,False
+25a984c8-f863-42f8-95cb-e93a877703e2,9bf4d7d6-b4d5-43ef-a796-e31459988f9b,2025-02-20,Processing,1165.89,Card,True
+b7b5dd7a-c8f9-48ad-9ca3-909f7a2983df,8346165c-6931-4c64-af0e-2c8822b45465,2025-04-16,Processing,1470.44,Cash on Delivery,False
+aea7bbf5-88fb-4d13-8058-5e55c800d1d6,f9f107e1-52b1-4ccc-b4c2-bb889099af89,2025-07-24,Processing,2602.66,Cash on Delivery,False
+19be599b-8f27-4f35-a13a-9f9396a064a2,ae3e38ce-bc8e-478f-bb76-696a45128661,2025-07-16,Delivered,2982.67,Card on Delivery,True
+18f6009f-7cdf-44ae-aa31-ac956bed1db8,282b39e1-be14-4800-b3f4-bb02ef26eada,2025-08-28,Placed,1627.0,Card,False
+49730132-fbd1-4b71-80f4-72d139ecdb62,51567aac-7817-4e74-ac25-4ecad194d08d,2025-07-10,Processing,1013.02,Card,True
+a05f4ae4-920b-45d3-8aee-e40d141bb5aa,04624955-f9ea-4093-9a66-6927f5b06e19,2025-06-11,Delivered,2776.28,Card on Delivery,True
+0e742e71-74da-46f7-9ddd-d9dda1f708a6,c8ab8f7f-74bc-41bc-8c99-9392116f8af6,2025-09-22,Placed,1137.81,Cash on Delivery,False
+df05fe97-8381-41a1-8e24-dd661abd1037,fdbaa90e-ad41-40d3-ac56-bf7e0ff3cadc,2024-10-19,Cancelled,792.48,Card,False
+3504602e-f328-46fe-b969-3b1cee9c591b,2cd8a1bb-4227-470a-9ebc-2299cf48c097,2025-01-20,Placed,1554.49,Card on Delivery,False
+9efbca36-627f-4f01-a759-58ffbb2baaa8,a908f1c3-8b76-4bb4-a247-448a0acda996,2025-02-01,Placed,2524.38,Cash on Delivery,False
+e23bc29a-9e8b-4799-90af-be5538c1c969,c4a0e239-3521-42c8-ac43-34bd38eea0d5,2025-09-26,In delivery,692.26,Card on Delivery,False
+41e45e5b-682b-4494-8f62-b586fc236dce,eb411954-ae37-470d-9ba5-875e5dcb4c3c,2024-08-05,Cancelled,791.42,Card on Delivery,False
+fc32c041-2e0c-4fbc-a51d-4df45f428365,b39c7bfe-89d6-42c6-a12c-11cfcd2f4035,2024-10-21,Delivered,2574.04,Card,True
+c420c784-3810-4c8c-b2f1-edb212945932,42fe7063-d9d5-40be-8c52-bb93d631ae05,2025-09-18,Processing,1513.52,Card,True
+139d4575-f2a8-472e-ae44-25b8b476ccbc,5563490b-27fa-4cc3-93d9-be045e35ba69,2025-05-16,Placed,484.2,Cash on Delivery,False
+9923bc93-fa56-4346-88fe-7e74daa02681,702e1ba9-8cbe-4a24-993d-1cc4c8537061,2025-07-18,Cancelled,3634.86,Cash on Delivery,False
+01f62309-911c-447a-8f0c-9359297045a2,442f94ea-531a-449b-a8db-a9326990bcf2,2025-06-18,In delivery,159.93,Card,True
+fe74c731-9099-41f0-82e3-d41e9d79d7b3,c7a6ecfb-4231-4a40-91ec-d1d2127c7caa,2025-09-07,In delivery,709.99,Cash on Delivery,False
+82a4dd03-589a-4a8f-ae9f-299523164662,40e9911a-5b19-486c-b9b6-29c3e2f72336,2025-01-16,Delivered,2485.62,Cash on Delivery,True
+67cdb9ad-3554-40eb-b37a-7ced7c8205dc,4807b86b-2d55-4a74-b6b8-aa0d8a051eb0,2025-09-03,Placed,2997.04,Cash on Delivery,False
+ee1c46c1-302d-4c8b-b06f-c801983af9d0,c2ccbffd-6c16-4aea-9cae-cd580d07d25c,2025-09-13,In delivery,988.24,Cash on Delivery,False
+07e8a5b1-b4e2-4b5d-8eec-1c1ee08dc6d6,5bd23a1a-0e63-4042-9a8f-695083096016,2025-09-28,Placed,1432.52,Card on Delivery,False
+0c52db95-4c5c-4ed6-8f1f-e310e05ce9b8,cc1c93f5-95e9-45af-9bd6-4d26ffcb1387,2025-06-15,Processing,1143.31,Cash on Delivery,False
+8831ebb5-994a-4828-bba9-274bd9ded2ef,98892583-86b4-4875-8d15-bb19ef31e35c,2025-09-25,In delivery,514.19,Card on Delivery,False
+0c56c469-f2b9-4ed7-aea6-b2f3bf6e042d,9a141f86-94b2-41a6-8a1d-47d2a72954cf,2025-09-05,Processing,2554.27,Cash on Delivery,False
+4c195249-3593-4bb1-b8d1-0e112cb0c899,7ed31f85-a8e2-45d0-9740-eab5c6ceac1c,2025-09-17,Placed,1583.74,Cash on Delivery,False
+ac9bc102-922e-41e9-b71c-3f2942104f81,efa05ea1-d3e8-472a-aa5b-11b64475fa23,2025-07-12,In delivery,894.87,Card on Delivery,False
+b18a8edc-ca58-4564-b3b8-18b9965c69e7,bd42161e-2a64-4472-a3f6-d595d665352e,2024-11-22,Delivered,1506.87,Cash on Delivery,True
+df4f702f-eebc-4156-af4c-6769f15f3e08,f4d47f05-6476-4ebd-9aa7-b6c73fb29008,2025-02-13,In delivery,1783.28,Card on Delivery,False
+85f8832a-319a-40e5-b1b7-039450590dbd,5b7bb19c-a2d0-436a-8651-96fd21d05723,2025-05-14,Placed,1143.25,Card on Delivery,False
+89888800-f1a6-4294-aa21-b32ba9099b72,fdf160db-023b-4cc4-b554-b7869f39bec5,2025-07-11,Delivered,2952.72,Card,True
+e8499aed-277f-4061-847c-31a3819d99d4,647d1957-1611-43f3-9a0c-5c59b4b97177,2025-09-20,Processing,2102.15,Card on Delivery,False
+4889459d-5a4a-4439-acef-0f5fb93ef9cd,ef2f3606-18f3-4be8-b61e-557b33733669,2025-08-06,Cancelled,611.1,Card,False
+f0ad2fa4-838c-4a91-9da0-fd9ea11480e4,24dac672-903b-4aa6-9d41-3a620bfc78ed,2025-06-14,Placed,319.87,Card,False
+555132c2-990b-403a-a85f-8d822e02a06d,3e1526e6-203f-4296-896b-47127f203fb7,2025-10-04,Processing,1686.93,Card on Delivery,False
+8dd20069-7e60-4c4c-b8b3-aaf446632d80,18f0368d-7494-41cb-80fd-4ca0fc67155f,2025-02-13,In delivery,1189.92,Cash on Delivery,False
+65f86b42-e864-48a9-9c12-5c73543d1b6c,3394f72e-8fff-453c-94ce-6a5c9f62d0e9,2024-11-13,Processing,1892.76,Card on Delivery,False
+f015feb0-a426-4cd1-b00a-3e432fcdc76e,07d0ac84-f7d9-4e20-93eb-b0492055ff6a,2025-05-07,Processing,2770.53,Card on Delivery,False
+ad680b32-d427-4126-9ccb-6370b9de4771,0abb1468-439b-4bd7-9d34-0c3d8d9c9641,2025-06-09,Cancelled,792.03,Card on Delivery,False
+ea9b281f-5667-4bf7-9f63-bd7201c8c9f4,b81cc2f2-020c-4117-84fc-e501d7f2c785,2025-10-04,In delivery,3106.22,Card on Delivery,False
+acd6acef-477a-4c05-a22e-b938731a58fb,2b54da7c-7e13-4515-b12b-c982c90af9df,2025-03-14,Placed,1936.76,Cash on Delivery,False
+dcd166db-abca-4323-adba-4f60cba557c6,1effb9e6-c84a-4d66-84be-e2ca1c1c6df5,2025-01-04,Processing,2595.3,Cash on Delivery,False
+200a3452-3c8f-4842-a132-1175a791696b,c85f7a3d-60d2-4f85-a01a-73a5415fd762,2025-05-27,In delivery,1051.7,Cash on Delivery,False
+daec9379-1a9d-496b-8eb7-f44d0d6f8ea3,53ebf87b-6724-41b1-8108-e7bb63de9258,2025-09-16,Delivered,434.88,Cash on Delivery,True
+08ec5c3c-0046-4c88-8073-347525a51a2a,140a8b19-7295-42db-a12c-41a5b2d55715,2025-08-07,Placed,1176.98,Cash on Delivery,False
+e5e3d160-d2a8-45a9-a2ec-aeab4f59a475,d6db5369-3ff0-4174-9a67-1050a704d6d6,2025-09-26,In delivery,1561.67,Card on Delivery,False
+3b02a719-1815-4e89-836f-76442935c3cf,ddecd44c-c3c4-42e1-9ff4-9c669ed797c2,2025-08-13,Delivered,584.54,Card on Delivery,True
+f08d8001-d4d1-4f9b-b7d0-ae9bcbadf8b3,f4d47f05-6476-4ebd-9aa7-b6c73fb29008,2025-04-27,Placed,610.2,Cash on Delivery,False
+fe079e89-60d1-46d0-b944-f49140a39373,71e37395-a87d-4bf1-a507-d7302c354739,2025-10-04,Cancelled,948.57,Card on Delivery,False
+52bffccb-d95e-427c-9f05-f4f01450d6ea,cd557ca8-7b7a-4e33-a00c-e146f049b04f,2025-10-04,Placed,2671.82,Card,False
+5495d6ca-e484-4b3b-9bea-8077cbaed435,ab66dbea-f77a-4f7f-9bd0-880a479d64e4,2025-09-24,In delivery,1557.33,Cash on Delivery,False
+7d456029-bb4d-4219-baa2-fa5a3434cffb,58563e02-83db-4110-bd22-abbea2c567bb,2025-02-19,Cancelled,1747.11,Card on Delivery,False
+b83b54b3-05fc-4320-8166-8e777fe77941,1afa85a1-846f-4a78-923e-e419eef13bf8,2025-09-13,Placed,844.41,Card on Delivery,False
+071efcb2-7f74-4d3a-a46b-ff89af626a47,4b25c903-ec72-4075-8aad-2ef241098867,2025-07-04,Cancelled,1782.4,Cash on Delivery,False
+910d796a-8789-48b9-b706-739ae2c6f175,baf4142b-70f5-4e19-b0ad-c4a7f1d30505,2024-12-23,In delivery,1667.27,Card,True
+b01cd4fc-9b4e-4cbf-b6d2-d87eb9634a19,96b91789-d905-4fcf-9e79-0ce604935b66,2025-09-19,In delivery,1320.87,Cash on Delivery,False
+a3932452-a8b6-4083-aa82-699e5c11e777,92c1df76-a497-49c4-b828-953de6527dde,2025-05-14,Delivered,1048.29,Card on Delivery,True
+5503dad5-74a9-444a-b512-1618a1a241f9,fd8b7eb4-5158-4a68-bd31-01292cafb976,2025-08-03,Cancelled,1018.85,Cash on Delivery,False
+f974a195-15ce-4f1a-badc-a985a936792a,485b10d1-7778-4b26-9c47-19d4e25a7a03,2025-03-21,Cancelled,2068.54,Card,False
+607de272-cdca-4c78-af00-292080b6eca8,8262aaad-0e24-47e8-8c74-44bf145e7896,2025-09-12,Processing,825.72,Card on Delivery,False
+75af9dc6-baef-40eb-bf81-dbce99d19b42,2ec5b49f-b12e-448b-ae62-f92e33abd3ad,2025-09-24,Delivered,2254.16,Card on Delivery,True
+21f06db3-1bfa-4107-897e-8b3aeb870dee,244b122a-a3e6-4f11-886e-3aa89a4a430d,2025-09-11,In delivery,2293.64,Cash on Delivery,False
+d3fb473e-cc72-4dd6-9367-75c7c376032a,414f92df-7d5c-4da8-b4d2-8e432ef4b74e,2025-03-25,Placed,91.35,Cash on Delivery,False
+ffdff167-8dec-47b5-97e6-c1ff96107929,f1192ee6-0eeb-4a6f-bbda-bd5972443a09,2025-07-14,Placed,1850.63,Card on Delivery,False
+50fc8cd5-76ad-4b12-8c10-48fd1a28dada,f9f107e1-52b1-4ccc-b4c2-bb889099af89,2025-09-06,In delivery,2636.27,Card,True
+74e60612-6573-4952-a9f6-d563979b8a83,b5525b6b-db08-412d-871c-30e90a5d6d40,2025-07-30,Processing,1676.85,Card,True
+88ae872a-ff93-4010-9fbf-f72ab17f0ba4,10b366b9-fcdf-44a5-a287-b4900ecbd8b6,2024-10-03,Placed,80.8,Cash on Delivery,False
+83e8640b-82be-4282-9dd2-8fd5a97bce76,c18aa651-2600-475e-a3ca-a12108d4cdb4,2025-08-22,Processing,2140.29,Card,True
+4db63a05-49dc-414d-9851-812c70ef2ae2,f15ea661-88c5-4c94-a254-7a325e98767a,2025-03-02,Cancelled,1807.44,Card on Delivery,False
+05572043-2533-482f-a677-51cb4270cc20,4af09256-c399-48ab-ba66-99441cbb3f77,2025-03-12,Placed,3052.93,Card on Delivery,False
+11b3bb8b-fadb-4e1d-9419-30a4fd4eda66,d558acb7-bc40-4129-82ad-f0c801432159,2025-05-17,Cancelled,1612.83,Card on Delivery,False
+bd9b9350-f436-41de-9c03-5a8565618847,2bd48142-a5a1-4887-844f-29ab07706a11,2025-07-06,Processing,2187.13,Cash on Delivery,False
+a477c12d-a714-41ba-9332-8c8b273a0505,1a353deb-e214-40fa-8e7f-500ca04fd870,2025-08-14,Delivered,2580.32,Card,True
+bdf6a005-2052-4771-b2ff-50d27fecf487,c959bf6a-0b26-40f4-8443-2945033d2b27,2025-09-13,Cancelled,3423.02,Card on Delivery,False
+8f9a8c2a-9851-4568-935c-0c213c2fee10,48dc83c5-2e37-484d-8d54-f12413f99048,2025-02-22,Delivered,766.46,Card,True
+b79ee62c-5bf6-4911-acac-164c03c98e10,6a263531-6918-4b15-803b-28e91e29f797,2025-10-03,In delivery,988.12,Card,True
+2a9cbe40-a942-42bd-b23d-75288846e407,c4e3ff39-d642-475a-866c-34658cc04a0f,2025-09-27,Delivered,2939.98,Card,True
+8ae09662-623b-47bd-83b6-d135dc4d3add,7ba400a6-16ec-4cd0-961e-e1a30ca41e55,2025-09-04,Processing,4120.38,Card,True
+bc03ee3d-0b3a-44da-a71c-ecbdae08aeb9,d558acb7-bc40-4129-82ad-f0c801432159,2025-04-04,Placed,2952.25,Cash on Delivery,False
+78fe9812-7266-4e20-afd0-ed93f9a661a7,55677184-eda9-42c9-8a5b-132f69cc1a06,2025-08-15,Processing,1512.03,Cash on Delivery,False
+da4ead7a-ed48-4b77-a45f-35bce0171bd2,83e9f151-793c-482c-a176-e4a8e65357fe,2025-07-26,Placed,1626.52,Cash on Delivery,False
+9bb341cc-496a-4d95-96fb-abba01ffd2ea,4c8a5efa-8f17-4a8b-8394-7e49afc1ea8c,2025-08-10,In delivery,2639.99,Card,True
+bc16502f-1bf1-4905-9bed-7b02b14b4ae0,7028fa85-534b-4a4c-9f0b-8af9335b2b47,2025-10-01,Processing,3050.28,Card on Delivery,False
+9dc33daa-1033-4b77-bc5d-5a5fbd0cbe59,9e36cf4b-3f3d-4e00-821f-baa44599e2b6,2024-08-20,Processing,1712.35,Card,True
+d7078b08-a8b4-43ef-baa6-156eb3c477a3,9cc89063-dadb-4b2e-8bcc-35497070872b,2025-08-20,Cancelled,3005.26,Card,False
+0f3c065a-6f54-4577-9e95-ad3392ba901a,df7afcc1-437b-4be2-bb2a-6260564d9419,2025-09-23,Delivered,759.47,Card on Delivery,True
+86cfb80b-8814-42d8-b2a0-205507fe4037,9a16385d-a36d-4744-893c-6b0d776d3bd6,2025-02-07,Processing,1340.43,Card on Delivery,False
+7b3b664a-f792-4fd9-9e0e-873b55c04df6,7ba400a6-16ec-4cd0-961e-e1a30ca41e55,2025-07-11,Delivered,2020.38,Cash on Delivery,True
+47b4fc94-c0d6-4103-9f1b-de872812c3c2,180fc540-aab9-49f6-a9a2-f47faaf2a049,2024-10-20,Placed,3299.51,Cash on Delivery,False
+a0104581-2179-4c9f-b99b-37a97b294f5d,b4cf09e3-4feb-4b16-a03b-39a010da0f8f,2025-08-10,In delivery,169.64,Card on Delivery,False
+d58a9e54-f2d6-492d-8292-120caeb23cc3,aefa5b3b-b63f-45b9-89f9-2afe2f5f35be,2025-03-12,Processing,1420.92,Card,True
+bf731a05-7fff-4374-9b9c-890b1900c6d1,e0773d75-e9cf-40ba-a993-50ca5c46db7f,2025-10-04,Cancelled,942.48,Card on Delivery,False
+3de025a5-2809-49cc-a9a8-43607fac57b7,7dbd7baa-eade-4901-8c0f-d07d275692ff,2025-09-30,In delivery,3678.41,Cash on Delivery,False
+d036fb6a-3b28-45f1-8f27-0fff9479afcb,247d57cd-e71a-4055-bef2-5dcb374b4462,2025-08-31,Processing,448.84,Card on Delivery,False
+0ad82dc1-27d8-4118-8c4b-324af0f5552a,89592f89-d79b-409c-b322-a562317fc7ce,2025-09-01,Delivered,371.93,Card,True
+3f868f19-869d-4110-ac81-a3e68fb21875,2269a472-378e-440d-ba51-92963953b4b1,2025-08-23,In delivery,213.18,Cash on Delivery,False
+8ffdd957-2f09-453b-b012-9a8387719d14,692dec9f-7745-486d-a68f-88c14487e2e0,2024-11-17,Processing,252.02,Cash on Delivery,False
+a28bfb61-6d80-4e88-b6cd-99bc71063b8b,57cd93cf-09ef-4b2e-b284-a498e659ef61,2025-01-07,Delivered,277.03,Card,True
+62368a15-c231-4cd3-9f78-d54d051ee6cc,87db644a-bbba-4a1e-9535-cf47dbb76b7b,2025-09-06,Processing,1887.2,Card on Delivery,False
+bbec3b0f-d4b4-45a6-b224-af6ac6a51586,918e99fa-a7f8-41ec-b01a-6ac72cb3cdb9,2025-09-14,In delivery,479.13,Cash on Delivery,False
+1d657491-6e92-45c6-ab6b-da2263abefec,5ea6701b-4c6b-4968-b487-36f9e0a79942,2025-09-16,Processing,801.24,Cash on Delivery,False
+14e8e13c-8237-49ef-be92-f8de99a70e2c,aef1c45c-169b-429f-96d1-eaa6d4128f6b,2025-01-18,Processing,987.04,Cash on Delivery,False
+f7a6c1eb-4190-427e-8d08-4a281e7e40c6,baf4142b-70f5-4e19-b0ad-c4a7f1d30505,2025-05-09,Placed,1057.56,Card,False
+83d3c3d0-929c-4675-9cbc-b945e7945eb8,4ec9436a-7924-4719-b9c7-e78d29723e3b,2025-08-25,Cancelled,3334.86,Card,False
+5869994b-9f89-4bda-bda7-102d273a4c69,bb39ddd4-03c7-42c0-a739-3d2134c8e32e,2025-08-08,Delivered,1890.76,Cash on Delivery,True
+a74e149d-6512-453b-9948-cf259248bc13,a884b69e-062e-4ec5-bb6a-bb68b70fd660,2025-06-05,Delivered,1662.82,Cash on Delivery,True
+2d76e5bc-3f62-4e61-8bc7-b18e67d8609f,f5834722-a53c-4ca2-8705-968876fe679d,2025-01-13,In delivery,2753.68,Cash on Delivery,False
+1904a70d-5946-40b1-84a5-db9203341d56,4f36c354-b068-4343-9298-0d5d3c059e39,2025-08-27,Placed,751.96,Card on Delivery,False
+82eaf864-feef-4373-9a00-c475043e41d3,ab1f8a65-a38d-482c-8b29-b9297ae63784,2025-03-29,In delivery,377.8,Cash on Delivery,False
+9edd703b-3a0d-4b51-abbe-5c87224a69b4,283e3afc-0b5e-40cf-a2eb-e101e8870d8f,2025-10-04,Cancelled,1061.13,Cash on Delivery,False
+04a401ac-ab25-483a-bf62-383e0a7c18da,79c90f3b-8d63-47dd-bfb6-cb6787bedd3f,2025-05-28,Processing,1206.44,Card,True
+cbc89878-db57-43f6-8936-0fdb74caddc7,58563e02-83db-4110-bd22-abbea2c567bb,2024-11-16,Delivered,573.88,Card on Delivery,True
+5f7ea17a-8338-477f-8860-24027bf4dd2e,ceb566dc-db02-43a6-8f2e-56b4c06c89ed,2025-05-26,Placed,720.6,Cash on Delivery,False
+60bd8137-ef41-4b09-b75e-1cbc1182bf5e,774cc4b9-9452-4697-b4ff-c619466b5678,2025-07-13,Cancelled,1532.06,Card,False
+1ae4031c-cfd2-40e7-a698-8bcb97fefbe9,f19140b0-daf3-43d9-987f-b3e579235841,2025-08-27,Cancelled,555.08,Card,False
+2c33e1f6-67ab-4f31-9936-919c65d57a2a,bf9dbebd-3edf-447a-863b-1bd753c610af,2025-09-13,In delivery,2516.61,Card,True
+d0e58dec-94c6-45ee-8b15-69ab1852f323,a4cd74ee-5992-44cb-b284-144c9643f12f,2025-09-11,In delivery,1522.93,Card,True
+d637716e-71e5-4137-9afa-517ee9d717d7,77949275-6be6-4f8c-a237-5ccb49519278,2025-02-04,Processing,937.58,Cash on Delivery,False
+1d615f6a-c23e-490c-bc7d-c68bdc458f03,cbb095fb-0f31-4579-9222-98a2b33f3305,2025-09-02,In delivery,412.08,Card,True
+463abb23-042f-4c19-b973-30111fca802b,b5c8fe46-35c9-4cc6-8ddb-e4f059dc309d,2025-07-17,In delivery,1233.91,Cash on Delivery,False
+f925a134-e96d-4e29-a82e-1a0bf4c12673,53ebf87b-6724-41b1-8108-e7bb63de9258,2025-10-02,Cancelled,1990.42,Cash on Delivery,False
+f3874cd6-3f86-4934-a12e-8b365d6fde57,a759b160-12f1-4e6e-aaa2-8e7311b2d2e3,2025-04-16,In delivery,1348.0,Cash on Delivery,False
+c505e2c6-fb5d-41bc-9134-01803c4b36a6,f9f107e1-52b1-4ccc-b4c2-bb889099af89,2025-08-12,Delivered,1093.1,Card on Delivery,True
+1bf8d8c3-94c9-4375-a63e-b4c06a4fcee7,4807b86b-2d55-4a74-b6b8-aa0d8a051eb0,2025-08-07,Cancelled,2110.44,Card,False
+66a61dae-0b74-4e0c-a5f4-f933e016aaf8,017c0ce5-b9a0-4fde-8c84-40a038560dbb,2025-06-14,Placed,814.37,Cash on Delivery,False
+81ae49ef-0465-4e39-9b1e-c9062be176e4,3a3ba9c7-65ae-437f-b328-15366cb83efc,2025-10-04,Delivered,2663.24,Cash on Delivery,True
+ecca3bf0-b4bd-47d8-8ab4-6ad1b0f3f3b4,e3c7df95-2080-4198-978e-40f845328702,2025-03-25,Processing,3733.56,Card on Delivery,False
+9ffdd37f-b16b-44ef-94cd-8af71ce05346,a8e61054-6f04-4222-b290-bfb16ca24c8d,2025-09-29,In delivery,2175.08,Cash on Delivery,False
+0534ee96-7b91-421c-8618-8dfe4bd12597,2cd8a1bb-4227-470a-9ebc-2299cf48c097,2025-09-11,In delivery,1897.11,Card on Delivery,False
+2ed9cd78-f0f3-4ce2-8c00-9c30967f9792,8ed63deb-d182-4cf6-b429-d01a67244b64,2025-09-07,Processing,1454.16,Cash on Delivery,False
+60cd55e3-313b-4411-bd45-6fb833f0d5dc,a5adac0b-1ee1-416e-8c58-182481bd72bf,2025-09-18,In delivery,733.68,Card on Delivery,False
+0463f5fb-bd5d-4b5b-83bf-7e98ce5c7121,eeb64c36-f259-471f-b718-02045526b26b,2025-09-13,Processing,1659.48,Card on Delivery,False
+d0dd320f-489a-4604-92fd-a5d0af37aa5c,461d1e71-f542-4f61-a432-11fb54972a37,2025-08-21,In delivery,626.58,Card,True
+d270a0fe-0e0c-421f-bf67-f33c91eb4bee,22b68cdb-c0d6-4864-86d4-098de45d1052,2025-07-04,In delivery,1545.85,Cash on Delivery,False
+a6faa07c-e5e9-48ab-8eac-f00063b77ac8,da06c14a-1d3d-4348-9225-ec7aea42759b,2025-07-10,Delivered,1395.94,Cash on Delivery,True
+6a3fb63c-1050-4bac-b92a-cf70b04b7bb4,3dc6ca75-f2d0-4972-9c3f-07d20cf6b9cf,2025-09-08,Processing,3002.37,Card on Delivery,False
+80cb9b7d-f355-4044-8d75-9d1bcd323b6e,53eb28a6-5e65-490d-8f3a-171c875003e6,2025-08-19,Placed,1784.13,Cash on Delivery,False
+b661ca28-4d27-433a-8270-77a6d6cf3578,29aebc9b-59b3-45f2-997a-0b846acdb100,2025-05-26,In delivery,1534.8,Cash on Delivery,False
+b364a81a-dd3b-4da1-826b-df974ed66ff2,8f8a91a7-1b2c-4261-84b2-013dfe04236b,2025-10-01,In delivery,87.4,Card,True
+a2fd257e-d05d-4ffe-a9b3-17d5d8486af8,92c1df76-a497-49c4-b828-953de6527dde,2025-09-22,Processing,1854.4,Card,True
+3f214464-d3bb-405e-982b-5524d837fcf1,793fe3a2-558a-4b43-ae95-f1a609493ce9,2025-10-02,In delivery,1734.98,Card,True
+b77e8839-4e15-4a57-93d3-da7ef3ad2249,5073dc18-a889-4907-9e70-44559149c490,2025-08-11,Delivered,3683.98,Card,True
+ac65cd01-3163-4da0-976c-069840c3493c,0328ec26-201d-4a65-8ffd-4a722f9f7cfd,2025-02-02,Placed,2828.39,Cash on Delivery,False
+44b5508f-2db4-4b8b-8093-a5d367535c16,a2c9f904-029f-4e37-948d-4c5f7a04e436,2025-06-10,Cancelled,720.6,Card,False
+1a98b2e2-3511-482f-97fb-fedc42f4b32f,0eb17967-39cb-4d9c-902b-da1cbcd36513,2025-07-02,Cancelled,1360.32,Cash on Delivery,False
+984d8133-2865-4259-80ef-8b2c77737eed,b866cb4e-fb26-4022-b2c4-532cb0b59b3b,2025-08-24,Delivered,1671.88,Cash on Delivery,True
+1303707f-3642-4ef9-9c58-ddd70818dac9,c7d9c953-c06c-4114-86b9-7ae60102e3e3,2025-05-13,In delivery,195.52,Cash on Delivery,False
+19221733-82b0-44c1-acc9-e9cf5867edc0,2b54da7c-7e13-4515-b12b-c982c90af9df,2025-09-23,In delivery,162.63,Card on Delivery,False
+1ce1d14f-b15e-4923-a86f-935c08772413,bac541c9-10e6-4cf2-9306-7ab7aba6239c,2025-10-02,Placed,2237.61,Card,False
+92f6aead-303c-4e2c-8e42-2b67fbf7ad35,a41fbea1-54a4-442a-9fbf-17fc901d7316,2025-05-29,Placed,615.49,Cash on Delivery,False
+0ccb1156-2a4d-4678-aa54-1562c54b9a6c,eb9c92e8-0790-42ef-a834-522fa729c985,2024-11-03,Cancelled,1629.41,Card on Delivery,False
+4591c66b-8c26-4531-8211-e05f0e9f4627,c4a0e239-3521-42c8-ac43-34bd38eea0d5,2025-09-14,Cancelled,2027.96,Card,False
+0f25f104-bf85-40d5-af77-5ce68b4fe015,647d1957-1611-43f3-9a0c-5c59b4b97177,2025-09-30,Cancelled,965.07,Card,False
+1eabb905-5715-4c9c-bd0c-aac40b24defe,828d1615-7064-43f2-ab5a-7ac5c3dc2516,2024-08-17,In delivery,1284.38,Card on Delivery,False
+8d91783b-4e45-49c6-b547-3ca01e138795,f2b9c65a-e06c-4a44-b868-a22b04fbf6ab,2024-12-03,Placed,1088.76,Cash on Delivery,False
+f5afc1fd-376d-4c1f-99cb-fc5edb8bd995,65f38b44-1d74-4ce7-ba28-909469406fd2,2024-09-09,Placed,2005.25,Card,False
+50ff0f69-4d60-4a32-a66b-4e2532517e73,c2c05b99-0289-4025-8dc2-28de8b7f4827,2025-08-12,In delivery,1271.1,Card on Delivery,False
+34b4a0bf-f571-4924-8ba1-6eb82b607f4c,78a22f2f-da0c-4822-9234-85c6f40a496d,2025-07-20,Processing,2271.88,Card,True
+93c9e824-bb03-4a63-8490-c904f6e1993c,cc24b71f-4a0e-46d9-bd49-04673c2c7e51,2025-08-05,Delivered,1828.7,Cash on Delivery,True
+de7f1db2-b33c-4788-8cae-4d55ecb87aec,4c9f3add-fb3d-4f59-8e91-abf98c8e570e,2025-07-09,Cancelled,169.95,Card,False
+3fb49b80-915c-4788-a4fe-9c7be8cf5440,7e48da12-fc8d-43ee-8f9f-f9baedaeb366,2025-08-06,In delivery,2475.59,Card,True
+77dea78b-0e8c-4f11-bea6-0b206bd05b1e,b38cfb2e-2645-4c2e-ad5b-4bb5a1f0752b,2025-06-19,Placed,1223.1,Cash on Delivery,False
+9b898362-f34d-4a16-a330-bd98ec336eb8,c2a62ed4-651e-4128-a0e0-604b4ab6a0b2,2025-04-14,Processing,65.91,Cash on Delivery,False
+ab891ecf-32e2-49c8-adbd-e70bd5b2b9ab,9e36cf4b-3f3d-4e00-821f-baa44599e2b6,2025-08-10,Placed,1615.8,Cash on Delivery,False
+c6a43eb8-9ea7-45c0-85e8-04143a2a2c22,b4735a95-0c73-4087-88c1-c0c9d786d20a,2025-09-17,Cancelled,1497.18,Card,False
+6d773278-792f-4c33-9642-5e6ceff366e1,95a73140-be57-48fd-81d8-4bf020d50cf6,2025-03-28,Processing,628.08,Card on Delivery,False
+7f6a68b9-3ac6-4457-9faf-3f2332e99506,5bd23a1a-0e63-4042-9a8f-695083096016,2025-10-04,Processing,291.99,Card on Delivery,False
+2c0a1e07-d6a7-44f2-a283-6cc3cb3d4b5f,03117b10-c453-4f6c-9ca0-4b82a1875903,2025-05-30,Cancelled,754.06,Cash on Delivery,False
+35d62b18-2a85-4365-b835-918f99ea1b0f,dd4b5e82-b644-4fe3-9590-8d8bac8de344,2024-12-11,Placed,94.32,Cash on Delivery,False
+f183abdd-5366-486b-a595-106ae6635f6f,f6177d96-0744-400b-85df-8c58c67cf562,2025-08-19,Placed,259.72,Cash on Delivery,False
+66b9e47d-fe74-4ac9-8e77-d0680c346d2c,ee214425-d001-45b2-8939-bc12113c03cf,2025-05-29,Processing,246.36,Cash on Delivery,False
+c7c27684-a616-47d3-a7d3-9089c6e2bca8,1a353deb-e214-40fa-8e7f-500ca04fd870,2025-08-26,Placed,1033.36,Card on Delivery,False
+2e11f5f3-ecd2-4eb7-90e7-ff086fd738ed,09c3a13a-ea2a-4a98-bd5e-59584d3fc1c5,2025-06-17,Cancelled,1169.97,Cash on Delivery,False
+f471f131-e625-4ed0-9a8f-88863e83503c,0a0a688a-ac2c-4b12-9822-ba627c9e9fb1,2025-07-25,In delivery,1215.78,Card,True
+49c7dd78-3d65-4f3a-8ea0-f97648413f8a,774cc4b9-9452-4697-b4ff-c619466b5678,2025-08-21,Processing,3816.51,Cash on Delivery,False
+ac4a1888-480e-4357-b1bd-2556c73d7b93,cdbcdcf8-9999-4d0e-96f7-1e13dd67d8be,2024-11-28,In delivery,279.4,Card,True
+91fc5adb-2391-47fe-8647-7bde699fe6b0,52ac422d-c892-4cce-b05e-9a36416033e6,2025-08-23,Placed,162.09,Card,False
+896030ca-920a-4091-a962-fe0255bdd696,1570dabf-54d7-42cd-a5cd-23dc4b4d95e6,2025-03-21,Delivered,2738.38,Card,True
+f8b03215-2fd3-4af0-a0ab-33e01167c11a,414f92df-7d5c-4da8-b4d2-8e432ef4b74e,2025-09-22,Processing,2541.89,Cash on Delivery,False
+851bb09b-5724-4889-b6b1-5b2d9188974a,4c8e8d92-fcbf-49cc-b1dd-7eefc4285f3b,2025-07-09,In delivery,1782.8,Card on Delivery,False
+cdbecf3c-3b12-4754-b786-9322db185823,753f7651-5ea8-40be-b362-e09dbb23d9a1,2025-05-18,Placed,1545.2,Cash on Delivery,False
+65df81bb-2efc-4d0a-8214-d52b900ebb61,4eb8878f-49c1-4282-91b1-f11163924a2e,2025-09-17,Cancelled,1534.16,Card,False
+06196911-a3af-488d-8ad7-8f00cbce2089,9aa1fdf2-d66c-4f3b-9f39-b702bb91087f,2025-09-14,Placed,2511.99,Card on Delivery,False
+9732ad2d-5ffb-4ada-9bc7-3ac5e724f473,43422c13-9571-4525-9c93-084cc21ae004,2025-02-14,Cancelled,920.46,Card on Delivery,False
+e4dd2322-c859-40e5-a998-cab55def82ca,b04bf188-ddf0-472a-91a5-097584f17304,2024-11-26,Processing,2677.2,Card,True
+53bbb73d-ee45-4697-96a6-adadebc27b5b,baaf03bb-60a6-4b41-b151-bcebc8ff1386,2025-07-18,Placed,3376.66,Cash on Delivery,False
+3d23272c-c8b2-4ec4-94ce-51b11ef720eb,e3d611e4-7a27-48e2-81a3-84d6f5f0102c,2025-02-23,Processing,532.97,Card on Delivery,False
+c2a2ad98-6c8f-4e85-a2af-4f82e1fe402a,97a43bd0-7017-416c-957d-cf334b06c2e6,2024-11-03,Placed,2651.34,Cash on Delivery,False
+c47ac89d-a7ad-4eb3-9a7c-02836187ba8a,77949275-6be6-4f8c-a237-5ccb49519278,2025-09-10,Placed,1107.75,Card on Delivery,False
+4d1f8c14-93fc-472c-b680-aca222a7715f,96b91789-d905-4fcf-9e79-0ce604935b66,2024-10-26,Delivered,172.2,Card,True
+536b8036-b2ca-4a2a-9378-8be0486f46d9,23dbc620-bb12-4df2-9fde-acb8ab4baf5f,2024-10-17,Processing,1198.77,Cash on Delivery,False
+c8bd0735-598e-4e81-84c4-c9f26dce76c5,ce007370-214d-4183-b8d6-fbe53fcb0faa,2025-09-24,In delivery,639.08,Card,True
+157353fa-3ed8-43e5-87e2-05d7ca79eb0d,cdd59cdd-4ad6-4965-883b-85c939d87a81,2025-01-31,Processing,957.02,Card,True
+c5d8dd94-5e0d-4d5d-bf7b-2e1cec6410dc,141f4e0e-f6ab-44c7-a58b-834098b8f0ab,2025-06-14,Processing,366.78,Cash on Delivery,False
+ba0b6bc4-0044-478e-a521-b58f910ac2c7,e7e74fc5-9fec-4b01-b9e6-7d7dfec87abb,2025-09-11,Delivered,144.06,Card,True
+c6f56084-e9c2-492a-9fdd-6d763260f649,0d3f1257-53c6-4390-b9fe-03b152b74119,2025-07-24,In delivery,846.19,Cash on Delivery,False
+a8a14376-045d-4541-88f4-f8d0487825bf,ef6ce153-4b14-4c40-b369-b642f08f3eb8,2025-09-16,Processing,1919.96,Card on Delivery,False
+12d99ea4-7c94-4348-b051-60ba4dedbafc,88f680fe-5c51-4b63-a0e7-48033ef954e5,2025-08-02,Cancelled,1454.24,Card on Delivery,False
+47ae2dd9-c2b5-409d-b532-cabef13cb96c,931e7d8f-82c3-454e-b50b-bb171387fdf6,2025-09-30,Placed,1295.89,Card on Delivery,False
+074e4c49-1790-4bbd-820e-fbcde49d2087,cd7e99cb-b73c-4eb2-a7d6-53e0be2302a2,2025-01-13,Placed,1035.75,Card on Delivery,False
+532bd2c0-5426-43f8-bc73-1486386c85af,71e37395-a87d-4bf1-a507-d7302c354739,2025-09-25,Delivered,2524.88,Card,True
+d8307fcf-1b34-4784-a2ac-968281f8adc4,47041dac-fb58-499e-bcf8-222aaee08b31,2025-09-08,Placed,780.81,Card on Delivery,False
+fb81634c-bff6-4dd4-8c6f-3554781d4dc3,ea8a3a8c-2ea7-4d81-ba33-8e5bee3562db,2025-06-30,In delivery,1672.14,Cash on Delivery,False
+6ddeddcd-e0e1-4cc9-8e20-c24ce94f15e2,9a662351-f1b5-45f1-b1d0-201b81ef24ee,2025-04-13,Processing,1550.11,Cash on Delivery,False
+885d1672-e866-47e5-af68-e4c4b196b0bd,8f21d340-807c-4b46-be64-6ad505146254,2025-09-28,Delivered,2125.77,Card on Delivery,True
+3db250e8-f985-4b41-97b2-5fae7416ff4b,5ba0d0f1-4b7c-48c5-bc15-87b081104c59,2025-10-02,Delivered,1269.21,Card,True
+ca3ebd2b-af4e-4113-b0b2-a45a69408ff4,0e8fd204-82b2-4d2c-a0a9-674af25ddd91,2025-06-08,Processing,2714.19,Card on Delivery,False
+575b3289-153d-432a-8a9e-4522cad11943,da06c14a-1d3d-4348-9225-ec7aea42759b,2025-06-18,Cancelled,2921.03,Card on Delivery,False
+32af3f08-55fd-4edf-adf6-1109d60a8734,259403d0-0e50-4bcd-8b79-dbc2058d810b,2025-08-22,Delivered,2514.5,Card on Delivery,True
+25fc3e4a-a161-4872-b930-b46e7ffde729,ce5c9e81-53a0-4a01-a179-3c59a5d71cc8,2024-12-31,Cancelled,1430.32,Cash on Delivery,False
+ee4ce484-e0e7-448f-a521-6d90ea67e7e8,7062cbe5-1c8c-4d7a-b3e4-fc5587799194,2025-09-24,Cancelled,2051.7,Cash on Delivery,False
+1b9f9751-e9d5-46a9-84f8-f8ddbd37f1d4,c9ebf833-618b-4501-b0cf-8a6e34938d4d,2025-06-25,Cancelled,2224.32,Card on Delivery,False
+ee52b726-56c5-45aa-ab0d-38b8ea0b0cf0,b9e32f6c-77ad-42e0-a5c6-c40f7252889e,2025-05-05,In delivery,1866.66,Card on Delivery,False
+b95cf0b3-39cd-4b60-b44c-a53c43c49343,4ae004c7-25ad-4a5b-a3b0-b28e0a842917,2025-10-03,In delivery,1591.28,Card,True
+51656c2c-1e43-4855-969e-f235cdc6d224,f686b5d5-434e-437f-8528-ebbfe5b77f1f,2025-09-19,In delivery,1000.84,Card,True
+ecbc2469-0b74-4ba0-ac8a-20d3803fded8,40e9911a-5b19-486c-b9b6-29c3e2f72336,2025-07-03,Cancelled,255.71,Card on Delivery,False
+4f16db18-7c6e-4fe9-ad89-ab9cc734e25b,922116a0-a98e-4b7a-94c2-20fdc5160fe4,2025-07-31,Cancelled,829.47,Cash on Delivery,False
+744447ad-fb2a-413d-99a2-aa5ee66929b9,975c9414-9631-40f5-a2b7-d7420c6e99d2,2024-12-11,Processing,100.68,Card,True
+446b2f8c-95c9-486a-8b21-463524c9fe0b,e92d13cd-1285-4f93-af26-5a18bffc824e,2025-06-17,Placed,3144.64,Cash on Delivery,False
+6f5269fc-2f7c-482d-9d9f-ea7c85d95217,02ea1caf-0108-4f26-ade0-3bbc0cba5269,2025-05-05,In delivery,3255.75,Cash on Delivery,False
+d2b17d22-b0b2-40e4-a58a-37ca73187381,a651a8a6-10c0-47d4-a6be-a04e73f57dd0,2025-04-16,Processing,2541.97,Card on Delivery,False
+e66e689e-512b-4084-a37c-245d7e64bc67,929c6fc0-1729-453f-8090-16b09278f535,2025-05-30,Processing,2260.2,Cash on Delivery,False
+292e63ae-d08d-4fb5-b504-2582a05c7cdf,ee06852c-90ed-4457-810a-0b7913bfdab3,2025-06-09,Delivered,1381.48,Card,True
+6922b5dc-b444-4448-bad1-999f52f58905,63011eed-fd4c-407f-8ea9-7175422bb784,2025-05-24,Delivered,531.21,Cash on Delivery,True
+3054a815-19b8-41ec-87dc-0f0526eabd44,ea8a3a8c-2ea7-4d81-ba33-8e5bee3562db,2025-05-13,Placed,1484.01,Cash on Delivery,False
+5a7b106e-e88b-4641-b746-6f75976708f9,a02a7d4a-1b9b-4ce5-bb31-fda347ba94e7,2025-02-02,Processing,671.8,Card,True
+7dbe41f5-8217-4c89-bbc0-d81c87037220,050a35e6-5782-419e-953c-e6c0b224df17,2025-08-25,Placed,1832.7,Card,False
+74d96d53-11d0-478f-9c12-7bb81c566411,d637392a-f8e0-4145-ba24-500c3342c72d,2025-01-17,Placed,171.07,Cash on Delivery,False
+7f133b34-6606-46a1-a836-faceacf5198e,bf2ff747-de18-47d6-bf3b-3d61d2e28057,2025-09-11,In delivery,814.47,Card on Delivery,False
+29df324a-04af-441d-8ff7-2dfc375210c3,9c19d426-6b46-48e6-afa7-329813de9283,2025-03-17,Cancelled,1028.71,Card on Delivery,False
+abf5d094-f206-4b68-8f34-1d9b829b8094,5a5d4218-1fbb-41e0-82ad-504d2cba19a4,2025-07-22,Cancelled,1227.99,Cash on Delivery,False
+1f409561-fe47-4dbc-abaf-d787d2b2cdff,aef1c45c-169b-429f-96d1-eaa6d4128f6b,2025-07-28,Processing,2007.9,Card on Delivery,False
+d8ba2506-d222-44a2-abcd-fd8f7fb2d5a2,a908f1c3-8b76-4bb4-a247-448a0acda996,2025-04-17,In delivery,2172.62,Cash on Delivery,False
+50c86c8e-8477-4eba-b6fd-fa18d33c599d,c13a322e-a9c0-4c46-bf2c-679329886399,2025-04-03,Placed,684.28,Card on Delivery,False
+53ed902c-2736-4af8-ad7c-18d856b0eabc,4c9f3add-fb3d-4f59-8e91-abf98c8e570e,2025-07-06,Delivered,420.64,Cash on Delivery,True
+24af0ddc-174a-43b8-8ec5-e6a50bd4e149,c5e2a99c-d00a-428a-b28e-659e72faba1c,2025-03-23,Cancelled,393.3,Cash on Delivery,False
+66a9efe0-2096-4455-970d-eb9212ca3660,15162408-08b3-4595-8f48-53a728dddeea,2025-09-27,Delivered,2932.99,Card,True
+f8115797-7d6b-450c-b8cc-933a48eaca67,8c95916a-e163-4af9-9670-c32cd4882b7b,2025-10-03,Processing,1549.04,Cash on Delivery,False
+56c6780b-ac0d-48c2-9a6e-7130e765dec3,5d0d96cb-09b9-485f-bc1a-25222c6b47ff,2025-07-13,In delivery,766.18,Card,True
+eeb95a30-b022-41ac-9baf-c79edf18f47e,b4f2bffa-cc9e-47c5-9f2b-612b0722cc9c,2025-03-09,Cancelled,2756.13,Cash on Delivery,False
+11aeb395-7482-441d-a498-05ef64a6b3eb,41b8dab5-5067-46aa-96be-a5468e36d1bb,2025-08-13,Cancelled,2299.46,Cash on Delivery,False
+51e3aa98-c9d3-4fa3-810d-2b3e10748277,dd22e6fb-ab22-4035-8965-fdc225028343,2025-09-12,Delivered,863.54,Card,True
+791ab572-90ee-43c3-90f3-d59b0b922946,ac1f31d5-b2a8-472e-826f-abe1dd24db2b,2025-05-20,Cancelled,708.12,Cash on Delivery,False
+1424d0c9-9468-4ae8-abf9-6ebfbdb6334b,ef542f49-73b9-4206-9771-d8dbc44639f2,2025-09-26,Processing,283.81,Card,True
+07f21000-2bf9-41bf-aa01-1314e747ec39,2ec5b49f-b12e-448b-ae62-f92e33abd3ad,2025-09-25,In delivery,757.92,Card,True
+89aa2f28-4af1-4aa8-b98c-720a2a9abff3,e614b9c5-d019-4c33-91e3-b5930597717c,2025-08-23,In delivery,644.33,Card,True
+4762f46c-9b4c-40e0-a2d5-b78c6abdb155,9bcff7dd-c5a0-4b5a-9ea3-bcf9a9c72070,2025-08-08,Placed,284.85,Card on Delivery,False
+08248542-dfe1-4da8-80cb-6711c9309f81,a2feece8-2742-42d2-9e35-62b988ddadf8,2025-03-02,In delivery,1607.03,Cash on Delivery,False
+97d892d7-2fd8-48da-b2a9-5233a8ba96ab,f08de75d-e47a-41f5-a92b-b481d5a069fd,2025-08-16,Cancelled,1540.15,Card on Delivery,False
+4619cb7a-dbe7-4547-968d-1fa44933b36b,2ccf3f3a-d4cb-4d0c-9d5c-e8733872e8df,2025-09-19,Processing,300.44,Card,True
+b948eccc-5657-4e8e-a58e-882a46dff985,c85f7a3d-60d2-4f85-a01a-73a5415fd762,2025-03-29,In delivery,2292.94,Card on Delivery,False
+b9157d44-866a-4c97-b736-aaf1b674fdd3,a0fb3a00-5a98-40ff-a455-83f2fb17ff77,2025-08-09,Placed,1185.72,Card on Delivery,False
+60aa1dbc-4de0-48be-8a86-d5f89ded7ba2,df2c8b4a-9575-47da-993d-2ddd64f01c6a,2025-10-02,Placed,3247.87,Cash on Delivery,False
+9fe99481-4bf9-4600-9d75-bfe8437f9eda,10b63e66-ee69-4984-83a2-6fbbd529bd66,2025-07-08,Processing,2869.1,Card,True
+734f330f-eceb-4a12-9ba1-24c42e7bfa41,8d48b52b-2d8d-4ae9-8f88-0c9f76e45132,2025-06-05,In delivery,494.04,Card,True
+930e0143-8c47-4aef-a63e-caee15ad6bfb,b577db28-8639-433a-a8c7-5d057be5a95d,2025-02-12,In delivery,3325.04,Card on Delivery,False
+107d9d2a-0e51-48e3-9642-81ce59eb38aa,6106080b-d0bb-4c73-9733-ea4767e4de94,2025-02-14,Processing,1330.29,Card on Delivery,False
+c18bbda5-2f02-4301-aa3f-39deb14c0333,4e4d3b3f-fe86-439b-9454-532b2ce4e0c7,2025-09-26,In delivery,3252.63,Card on Delivery,False
+5a0909fd-ecdc-4b31-b359-d685de400def,730fdcf7-3b6a-47cf-9606-3768fa6d7237,2025-09-03,Cancelled,1906.6,Card on Delivery,False
+9d63973f-c4bc-41ad-a594-1fef1c25640e,aefa5b3b-b63f-45b9-89f9-2afe2f5f35be,2025-08-24,Delivered,1870.94,Card on Delivery,True
+811b45e1-9d1a-4631-8fbf-d2225757b5e2,0328ec26-201d-4a65-8ffd-4a722f9f7cfd,2025-05-02,Cancelled,2019.85,Card,False
+b7e8fdf4-f80a-4fb9-9306-c0c48a275ea2,18bc3412-b507-4533-9151-305fac8fee49,2024-12-08,Processing,3417.5,Card on Delivery,False
+92a63f5b-23f4-4dd8-94ad-1b09a9a8ca28,bf2ff747-de18-47d6-bf3b-3d61d2e28057,2025-09-17,Processing,2073.21,Cash on Delivery,False
+df2e4a29-3716-4f73-9632-e6e7a444602c,d9c9a726-fe98-4b08-bf88-fddb9a2b31a9,2025-06-25,Processing,60.6,Card on Delivery,False
+46fce6f8-b6c0-437d-a0e0-b29f8eb0de2f,df2c8b4a-9575-47da-993d-2ddd64f01c6a,2025-05-31,Processing,1173.56,Cash on Delivery,False
+fbeb7788-da5d-473f-9f75-2c43173d7f21,9d672f94-43c4-4688-9d7a-dfdcc85c7864,2024-10-15,Placed,2748.22,Card on Delivery,False
+66a7a46c-85bc-419d-81a0-b03c00b25195,e9dfc277-f93a-4410-833d-91069afcaf79,2025-09-12,Placed,671.8,Card on Delivery,False
+02997cce-4432-42a0-9ee0-74b170ccf4f1,f15ea661-88c5-4c94-a254-7a325e98767a,2024-08-08,Processing,1232.38,Card,True
+263e18a4-ab0a-40f2-8b31-fdb67f1188c0,bd2a1144-a057-4fb4-923e-f1de2c67ed61,2024-10-02,Delivered,1816.86,Card on Delivery,True
+1d2e316d-076f-4f3e-89ec-57403a0f1215,7cc8a37a-f331-4b09-b238-221955ef63b2,2025-08-13,In delivery,1173.08,Card,True
+5b62dc5e-e8f2-4009-8a5b-d580f268a441,4c8e8d92-fcbf-49cc-b1dd-7eefc4285f3b,2025-08-17,Placed,653.43,Cash on Delivery,False
+c4b7639b-e2da-4423-92bf-ac66f44c9feb,84dda952-d0e0-42da-b008-fe251f51e047,2025-08-27,Processing,1438.74,Cash on Delivery,False
+d2495ba3-d80d-47ef-93fa-b9c84a97e936,5bb4d1eb-8eb9-4f0b-ae29-38392241ad0c,2025-10-01,Cancelled,1310.73,Card,False
+c6aed4b8-4b56-4a79-8054-557a75a8f261,408cc43b-083c-4df6-87e8-5f24932d099f,2025-06-25,Cancelled,1819.68,Card,False
+b0a90d76-7203-49de-bde3-953c533ae4f4,cb545a15-5142-4fc3-b839-d40a9da837ae,2025-08-30,Cancelled,807.13,Cash on Delivery,False
+6da39611-cd0e-47d9-8d4d-81b08c312d4f,5cc92935-7b25-431a-9d3e-c05a57e6de1a,2025-09-15,Placed,671.52,Card on Delivery,False
+7f8165be-cb62-485b-8ce3-00a725b17ce2,d6242435-bdc1-47a2-8438-3d32f8743477,2025-07-12,Placed,142.64,Cash on Delivery,False
+7c8441c4-7b00-442e-8d8d-af1ed2c1eec3,75670157-aee9-4c39-baa5-f44155a27bac,2025-07-27,Cancelled,378.45,Card,False
+d65c067b-4b97-483e-a3bc-e06199de09a1,30aa6202-f054-4939-a957-b522290492d1,2025-07-24,Delivered,3509.77,Card on Delivery,True
+b5230f44-6c74-4b6b-9c40-cd81146b176f,c2bd00c2-785b-4e98-99da-9095d802f474,2025-09-18,Delivered,2680.51,Card on Delivery,True
+d2d08a26-f0a2-4cf9-b883-592286cbe148,416b4a64-11b8-4c7a-8648-083c7be3c1a4,2025-09-28,Processing,2815.26,Cash on Delivery,False
+f6f9ed99-26ae-4889-8c93-b33f1299f8bc,d745e249-bdf2-488c-a114-4a59b59373d1,2024-11-15,Processing,2708.38,Cash on Delivery,False
+937d1d5d-e237-471f-a3d2-b1e1a281d195,697ec01e-c85f-4d94-9a47-d36632243a55,2025-06-29,Delivered,549.44,Card,True
+b14ed03f-3d77-4f52-9f73-95e0590c38ef,ee06852c-90ed-4457-810a-0b7913bfdab3,2024-11-02,Cancelled,484.45,Cash on Delivery,False
+2323f829-ee07-4e4a-a9ab-a0d2e928a58b,8e619928-8b0e-4cae-a2d1-862942ade569,2025-07-04,Delivered,1659.08,Cash on Delivery,True
+c5195c3f-99c1-4259-b6f3-8b4c21b7e635,17c92d02-4420-49b5-88c3-f7ead2ff0404,2025-01-26,Cancelled,2105.25,Card on Delivery,False
+40edb5ce-3fd6-4d5f-a776-4ef146de4dee,a3e2880e-8f66-4cab-9c6d-89ccc4606e69,2025-04-06,In delivery,3748.36,Card on Delivery,False
+fd524c55-aaa1-469c-96f5-12ee9f7da376,edc0145f-cf9c-40a9-9698-da3954fb71c5,2025-05-06,Processing,2333.03,Card,True
+fc4aa224-36ff-4e17-80ab-137ee1258424,775ffd0f-c83f-4a8b-8782-bff9c481a77f,2025-01-25,Placed,1138.83,Cash on Delivery,False
+989027a8-bf3b-44fd-a519-ab2f7f50eac0,e9efba6c-b305-49cf-9c82-a93a28073d85,2025-07-10,Delivered,297.25,Card,True
+dd5a7aac-00e6-4f48-88ec-7f7cd1c629b5,abf6c398-1d88-4c33-b574-3b4b4ef1bee1,2025-08-02,Delivered,2968.3,Cash on Delivery,True
+c2062cdf-3152-43f6-9f3b-e2ffe266e8ee,2e68a19f-1a45-4144-8a0e-2c637d64ccdf,2025-08-06,Delivered,4279.24,Card on Delivery,True
+06ed8cd9-7029-4d36-98a7-2fd7f25c031d,05989212-6c5f-4c55-9ae5-2d24306b49e2,2025-09-02,Placed,1890.84,Cash on Delivery,False
+59b9ebd7-6d8b-4561-b48a-1103f4d24624,45b0fcb6-4f5f-494c-8bfe-990a93e31087,2025-02-01,In delivery,324.34,Card,True
+f622a15b-2a4d-4552-b592-3d3ea78b7f85,95975117-9a71-4e62-8ec6-b25be471c8ef,2025-07-23,In delivery,1295.53,Card,True
+c320c346-043f-4111-a9e6-50d5851b1e0f,fff1253d-2eeb-4ce1-b94b-7f7fca318ea6,2025-07-23,Placed,1081.86,Card on Delivery,False
+01feb57a-a91b-4599-804e-f1a140318347,a48d0705-cbdc-4f02-880b-14e6168f41a0,2025-08-02,In delivery,719.03,Card on Delivery,False
+950d90c0-e209-422d-883f-98dc89aa6f0f,7be0286e-c119-4f57-af04-63981420553f,2025-09-05,Placed,1237.72,Card on Delivery,False
+9178c059-2b7a-4b2d-a238-d0a71d6d7cab,7028fa85-534b-4a4c-9f0b-8af9335b2b47,2025-09-26,Placed,1362.21,Card,False
+b1b56fb8-ee7d-4b54-a618-6c7bffa06528,3a3ba9c7-65ae-437f-b328-15366cb83efc,2025-10-04,In delivery,2352.15,Cash on Delivery,False
+862786e0-2b15-4187-8b5c-2cd95f61c53a,a495aa23-f945-4756-81a7-288f8696c68d,2025-03-13,Delivered,1136.62,Card on Delivery,True
+19bd8257-852c-42f1-a542-843c2cd1e083,ef2f3606-18f3-4be8-b61e-557b33733669,2025-05-26,Delivered,2013.98,Card on Delivery,True
+623fd901-8749-44f2-b7db-27e62ef8e8ed,282b39e1-be14-4800-b3f4-bb02ef26eada,2025-08-09,Processing,1377.52,Card on Delivery,False
+512fe950-bbc7-4399-95ef-e6bd3e4caa02,f2b9c65a-e06c-4a44-b868-a22b04fbf6ab,2025-01-29,Cancelled,1091.13,Card,False
+4de382e6-b85b-42be-b05e-a44ac97edc0d,03ef668d-1a4d-4a0c-a44b-160afda4dca2,2025-08-26,Cancelled,1720.91,Card on Delivery,False
+b79b7b39-02f1-45c2-93d3-f11996920b3a,702e1ba9-8cbe-4a24-993d-1cc4c8537061,2025-06-16,Placed,906.56,Card on Delivery,False
+7453a2a2-3ab4-4d5a-8dcb-af3432cec25a,3de28e4d-aa71-45ee-9018-914c3cd2a9ce,2025-06-18,Delivered,2671.6,Cash on Delivery,True
+f36688ec-9c7a-4307-b046-cd8341ef3df6,98892583-86b4-4875-8d15-bb19ef31e35c,2025-03-01,Processing,2246.36,Card,True
+e5699d0b-d264-47ab-abb4-b3a0cf899b33,117856b0-2114-4e3d-a3f0-c2a28f7d8660,2025-09-22,Processing,1760.16,Card,True
+448df503-d7c2-40ed-a1c0-7295c0bf089e,ba3aaa86-a81a-483a-ad79-9bfc59abd811,2024-09-16,Placed,198.7,Card on Delivery,False
+0bfccc23-8288-444f-943e-c4b008fc3db4,ff27313c-04f5-4acb-9b96-1fa1c2a0ef90,2025-07-05,Placed,2715.65,Cash on Delivery,False
+4edd3df9-0d72-4e97-bf03-b0f79349df6d,dc7804ab-8a8c-480b-b8a3-155826904d51,2025-09-17,In delivery,1715.61,Card,True
+f13928af-8aef-4a35-b3ef-f8590ef5c04d,b20f213f-4fdc-45e2-9f2e-1a8e1ffe8f3b,2025-05-20,Processing,1094.99,Cash on Delivery,False
+48fb580e-d53a-4770-9960-efcd912af21a,0022f1f5-1864-46c2-b669-abbb348c056d,2025-02-23,In delivery,86.22,Card,True
+d1d06c73-8ef7-4585-bfd0-9efd8ed4a20d,0177d095-e969-497c-a82d-b70fffd83efc,2025-09-09,In delivery,3420.95,Card on Delivery,False
+84a11c9b-90be-4795-9a03-ba4da87a496f,31ad139b-743d-421e-8c56-d140ccf9f152,2025-08-21,Placed,903.41,Cash on Delivery,False
+d7d71b73-6fdc-4c3a-b733-a7ab6a43f653,4ae004c7-25ad-4a5b-a3b0-b28e0a842917,2025-09-15,Delivered,1930.76,Card,True
+f70a0956-cbf0-4a66-8ada-ca54201119fd,961f8c87-d8c1-49c7-8137-f2cb0a780718,2025-07-14,Delivered,1490.26,Card,True
+6f948551-69c6-4674-a395-67ec0b623f65,f941b409-37c4-4f18-926c-0863b0218ee9,2025-07-08,In delivery,316.41,Card,True
+cbf4e48e-aae7-4dd2-98e7-e5c619a737d9,a617cbbd-f5f6-4b30-88d0-cca8cdf134d8,2025-08-31,In delivery,993.79,Card,True
+d35e8e53-a8c7-497e-b7ca-166fd524c961,22d5a510-ca60-4fe2-b01c-2cb624ddaa18,2025-08-21,Processing,2660.18,Card,True
+731f3903-2d74-4ac7-a80e-39b29ef7bd70,c9d2e329-ab13-451c-ace4-640815444936,2025-04-28,Delivered,1544.56,Cash on Delivery,True
+995e0c0f-5b52-4cb7-a33d-21ebd968dfb5,a5166589-9508-41d7-800b-a86f9ec4a0f0,2025-08-21,In delivery,1342.39,Card,True
+2073b4b9-6111-4283-a696-62414f67c580,372ffc96-afdf-457c-b1cb-a8aab14b4bc7,2025-09-02,Cancelled,2535.45,Card,False
+5c9c037e-64e4-4190-83f6-315f81b6bb09,647d1957-1611-43f3-9a0c-5c59b4b97177,2025-10-02,Cancelled,3817.22,Card on Delivery,False
+2623b5bb-830f-41f3-81b2-c2bfbc1b3af4,ac753e80-228c-4fc8-8751-e8a2cb30e87e,2025-09-28,Delivered,2447.63,Cash on Delivery,True
+8609f493-e3eb-466f-8066-594d217dcc79,d8721c53-f6f2-42d7-a11f-39ed30447d88,2025-09-12,In delivery,2384.47,Cash on Delivery,False
+06394e79-2710-49b6-a792-3c17a66373de,ae429c6d-bb62-4ef9-8d10-13bc2641a334,2025-09-08,In delivery,2351.57,Card on Delivery,False
+b0e18346-d643-4093-9993-ceb370026c10,aa7e0064-3570-4aa6-80af-39abfa903bc3,2025-08-04,Placed,259.22,Card,False
+ae3c7de3-be09-40df-884f-b4e4ffd5fd5b,6b0213fc-e015-495d-8553-85115c67c2f3,2025-09-18,In delivery,855.62,Card,True
+8b1396e3-9d32-46c0-9178-4866453dddab,9e36cf4b-3f3d-4e00-821f-baa44599e2b6,2025-05-20,Processing,913.47,Card,True
+f5700707-1990-4f44-bd95-3e6da196ab4b,011f0303-a09d-4f44-a0c1-58e6c642c7a4,2024-09-18,Cancelled,2887.5,Card,False
+70eeb32d-bd93-4276-8bcf-78c05f9d6d5f,2ca90ec6-c1bf-499b-bb76-efceeb75f3e9,2025-07-15,Processing,207.37,Card on Delivery,False
+f5bc9b5a-80d2-4b14-8514-135a51dcfa32,9a16385d-a36d-4744-893c-6b0d776d3bd6,2025-06-04,In delivery,1008.24,Cash on Delivery,False
+7a177bdb-66d8-4f46-9f73-290286e470e9,2d646b80-e7a6-4acc-8bf1-e07bfc0385e3,2025-08-08,Placed,90.92,Cash on Delivery,False
+fa8430c3-17e8-45d0-88b9-dcc14f0ed103,97ba0169-a8a2-4338-883e-3b7e054c008e,2025-08-07,Cancelled,23.24,Card on Delivery,False
+7d7d9e9a-5578-45ad-b81e-fc0c193ed492,3d28d537-8d27-4d1d-a664-5a144fb8408f,2025-05-02,In delivery,499.97,Card,True
+83d972f5-5a0b-4fa0-b913-11ccb0299a36,824fcf0a-0b29-4287-9228-a7d39005542a,2025-07-30,Placed,490.15,Cash on Delivery,False
+6f795863-3aae-48bb-be03-de27bf7413c4,22d5a510-ca60-4fe2-b01c-2cb624ddaa18,2025-08-24,Cancelled,132.0,Card,False
+13eb5025-2880-4531-b90f-c4c76b86d91c,6664cded-627d-4bb8-9c91-7a66f59d52a1,2025-10-04,Delivered,1585.99,Cash on Delivery,True
+9e10abc8-473d-48dc-8b12-efb9ccb4289a,1a353deb-e214-40fa-8e7f-500ca04fd870,2025-09-20,In delivery,725.29,Card,True
+1af17a51-31d4-4416-8114-24e9d9c11a30,4ec9436a-7924-4719-b9c7-e78d29723e3b,2025-07-08,Cancelled,1436.63,Card,False
+0ea8e5d2-bcb8-47b6-a92b-4eae3212ad7a,fe08029b-3205-4cea-b167-1f198fe92a89,2025-04-08,Delivered,2365.5,Card,True
+6284011a-2965-40f0-a4c7-77115648c6ed,6bf760ab-d188-4f62-9551-7aa24f2b8308,2025-08-05,In delivery,1440.6,Cash on Delivery,False
+6e245866-4987-4ed2-90c7-f5e7e932a288,141f4e0e-f6ab-44c7-a58b-834098b8f0ab,2025-01-31,In delivery,1165.83,Cash on Delivery,False
+ff18643a-ad93-4d07-ab70-07993b563160,e2e37b30-bbec-49d1-8f2c-047b557bbd10,2025-08-03,In delivery,518.44,Cash on Delivery,False
+3cb04586-5cad-41f9-a225-57bc2a736de4,e3ff2cd8-3f6f-4c0f-8f58-fa48b1d9501d,2025-02-16,Cancelled,626.76,Card on Delivery,False
+2f2b744d-c634-42cf-a064-bdb7c03b06e4,c4a0e239-3521-42c8-ac43-34bd38eea0d5,2025-09-19,Delivered,19.96,Card on Delivery,True
+ec0a8fb5-1fe0-458d-8276-1b42ad6886fa,0af3053a-1f41-4775-b0b0-4e9d6751d17a,2025-09-26,Processing,911.25,Card,True
+80630e68-7fd7-4460-a72a-f173160998f7,bb39ddd4-03c7-42c0-a739-3d2134c8e32e,2025-05-10,Cancelled,3781.17,Card on Delivery,False
+a98f00dd-52fb-40ba-a99a-be6fe602df77,58563e02-83db-4110-bd22-abbea2c567bb,2024-12-31,Processing,1515.54,Card on Delivery,False
+bd47652d-ab66-4eaf-8ca5-d25d00a9c7db,1af47dac-e993-4d58-8747-2ec0324eceff,2025-09-22,In delivery,894.12,Card on Delivery,False
+e82a6ed1-eb2d-45b9-8984-8f9c64cc5408,2df9c7fc-3d7d-44a7-b589-0fcec3e850f6,2025-05-03,Cancelled,778.56,Card on Delivery,False
+0856de44-9629-4aad-b250-02d3334f2239,776a997c-91fd-42ab-bb22-6e9cbfd668dc,2025-09-18,Cancelled,495.97,Card on Delivery,False
+847d699f-0088-4259-980f-34b2a662abc0,b39c7bfe-89d6-42c6-a12c-11cfcd2f4035,2025-05-31,Delivered,2491.87,Card,True
+d0f2121d-fbec-412f-8c05-0ba64bf418f4,f5834722-a53c-4ca2-8705-968876fe679d,2025-07-11,Cancelled,1329.12,Cash on Delivery,False
+b67b9250-1296-4fe2-9a07-9236bf3934eb,ac753e80-228c-4fc8-8751-e8a2cb30e87e,2025-07-11,Placed,806.86,Card,False
+27f0016e-d420-4057-99d3-49e0188af5df,7028fa85-534b-4a4c-9f0b-8af9335b2b47,2025-09-22,Processing,396.18,Cash on Delivery,False
+10e6c3ef-bba1-4203-8e0a-8bfa63b2baa9,8829edaa-bc20-4d91-bcef-29938bef3e2e,2025-09-07,Cancelled,2782.22,Card,False
+610cc30f-b4c2-4d10-b71c-e83a717b14a7,539b4dc9-d5e5-4441-bb78-05f5bc1bab8b,2025-08-29,Delivered,2157.93,Cash on Delivery,True
+e79d9633-f3b9-4a34-8d88-2c28eb31742b,e33bcb0e-b0c7-4e04-8686-2bb4890e2b78,2025-06-26,Cancelled,414.29,Card on Delivery,False
+84a7d6b7-ea53-4e8e-bd3e-2e583d633361,8b49c572-7d1b-4b09-9bfb-340d4f93276b,2025-05-26,Delivered,106.13,Card,True
+a05e33df-9b45-4260-b587-6eec229a7444,4c8e8d92-fcbf-49cc-b1dd-7eefc4285f3b,2025-08-28,Delivered,16.36,Cash on Delivery,True
+d968099b-b647-4b92-bd71-b8bcaa98a069,8829edaa-bc20-4d91-bcef-29938bef3e2e,2025-07-17,Placed,3104.74,Cash on Delivery,False
+dd73b6ae-6c26-4048-8603-9428a2e32cea,3f4aa9c8-cfd9-42aa-9a0c-6d2afecb6e40,2025-01-25,Placed,661.56,Card,False
+07b2f090-6c81-476d-bfd1-18e060e54121,95a73140-be57-48fd-81d8-4bf020d50cf6,2025-02-06,Processing,176.66,Card on Delivery,False
+8832655b-8aac-41a8-afb5-256c3ca32e41,186a4b94-3a21-4791-9f31-282187ca08f8,2024-12-26,In delivery,3173.04,Cash on Delivery,False
+4c4cd153-2f69-438f-bce6-2d664237ee50,a207b292-509d-4ea8-b7f8-3f9250ed33b2,2025-06-11,Cancelled,982.52,Cash on Delivery,False
+e0fb2ac7-c4e3-4610-8c5d-3f96b22c3284,ddecd44c-c3c4-42e1-9ff4-9c669ed797c2,2025-03-03,Processing,421.1,Card,True
+b80bbaf6-c980-43a7-9884-b98253ec57e5,6a263531-6918-4b15-803b-28e91e29f797,2025-10-02,Delivered,1527.09,Cash on Delivery,True
+f69e70b0-be3d-4d53-b95b-9bdb5d6e254c,18a70316-0fd5-4abd-9327-77c966d89d6d,2025-01-10,In delivery,4247.76,Card,True
+42ab3e48-2a04-44d9-9db3-ae2a538a8acd,d5088f4d-b79b-4edf-aa6a-597472069201,2025-09-08,Delivered,1861.48,Card on Delivery,True
+361231ee-d942-4f34-9a54-e4afc1bac377,d637392a-f8e0-4145-ba24-500c3342c72d,2025-04-13,Cancelled,1753.18,Card on Delivery,False
+bcbb495d-d849-42e0-b3a0-1f2e87f80dd0,d8721c53-f6f2-42d7-a11f-39ed30447d88,2025-10-01,Delivered,473.09,Cash on Delivery,True
+cfd338d3-7373-42dd-b130-1db94c2406ff,92413916-b87f-4e50-884f-406a9798ec07,2025-05-26,Delivered,986.62,Card on Delivery,True
+ee9ae8b5-0c49-4a09-b95c-f04561629445,15162408-08b3-4595-8f48-53a728dddeea,2025-09-14,Delivered,862.53,Card,True
+7cc9c3b0-5c27-48e6-8581-8da2f308beb8,5bf4d5d1-19ca-4f27-af0c-f62cc4d3d9c4,2025-05-12,Placed,2047.64,Card,False
+70232660-1307-42bb-bde4-f74fbad29cd6,539ae125-c9c4-498d-a385-2529c8605f38,2025-07-20,Cancelled,689.36,Card,False
+39cae239-6c21-417f-a7cf-2d0c2f2e8a18,0018bc90-9454-4a90-9446-4890ffc81f4f,2025-09-17,Placed,929.33,Card,False
+07a6222e-fc75-404d-9530-7f578467d914,268b7848-cbf0-4569-b044-230f305bf894,2025-09-15,Delivered,2285.58,Card,True
+53ecb301-d22d-405b-a7b2-09ffa18cc997,1983bd52-6fcc-45a1-9e79-1cf3825a0636,2024-11-20,In delivery,742.11,Card on Delivery,False
+521b229a-fdde-49ad-82d7-2742a5a8fd40,8ded55a6-0c42-47e2-83c3-fde78622aaf2,2025-10-04,Placed,313.32,Card,False
+5644eb84-7d23-4ee5-b1b2-4c5fee79bd9d,b4735a95-0c73-4087-88c1-c0c9d786d20a,2025-10-03,Delivered,312.49,Card on Delivery,True
+df024ed7-aae4-4230-a646-e7adf305f41e,cd557ca8-7b7a-4e33-a00c-e146f049b04f,2025-10-02,Delivered,2125.54,Card,True
+da3e5c18-5976-4eaa-9649-de60e682243f,15162408-08b3-4595-8f48-53a728dddeea,2025-09-18,Processing,2928.01,Card on Delivery,False
+cb0adcff-e25b-4f4a-a360-0aad242958fe,fdf160db-023b-4cc4-b554-b7869f39bec5,2025-09-02,Placed,728.82,Cash on Delivery,False
+d0349e02-e4b6-4bc8-a33e-69b5f0c37c7e,10612296-d299-41ea-acd6-a15611121fee,2025-09-05,Processing,2890.73,Cash on Delivery,False
+81543816-c20e-46cc-8042-1545533e43f4,ef6c0cda-19ec-4e07-a5a5-41b68ce8ed6c,2025-09-11,In delivery,1538.84,Cash on Delivery,False
+d7d46440-edc7-46f6-8f81-fb45265ebe97,02300b68-219a-46f0-ac88-fa36c56cf399,2025-07-17,In delivery,2446.84,Card on Delivery,False
+b7ac2b20-6ec8-4fdc-91ae-64d5921fbe82,d40b7d1c-4f7b-43ac-8367-bea2b1a83409,2025-08-29,Processing,2648.44,Card,True
+6505d0c0-1cb7-4b9e-ad9c-a807ee92dec7,ce007370-214d-4183-b8d6-fbe53fcb0faa,2025-09-24,Delivered,3806.9,Card,True
+a5a586bf-c0cf-437f-95a0-0dec557a2381,24147923-e7f6-479c-aa13-3c0fdd89e881,2025-10-03,Processing,3196.51,Cash on Delivery,False
+1869843d-c27a-496c-a396-0b60d2190c95,e10cca37-8ba2-45e0-a378-0b3335729910,2025-07-24,Processing,877.46,Card,True
+692b803a-a11c-4820-9f15-e1243ee5d24f,96da01cf-855b-4f1f-9202-9066f9d56c40,2025-02-02,Processing,427.36,Cash on Delivery,False
+264b1ade-e13b-4180-adb1-a41d590a1f09,a5166589-9508-41d7-800b-a86f9ec4a0f0,2025-08-18,Delivered,736.17,Card,True
+b666ac15-7fa9-4efe-982a-02d5b003a7c3,bd591bf7-8946-424b-8f0c-5645ed0def95,2025-08-06,Processing,2319.16,Card on Delivery,False
+6ae61d3c-37dd-413e-a91d-4366c1e1c9bf,c05afa9c-0831-4476-8513-b068776eff6b,2025-10-04,Processing,753.95,Cash on Delivery,False
+5d9abae5-3d04-40d4-b680-a3ac1534d171,c96b25c7-38df-4ccd-9848-ec6ffbbe0e12,2025-09-10,Delivered,3747.68,Cash on Delivery,True
+f81daea2-668f-43b7-bf98-03c30acb173e,7bf3b7ec-58e9-4801-88c3-d6c1a9a00358,2025-06-01,Placed,13.75,Cash on Delivery,False
+e6ce6971-943a-4822-b331-4560805c1628,65f38b44-1d74-4ce7-ba28-909469406fd2,2024-10-25,In delivery,1692.91,Cash on Delivery,False
+7817583d-7d47-49d3-b440-11b4f6f3e207,2cd8a1bb-4227-470a-9ebc-2299cf48c097,2025-05-03,Placed,129.61,Cash on Delivery,False
+23864c14-efa6-48f7-8bae-f6d688c830b0,5d0d96cb-09b9-485f-bc1a-25222c6b47ff,2025-08-19,Processing,847.71,Card on Delivery,False
+e28acabf-8010-4704-b1c6-d4c9e86197c6,67afd8f7-6384-4221-8e78-ca8041bba9f9,2025-07-30,Processing,704.92,Card on Delivery,False
+aae8239f-42ef-4295-b0c8-1b3278a3859a,1ce2fdad-919d-4fdf-bfd6-b95c4b040b8d,2025-06-23,Processing,1339.41,Cash on Delivery,False
+c4991d87-d614-4fca-8cff-baccdb623f72,768161ac-f053-47b7-beb1-0549d0e53e18,2025-04-29,Placed,2976.2,Cash on Delivery,False
+49859bba-0487-4032-9b82-6f7129dcbdb8,b7aef79d-14d0-4022-9807-729d2899c9d5,2024-12-27,Processing,489.66,Cash on Delivery,False
+b068f37b-3425-4dcc-bd46-1b1b21b8bf7e,617e298f-d843-47b8-9535-80eb2cc941ef,2025-08-10,In delivery,2338.7,Cash on Delivery,False
+4eb08bf5-e216-44f9-9cda-f2e76b9211c5,30aa6202-f054-4939-a957-b522290492d1,2025-06-29,In delivery,2046.56,Cash on Delivery,False
+64d64cfa-5fb9-4b54-a6c6-1a281c318136,a02a7d4a-1b9b-4ce5-bb31-fda347ba94e7,2025-09-23,Cancelled,1164.52,Cash on Delivery,False
+5bd87e17-e29c-43f8-8de9-091a7f5afe8e,a2feece8-2742-42d2-9e35-62b988ddadf8,2025-03-06,Delivered,424.83,Card on Delivery,True
+23583579-a6e6-4edc-8dbe-d99b6c62c23b,ba3aaa86-a81a-483a-ad79-9bfc59abd811,2025-05-11,Processing,1774.08,Card,True
+fa9699f5-2d47-4268-93e1-f5dd265dc3d2,aa7e0064-3570-4aa6-80af-39abfa903bc3,2025-10-01,In delivery,1752.11,Card on Delivery,False
+77205899-256f-4c43-9939-5b279d1637c3,7e22c17a-bd2f-4fc0-8871-986f4535f603,2025-05-28,Delivered,1704.21,Card on Delivery,True
+f7e7d959-3b72-4130-97e7-394ad67ab224,4c9f3add-fb3d-4f59-8e91-abf98c8e570e,2025-08-25,Cancelled,858.76,Card,False
+a7d15df6-515b-4bea-8783-faeb969d8264,4c8a5efa-8f17-4a8b-8394-7e49afc1ea8c,2025-08-10,Delivered,3232.14,Card on Delivery,True
+92ccabd4-7f8f-4eb2-be20-8386561bdf0a,7bf3b7ec-58e9-4801-88c3-d6c1a9a00358,2025-01-15,Processing,1733.14,Card on Delivery,False
+ca05e6fe-b94a-4bcc-aeea-222d80bf0516,4926f754-b870-4be9-912f-7bf7677b6f38,2024-08-30,Processing,883.92,Card,True
+dccfa1ea-5ee9-4c97-9898-daebabf324f4,4db0c30c-7f3c-48b8-9ba5-0ff73887f28a,2025-04-01,In delivery,66.48,Card,True
+76196af6-3a58-4c1f-a298-395fe18e616d,ed61f03c-bd56-489e-a0a0-af691d493fa7,2025-02-11,Delivered,1759.24,Cash on Delivery,True
+a0c4d1f5-3c6b-433a-8892-21658279ccea,2d42b164-d7a2-4b38-9ff2-79142c6fdf0f,2025-09-09,Cancelled,1458.05,Cash on Delivery,False
+8a34a513-40cd-46d7-bb9b-6dd5b02d07bf,7028fa85-534b-4a4c-9f0b-8af9335b2b47,2025-09-30,In delivery,4167.03,Cash on Delivery,False
+ea65a615-7583-4224-9056-4d48ba123da3,a5adac0b-1ee1-416e-8c58-182481bd72bf,2025-07-30,In delivery,2134.14,Card on Delivery,False
+d39d35a2-f4f7-44b4-972f-b32b7c43c7e2,9b625afc-a073-4d61-bed4-edab335db5f9,2025-02-03,Placed,984.8,Card on Delivery,False
+5ca0c815-186f-4916-bcda-22959da204f4,14b62895-4e9a-42da-8bd9-bbc5058b9d18,2024-12-07,In delivery,834.53,Card on Delivery,False
+0ac76933-2c34-4900-be6e-312c9b588cd8,020f2395-0cb6-484b-929d-f5b18f994d13,2025-09-10,In delivery,1702.09,Card on Delivery,False
+613b492e-c01e-45e3-b0eb-7240c5a6cb6b,cb950e85-08e7-481b-8346-cef87cf9a30f,2025-09-21,Placed,1362.99,Card on Delivery,False
+49bc6f6b-be23-472d-8bca-d54dca3988b1,8b49c572-7d1b-4b09-9bfb-340d4f93276b,2025-05-14,Processing,3199.34,Cash on Delivery,False
+e8d1d0b9-6b5c-4e27-a1e4-07e5b7558bb7,fb4a5ebc-1ebe-4391-af18-f3d0a27010a8,2024-12-14,Cancelled,1732.9,Card,False
+bbcc6c33-00e8-4baf-8916-2f6a8a92e8dd,7634a2fc-0f44-417b-a57d-aa203f367793,2025-06-21,In delivery,718.23,Cash on Delivery,False
+12c1b579-e336-4946-ada2-67b0f80a024c,539b4dc9-d5e5-4441-bb78-05f5bc1bab8b,2025-04-14,Placed,2637.68,Cash on Delivery,False
+f269428a-cc2b-439b-8580-83d5b3b5cf04,eeb64c36-f259-471f-b718-02045526b26b,2025-08-09,Processing,218.52,Card on Delivery,False
+fadd929a-661c-4b45-9f65-0cc40701c7f9,11c4f931-4f72-4792-b90a-ebb3cc5b4ec8,2025-06-05,Delivered,1958.26,Cash on Delivery,True
+a039d1d2-680e-4aa4-8b96-a4555f0717ff,23c8bf52-882c-478b-ae15-84f1e91d841f,2025-06-21,Processing,2480.95,Cash on Delivery,False
+72e8f501-5110-4f8a-92ee-e5b136815244,8f21d340-807c-4b46-be64-6ad505146254,2025-09-27,In delivery,1414.59,Card on Delivery,False
+da419379-b970-4713-b3b3-1b3d26065600,4931d240-b332-4c63-9559-48d142a22295,2024-10-20,In delivery,1000.36,Cash on Delivery,False
+c8bf3164-5197-4e72-8d26-e71f4608650e,d558acb7-bc40-4129-82ad-f0c801432159,2025-09-23,Placed,454.94,Card,False
+23a8a31c-07ac-4122-91c4-ef94693d8861,3700bf7f-32ba-4f4e-8f91-c1412c717c4b,2025-03-25,Delivered,1116.51,Cash on Delivery,True
+b871244c-589d-4c75-963b-fe37931965f0,0467884f-9009-4968-8278-d4f4f5ce6622,2025-09-26,Cancelled,428.39,Cash on Delivery,False
+83e01def-0457-481e-b1b7-8d47661a429a,df67d0b3-078e-4226-a4ea-96bf188dfcef,2025-08-14,Processing,2410.11,Card,True
+95eac7eb-d9e4-4e04-9aea-4dee85b6a94a,5278cf2f-d84d-4a82-a03e-ffff5b477e9b,2025-09-16,Delivered,1178.67,Cash on Delivery,True
+1a3dec6d-b9d9-43e9-b27f-72be2fe6ab45,ddc54cfe-7a1e-4f53-872a-007f892a5271,2025-09-18,Processing,945.38,Card,True
+d974c1f9-a861-4265-ae87-dc70451a40c3,11afbbb9-73d8-4062-aed1-775f1c1e2d6a,2025-04-25,Cancelled,2521.0,Card,False
+16be5e32-3941-4318-86ae-3b152f3253ea,c2c05b99-0289-4025-8dc2-28de8b7f4827,2025-09-28,Processing,2731.83,Card,True
+1ca81691-f23e-40f2-82a7-5c6f96a88719,a83f9b7c-af8a-42c2-a4eb-da1c3460abec,2025-05-14,Processing,1277.82,Card,True
+98f2b575-c653-4b8d-95b2-449852f83214,dd4b5e82-b644-4fe3-9590-8d8bac8de344,2025-07-11,In delivery,399.64,Cash on Delivery,False
+f0a0ab25-3532-4886-9cad-e89298401926,4931d240-b332-4c63-9559-48d142a22295,2024-12-04,Processing,3439.22,Card on Delivery,False
+074f85e2-a590-488c-b911-3a4839331439,092ed917-0c8f-4186-961b-4042df2bcf53,2025-05-07,Processing,104.9,Cash on Delivery,False
+f7841363-363c-4a45-9fda-1227c89be912,c5e2a99c-d00a-428a-b28e-659e72faba1c,2025-03-06,Cancelled,1286.18,Cash on Delivery,False
+3a8f5dc3-6bd4-42cb-9fad-8482beb5cdc4,9e7c9da7-08c0-491e-96f0-edbb339aae5c,2025-03-22,Placed,851.43,Card on Delivery,False
+3d5c6b90-d8a4-422b-9e92-9f0fe47edf89,7e3c1a63-2bcd-45c1-9c3f-9cf8dd87fe65,2025-09-21,Placed,944.67,Cash on Delivery,False
+7057b9e6-ea58-4180-a92a-76b573ee4eed,df7afcc1-437b-4be2-bb2a-6260564d9419,2025-09-19,Delivered,834.05,Card,True
+6276a2a4-6ab7-4db6-8a4d-2aa69c653a3f,337467ea-c07f-4c54-9837-69636f7c7b34,2025-09-09,In delivery,245.92,Card on Delivery,False
+7f6d4be2-7180-40be-9564-826c67e2ad88,e92d13cd-1285-4f93-af26-5a18bffc824e,2025-08-04,In delivery,458.98,Cash on Delivery,False
+a0560aaf-bcd8-4715-ba5a-953a8792270a,b99b9eb3-d55e-4b89-aac6-3a2ca52d8fb3,2025-04-16,Placed,399.54,Cash on Delivery,False
+aa9c9a64-d783-43fc-9317-4cd9436ed50d,cdf81964-e014-4b79-b46f-a4383d72322d,2024-11-18,Cancelled,559.62,Card,False
+2013ca2e-76bd-47a7-bf14-0af6f18922bf,53832365-c964-4ae7-ab34-ae36cab6d68a,2025-06-17,Placed,401.58,Cash on Delivery,False
+5189a9ac-ed8f-47f1-afa0-cbb4cebe89b5,f08de75d-e47a-41f5-a92b-b481d5a069fd,2025-08-09,Processing,2160.63,Card on Delivery,False
+a765444f-0c39-4af4-9454-4dbe1c8daf59,9ddace5c-77cc-43b4-8a07-56d0d19124ac,2025-04-20,Placed,1003.39,Card on Delivery,False
+7b3ba9c9-1178-4e6a-aaf9-a0280deaf136,0f856908-9bcd-49a3-8f32-e556b45cf34c,2025-09-06,Processing,1363.3,Cash on Delivery,False
+35d134ce-fa15-4394-8ed9-ae7ee2249bc6,8ded55a6-0c42-47e2-83c3-fde78622aaf2,2025-06-10,Processing,1235.19,Card on Delivery,False
+4565dea8-df44-4ceb-938e-5566d8bf5304,c2bd00c2-785b-4e98-99da-9095d802f474,2025-08-01,Placed,2309.17,Card on Delivery,False
+07c8e806-3c2c-4c3b-ba4e-22ceb7f73989,10612296-d299-41ea-acd6-a15611121fee,2025-09-20,Cancelled,14.18,Card,False
+7caac9f0-1f79-4979-a785-d7d0e3b185ab,1d188ca3-00d1-48ab-81e6-8042b45c3939,2025-07-10,Cancelled,484.06,Cash on Delivery,False
+86821b7d-a49c-457d-87df-a78f29042f00,0608f862-bb29-4652-be49-c31405cc34ad,2025-04-04,Cancelled,1431.95,Card,False
+12a32c0d-46d1-47ae-b08c-5c652c66bc3c,41b8dab5-5067-46aa-96be-a5468e36d1bb,2025-08-10,In delivery,810.2,Cash on Delivery,False
+85cc94a3-c906-40df-85ec-a7c97acd2b6b,dd4b5e82-b644-4fe3-9590-8d8bac8de344,2024-12-19,Processing,3912.89,Cash on Delivery,False
+5aa7da31-0675-4fb5-a1ee-65d7d9730316,632055b7-5eb8-4165-b025-6c1434e7b250,2024-12-05,Processing,822.28,Card on Delivery,False
+bf90a074-877c-4092-a8b2-51c1a194a951,d3317289-0b82-4348-8fe1-e1fd28b1586f,2025-09-17,In delivery,99.14,Cash on Delivery,False
+58bfb2e8-38ff-492c-b740-3137c966b937,aefa5b3b-b63f-45b9-89f9-2afe2f5f35be,2025-10-03,Cancelled,1102.89,Card,False
+a0c6d903-8922-4dc6-81c8-1d4e115ffa4d,b62d7412-53a6-47c5-8c9b-0773c7bd3cad,2025-01-15,Placed,2557.39,Card on Delivery,False
+9ec339da-a360-4a15-865d-8b24e808c0a6,9ddace5c-77cc-43b4-8a07-56d0d19124ac,2024-07-30,Cancelled,3207.84,Card on Delivery,False
+0ce2db10-fc98-4a15-baff-f3d813812d4f,46f6ecab-b363-4901-8b9c-06055a688a88,2025-08-02,Processing,1171.87,Card,True
+f34ca940-dc9e-41d4-bce6-4ceda259b6bf,4f30c517-1f53-498c-9dde-e3f38a053603,2025-09-02,Placed,415.58,Card on Delivery,False
+b63f8929-1de5-4e5a-9c37-7c3963fb8937,539ae125-c9c4-498d-a385-2529c8605f38,2025-04-03,Placed,1552.85,Cash on Delivery,False
+9e19e344-7605-464f-b5e5-180454f75644,0328ec26-201d-4a65-8ffd-4a722f9f7cfd,2025-05-11,Cancelled,1712.4,Cash on Delivery,False
+97890860-78bc-45d2-b76b-32b887dcce78,740bb5a3-7d6e-4402-a75e-db5758c7d60d,2025-06-24,In delivery,2334.06,Card on Delivery,False
+7fabb897-02d2-4a7e-a290-9f98e1356d77,8905ca13-db4d-43f9-8ecf-8c8fea99b042,2025-08-01,In delivery,1403.75,Card,True
+ff0822fb-7959-4caa-bf30-a03bdad225f2,8905ca13-db4d-43f9-8ecf-8c8fea99b042,2025-06-14,In delivery,449.9,Card,True
+7ce0b184-5848-4322-a2fc-4de0cc86e81c,c85f7a3d-60d2-4f85-a01a-73a5415fd762,2025-09-07,In delivery,1094.34,Card on Delivery,False
+55ac27bc-6cd8-4a6b-b235-9706b5e37c5c,c4ad44ac-2578-4eb2-a873-eb8421e5eeb7,2025-07-31,Delivered,4673.04,Card,True
+d8673fbe-48ab-4c08-a6c9-a858d7752c27,9dc56ac4-2bf1-45f1-bb4c-5b4b0f78ccd4,2025-04-09,Cancelled,4034.23,Card,False
+37ad435b-2f50-40d7-8c9e-cafe3e9e4cfe,86a1a50e-757f-4f15-9579-2f9af35090a4,2024-07-29,Placed,1609.71,Card on Delivery,False
+6d4817ef-1390-4f93-b058-e13fd83093b7,adf15b43-bac3-4fa1-9cc3-31014007d39a,2025-07-23,In delivery,1258.05,Card on Delivery,False
+cd4c7f84-4bb5-4f46-8981-5d2aa1c33960,6bf760ab-d188-4f62-9551-7aa24f2b8308,2025-07-21,Processing,2099.89,Card on Delivery,False
+537b2c28-4f22-4bf8-a15d-80ba271f24a9,4b5a97a3-a87a-48db-8534-494d5d4f56cd,2025-03-06,Cancelled,1164.83,Card,False
+e48bfa2a-d4e4-4691-a13b-cb28a2ecd138,2b0688a1-12db-4c0c-bc22-1e64ee6d2cdc,2025-08-30,Delivered,215.44,Card,True
+92205d48-c8cb-4561-adfc-5bef00c18b50,c4a0e239-3521-42c8-ac43-34bd38eea0d5,2025-09-29,Placed,1129.38,Cash on Delivery,False
+82c0f12b-7081-4073-96dc-8fb3915b2170,eb9c92e8-0790-42ef-a834-522fa729c985,2025-07-25,Processing,2145.61,Card,True
+86aa5652-809d-4345-939e-4dbe23b068fc,d49c9c71-85a4-4df3-afb1-6d1a782af189,2025-09-19,Cancelled,528.76,Card on Delivery,False
+6173b39d-bfd4-4cc8-a5f0-b838750e8df6,d860763b-31fa-4413-ad58-5908ce145442,2025-03-13,Placed,197.04,Card on Delivery,False
+054fe45d-4007-4387-a1db-890542c83bcf,c454fdb0-fc91-4fd8-af4c-c3a81f965daf,2025-03-02,Placed,3222.6,Card,False
+3196fdfd-c808-4bf0-9dcc-0e386c0730db,562b19b9-02a5-49c1-8171-cb68ec4f47bb,2025-01-11,Processing,1303.9,Card on Delivery,False
+12e3ef21-17ae-4883-9a3d-809f347c9b9c,2eb00278-1044-4378-a4b5-8f8ae7f84a40,2025-09-20,Processing,1660.39,Card on Delivery,False
+c815b643-18ed-418a-9377-a37581b95b1b,1026a81e-b405-4647-8908-35677ebba442,2025-02-14,Delivered,482.69,Card on Delivery,True
+682e0ff4-39a5-4873-9895-90481c8429cb,9152ab3e-ee01-4197-b0bc-bd2d052d9275,2025-09-24,Processing,2513.25,Card,True
+2597c4b6-85d8-41ac-ae5f-b9ca41545556,ae429c6d-bb62-4ef9-8d10-13bc2641a334,2025-08-29,Processing,460.73,Cash on Delivery,False
+85b36078-e22f-49f9-8e5f-b8122b03cb29,cfe4b6f4-81a4-4fb2-b7c2-7d77543c00fd,2025-09-04,Cancelled,2711.59,Card,False
+c07d33a5-6ff3-4004-9d7f-bfc914c45165,4af4edcd-f836-4682-91f6-91b5f715634e,2025-03-25,Delivered,709.7,Card,True
+2db50afa-2679-4c5e-aafc-8b2ff4955aeb,407b9cf8-b132-409d-add7-b9cffcff6ef7,2025-06-14,Cancelled,890.36,Card,False
+958318a5-292b-4130-a55c-40b8d486ae3b,6ffd3b80-bd16-469f-80d3-e8c90f9aa667,2025-09-18,In delivery,3595.21,Cash on Delivery,False
+56248792-924b-4be2-93e0-f44af3dbce1e,cdc1a00b-5660-4a23-a30b-297f56b27663,2025-03-13,In delivery,154.19,Cash on Delivery,False
+40307e1f-cb9d-4206-84d0-96660bad71a6,4f36c354-b068-4343-9298-0d5d3c059e39,2025-08-24,Delivered,1669.83,Card on Delivery,True
+865820dd-e0ea-4abe-921b-b9360407c21c,04624955-f9ea-4093-9a66-6927f5b06e19,2025-09-11,Delivered,1809.94,Card on Delivery,True
+f4a2f285-c681-4fa6-85d2-2cce48dc063c,c009856b-b98f-475d-90a0-898988798ab4,2024-11-29,Cancelled,1102.22,Cash on Delivery,False
+e2f3cb41-06f4-4607-9d86-389a32675ea1,31b82425-8ca9-44fc-bfd6-c30c3ba7cba6,2025-08-20,Cancelled,1929.67,Card on Delivery,False
+d9819e3c-a0aa-4b3a-b5b2-79cbc02a1ec2,9b16f286-8315-49fb-b4ad-125045a1347e,2024-12-01,Processing,646.3,Cash on Delivery,False
+07bcefa8-77ab-4597-9257-a65d4db9614c,b8238d1c-7dfa-440c-af4b-99c89bc730be,2025-04-04,Processing,1610.59,Cash on Delivery,False
+bc45f2f5-b2d1-4d3f-aa3d-f4523b5baf40,06bf17fc-46f6-41ae-a40b-4271d479abd7,2025-10-02,In delivery,1363.76,Card on Delivery,False
+721d1dc1-e93c-403a-9ed0-29c4a43379a1,ca152169-51eb-44ea-9072-c7617680df50,2025-08-12,In delivery,276.14,Card on Delivery,False
+d92eb6bf-df87-448d-b64c-81a2e0450163,a64ca49b-ddcb-422e-b7be-d9fcf0fd8d0a,2025-09-20,Delivered,2425.49,Card on Delivery,True
+4d984a54-fe05-4730-a2ba-495d941a83d0,7e011fa1-37c7-42c1-a883-727e51b6a3c8,2025-08-28,In delivery,607.98,Cash on Delivery,False
+cefd73e2-f4f0-4ed2-839a-5cbf5055b353,ef8bbfb6-3d82-4d7e-8a83-f2882d1b9e58,2025-04-21,Delivered,3371.19,Cash on Delivery,True
+b00d287e-3106-4996-87a4-c9401041bb28,c6cfb631-9651-4c4b-bb6c-1ae0b0a7d729,2025-09-19,Processing,32.96,Card,True
+23f4c8fa-06ad-4880-b9a3-c3975bb40a89,83e9f151-793c-482c-a176-e4a8e65357fe,2025-10-03,Placed,2535.22,Card,False
+9848a1e3-ed3c-4119-8991-dc888ba68d46,13b1c924-da0a-4933-af30-3e8dea753269,2025-08-21,Delivered,292.58,Card,True
+61025898-2de5-4547-b256-3cfa89790a15,c85f7a3d-60d2-4f85-a01a-73a5415fd762,2025-03-27,Placed,758.2,Card,False
+1ef64354-d47e-4938-af6c-8dac695a797c,4c9f3add-fb3d-4f59-8e91-abf98c8e570e,2025-09-17,Processing,1074.09,Card,True
+0f03905d-778d-4d63-9ac1-7971285f9f3d,5563490b-27fa-4cc3-93d9-be045e35ba69,2025-09-18,Delivered,1909.4,Card on Delivery,True
+1623fa9c-aee7-488d-92fb-3a76f47bf26c,0467884f-9009-4968-8278-d4f4f5ce6622,2025-08-03,Processing,2526.99,Card,True
+e26244b5-2510-432d-b552-988202b4478a,0eb17967-39cb-4d9c-902b-da1cbcd36513,2025-07-28,Cancelled,1407.72,Card on Delivery,False
+aacfdfd7-470b-4331-a401-809acf91c746,b9164818-9424-4847-903a-560c00d4b292,2025-06-25,Delivered,503.31,Card,True
+1cb7817e-5d88-4fd0-a76a-21fa4878a52b,ac1f31d5-b2a8-472e-826f-abe1dd24db2b,2025-01-03,Processing,2831.9,Cash on Delivery,False
+47a15981-d706-4b28-a52d-0b91b6cf0146,b69c4a08-b659-4cec-a0f6-fca2da167771,2025-05-08,Placed,105.4,Card on Delivery,False
+0aa81582-4666-4e31-a595-b3767c7be453,9e50d227-f4a0-4ee2-8364-200ec50cb6c8,2025-08-25,Placed,1477.74,Card on Delivery,False
+0fa1990e-674b-4d10-a5db-70df9d443d55,b5525b6b-db08-412d-871c-30e90a5d6d40,2025-08-28,Cancelled,2127.48,Card on Delivery,False
+9a5926fb-5b3d-4477-92d6-ea932d8bc0d0,422ebf32-7df9-4db9-8a2f-1ca343bd1b20,2025-08-23,Delivered,1058.16,Card,True
+802539f2-7540-4901-ab26-1639e6a1dc81,119c16e9-1e98-486c-a8a0-3e6319fdd2d1,2024-11-09,Cancelled,1735.16,Card,False
+9cc96b48-9957-415b-bc05-dce9fff73903,b181f18b-b40f-4d0f-8ef4-cd0524117c4f,2025-08-23,Processing,21.57,Cash on Delivery,False
+752793d7-3cb0-47b0-80f7-64ed56c08a2e,2cd8a1bb-4227-470a-9ebc-2299cf48c097,2024-11-22,Cancelled,1028.35,Cash on Delivery,False
+6b7e3b02-55ad-4fe9-b266-3234ec6e9f6d,828d1615-7064-43f2-ab5a-7ac5c3dc2516,2025-08-25,Cancelled,1072.0,Cash on Delivery,False
+49be53fe-38b7-40eb-8513-415483ac7972,62023185-cc2e-4a02-a553-1708bf43e1b1,2025-01-06,Processing,2188.6,Card,True
+818866b7-6b17-49d5-9a2d-c40f7b47549e,ca152169-51eb-44ea-9072-c7617680df50,2025-06-17,Placed,1436.73,Card,False
+e0581118-fdbc-49f0-9489-8edc03b374d8,cfd5b3d9-4bf3-4b87-8f86-32e2e462bb59,2025-07-21,Cancelled,1024.28,Cash on Delivery,False
+8134d4a1-94a3-4901-aaae-329ab0690da6,39dc8595-0c89-401e-82f2-c6538bdc712f,2025-04-25,Delivered,176.0,Card on Delivery,True
+4356e9d5-ce35-432e-9ebf-fc5754a87eba,88f680fe-5c51-4b63-a0e7-48033ef954e5,2025-07-06,Delivered,2334.46,Cash on Delivery,True
+e60099bb-f040-4bfc-9100-836ee3e707a9,dd22e6fb-ab22-4035-8965-fdc225028343,2025-08-31,Placed,3610.87,Card,False
+3e7e1a3d-915f-453f-9a1d-8ed755829dff,c7d9c953-c06c-4114-86b9-7ae60102e3e3,2025-04-27,In delivery,908.76,Card on Delivery,False
+c11aa025-7f4e-4712-bf71-9c12408bc18c,a207b292-509d-4ea8-b7f8-3f9250ed33b2,2025-08-20,Delivered,2405.25,Cash on Delivery,True
+95ce2efb-9366-47aa-b55d-e18a071e97dc,3ba3d52d-009c-431f-a0da-9bb7394d1278,2025-04-20,Placed,1028.34,Card on Delivery,False
+b00fa797-e1d6-4443-90d1-e70cd597ec1b,59d59664-937e-4fc3-8fa5-b9fe301f7491,2024-09-12,Delivered,2103.72,Cash on Delivery,True
+efa81d32-c217-4bfa-b3e6-4fcc580d4fa1,7b081bda-9b56-435f-90f1-c4d3d35f96db,2025-05-29,Cancelled,2197.56,Cash on Delivery,False
+d56051f0-95c4-4ee2-81b5-4cfac404d366,77d97033-ac8e-4890-8821-0665368257b2,2025-09-27,Placed,4550.21,Cash on Delivery,False
+337ecb51-d135-49e9-9004-a0ac6e235e02,edf7ffa9-8ee0-42a2-9a73-5c66ef4aac77,2025-05-11,Processing,611.1,Card on Delivery,False
+84045d13-f6cc-43ef-870e-aefa6004b4e1,929c6fc0-1729-453f-8090-16b09278f535,2025-02-15,Processing,435.81,Cash on Delivery,False
+ab333f51-60d3-4797-922b-f02d5001af86,a884b69e-062e-4ec5-bb6a-bb68b70fd660,2025-02-09,In delivery,2205.01,Card,True
+2275d12d-6a16-4e82-a83d-2456164eca06,a2902b27-d512-4d47-922e-10943690be11,2025-01-13,Placed,1299.38,Cash on Delivery,False
+c1b8a38f-4f0b-477d-8429-01d3ca23eb86,2cd8a1bb-4227-470a-9ebc-2299cf48c097,2025-05-11,Cancelled,2746.9,Cash on Delivery,False
+b689eb01-6090-4cf6-9aa9-026384d6d06f,e81b3c29-6650-47cf-8694-d4ede3e6e0b9,2025-05-09,Placed,1321.67,Card,False
+3e5eddfd-dce8-41f6-8cb9-499cde16a989,70f67a4e-413b-4a01-9e8c-f747a1d8ff72,2024-12-08,Processing,1071.56,Cash on Delivery,False
+0d3d5335-5aa1-48f8-9275-c91e15bec09b,c2c05b99-0289-4025-8dc2-28de8b7f4827,2025-08-21,Cancelled,942.8,Cash on Delivery,False
+e3e91b47-f72f-4e8d-94c3-5bf4c65aa85a,017c0ce5-b9a0-4fde-8c84-40a038560dbb,2025-02-26,Delivered,61.38,Cash on Delivery,True
+41d0bad9-0dc2-4eb1-a169-7ebe4e055192,0bed1768-4ef3-4c9c-b927-ae78522bddbc,2025-08-26,Delivered,832.55,Card,True
+e188d41b-e2d2-498a-8d97-5568c5fd0da6,b38cfb2e-2645-4c2e-ad5b-4bb5a1f0752b,2025-06-13,Delivered,2479.38,Card,True
+9a0513cf-91e2-4ce0-b51d-7efe75ef0b45,828d1615-7064-43f2-ab5a-7ac5c3dc2516,2024-09-07,In delivery,4408.38,Card on Delivery,False
+d7d894fd-2d65-4f45-b6c5-591214bb49db,1bd70422-1f53-4355-91fc-acde50d4690d,2025-04-01,Placed,2891.19,Cash on Delivery,False
+28bcf2f7-028a-4642-b0b5-2078f7a9ad70,9e50d227-f4a0-4ee2-8364-200ec50cb6c8,2025-04-09,Cancelled,1306.2,Card,False
+c14295b1-6470-4d49-b81d-9ec0a87de52d,8d48b52b-2d8d-4ae9-8f88-0c9f76e45132,2025-05-15,Placed,3246.97,Card,False
+8aab6afc-6420-4d15-b6b2-79b1575c82a6,2ca90ec6-c1bf-499b-bb76-efceeb75f3e9,2025-09-22,In delivery,1295.78,Cash on Delivery,False
+b7a80cbd-3510-4e84-b687-d9b70e629865,4933d508-14b6-4604-9129-5b0ceb57a37e,2025-02-06,Delivered,1206.19,Card,True
+151788cc-d775-415e-8081-1ba61e3330b6,0328ec26-201d-4a65-8ffd-4a722f9f7cfd,2025-06-18,Placed,1745.64,Cash on Delivery,False
+a1afb38d-f894-4007-8966-db95050a203c,647d1957-1611-43f3-9a0c-5c59b4b97177,2025-05-11,Processing,800.17,Card,True
+1a30f55a-5976-40d3-9379-00b58e21eb6a,89ddece7-c729-48ae-b155-d43dc26998fb,2025-01-24,Placed,1191.38,Cash on Delivery,False
+9dea010d-525c-4b5b-a49d-156b45abd10a,7634a2fc-0f44-417b-a57d-aa203f367793,2024-11-08,Cancelled,801.42,Card on Delivery,False
+024ad690-30f1-4c30-b4ef-874b8c708ad4,2487e1b8-96e0-413c-8945-47751ca99547,2024-09-07,In delivery,2850.0,Cash on Delivery,False
+52894d16-57ce-4848-986d-9e65a59afe34,5bd23a1a-0e63-4042-9a8f-695083096016,2025-09-26,Delivered,943.26,Card,True
+50a8c7e0-b281-49fe-b5f6-9b274b2e7c67,0022f1f5-1864-46c2-b669-abbb348c056d,2025-08-21,In delivery,1482.21,Card on Delivery,False
+4b8352e1-870a-4d54-8524-26f127f1ab37,2b185902-64e0-43be-b4b2-02a1d21c2445,2025-03-15,Cancelled,240.2,Cash on Delivery,False
+b881c90f-7fcb-46d4-bea6-159f01fda6c5,537a822f-f5ad-4862-aab1-ec61d8f75856,2025-10-02,Delivered,872.69,Cash on Delivery,True
+2baef54e-1794-426c-8b52-72d097dc9f89,47f268e2-037b-4d75-ac50-5af75ac46cd8,2025-09-23,Delivered,436.41,Card on Delivery,True
+99f8a207-14ce-4ac5-9c01-87cdcd554bda,7eb1e46f-e126-4f2c-ba7a-e2d3a37d013e,2025-06-10,Processing,1588.57,Cash on Delivery,False
+4fb3da73-c039-44e0-ab4a-aed4c73e758a,282b39e1-be14-4800-b3f4-bb02ef26eada,2025-09-08,Cancelled,703.69,Card,False
+a72e2dc1-705b-4352-8ed8-f14393789f57,1467de79-e092-4608-930d-b11c9f9ad870,2025-01-16,In delivery,400.62,Cash on Delivery,False
+140a3fb8-be7f-48b4-8c79-82e0fd1341a6,050a35e6-5782-419e-953c-e6c0b224df17,2025-09-04,In delivery,666.2,Cash on Delivery,False
+37e600b9-e0de-48a3-90ee-cc4f9c7c827f,7b59f60f-b8d2-4507-b0df-7b1287a3e54e,2025-05-10,Cancelled,3252.4,Card,False
+f2a2303c-9e82-4d16-a7af-06b6c26a8afd,824fcf0a-0b29-4287-9228-a7d39005542a,2025-09-30,Cancelled,148.25,Cash on Delivery,False
+3ade654b-c7c7-4cf0-9a58-7f0a3feeeb6a,134c1470-00cb-4191-9b83-ca6a1d60aad6,2025-09-19,Processing,3166.44,Cash on Delivery,False
+a041ca87-2d6d-4121-98ea-4fac503768ba,1cae9b03-8dfd-4f68-a4cb-4f36b19782bf,2025-08-21,Placed,1763.67,Cash on Delivery,False
+1e273538-8217-4b4f-ad9f-1d3ed11d6444,a48d0705-cbdc-4f02-880b-14e6168f41a0,2025-08-11,Processing,2029.47,Card on Delivery,False
+ef0fa4ba-d22f-48d8-bc0f-f695b9f05662,6106080b-d0bb-4c73-9733-ea4767e4de94,2025-01-13,Delivered,604.52,Card,True
+43ba6bac-eb58-49d4-af1b-b66a7d581019,a315cf92-2dd6-40f8-a119-a9727d4b6887,2025-09-22,Processing,1693.32,Card on Delivery,False
+58c36e10-c996-49de-8858-d68ea59b121b,d6db5369-3ff0-4174-9a67-1050a704d6d6,2025-09-21,Processing,2621.38,Cash on Delivery,False
+20da2c30-5f32-4e77-817c-5000d9bfc888,863750a4-6204-4955-9a81-1ef7bcd8f7ff,2025-09-16,In delivery,971.82,Card,True
+834be573-205c-4ea4-b657-ec8d96b3d382,877ab413-48f5-46da-9dcf-796b96e11b30,2024-11-14,Delivered,1073.54,Card,True
+fd68d658-07ab-4fa6-9be7-8d82ec797e8a,9b16f286-8315-49fb-b4ad-125045a1347e,2024-12-27,Processing,607.8,Card on Delivery,False
+5c9f68f9-92aa-41df-b608-6683ba376da4,95a73140-be57-48fd-81d8-4bf020d50cf6,2025-06-10,In delivery,1909.5,Cash on Delivery,False
+1d2928e4-0a46-413c-82f2-34a9ffa3b1c6,2ceec1ff-24c2-4243-ad12-8490a2a4d9ae,2025-05-22,Processing,226.06,Card on Delivery,False
+a3d0af6a-518d-46d8-ba62-9bb7ddded620,c9def86d-ebfb-4cbf-af15-5b00215314f2,2025-04-24,Cancelled,2342.63,Card,False
+35ce04cb-f032-46ae-a959-b2b63c8d0840,3fe8480b-33db-4f07-a270-b2be3a601f4c,2024-09-14,Processing,2461.99,Card,True
+7af7bb35-53f1-4754-9350-925dbf3d685a,3e730fcd-9299-4185-a81d-3800e69c8a9d,2025-09-20,Cancelled,704.74,Cash on Delivery,False
+867c9dc2-ada1-431d-b10f-e9b0c5494d73,7654a8bb-9eb8-4102-98db-661f61e52970,2024-11-26,Cancelled,2340.2,Cash on Delivery,False
+0bd7820a-8f4f-44f3-a5e9-8447cc5ea636,e37921eb-3ede-40db-a186-73d3f59971fb,2025-01-16,Delivered,4344.41,Card on Delivery,True
+aed39ce2-9f49-4472-9321-048bb2e5bfe0,0608f862-bb29-4652-be49-c31405cc34ad,2025-05-26,Processing,1884.68,Card on Delivery,False
+57fbba4e-b033-4142-8a30-4d1bc848abe5,4db66b50-c762-4e36-a122-464a6c8ccb4e,2025-09-30,Cancelled,2544.76,Cash on Delivery,False
+6036188a-93ec-4872-9907-ddf4eb5e7f33,562b19b9-02a5-49c1-8171-cb68ec4f47bb,2025-09-01,Placed,220.23,Card,False
+e65b7245-bf85-40ad-97fd-62f4cc06a34f,dffe9857-c0f0-4669-a66d-bc59c6ab36ec,2025-02-05,Delivered,2328.87,Card on Delivery,True
+fc179d40-ec50-48c5-9b66-d67f8a61cccf,113ae716-4e6a-455b-9b25-68412bc16701,2025-03-11,Delivered,596.76,Card on Delivery,True
+f2ef7b4e-8079-4644-8018-a6bcea833b6f,47d95fc0-52b2-47e2-9d90-12df233e7562,2025-10-01,Placed,2967.9,Card on Delivery,False
+1aeac85f-5ae1-4a0b-8883-4b3a944f75de,82751fb8-be4e-49df-9f92-e979c27a8d61,2025-01-22,Cancelled,119.55,Cash on Delivery,False
+188bf1ba-678a-433b-a501-7d236f66900b,17cb3d38-5350-48d8-84e3-7b6997cbc0ee,2025-07-03,Delivered,1318.15,Card on Delivery,True
+b6a0d918-5413-424e-9f14-aaf1e09fffdf,4807b86b-2d55-4a74-b6b8-aa0d8a051eb0,2025-09-22,Placed,1358.93,Card on Delivery,False
+2eb61b15-b92d-4e37-8ec4-8dbe8312a23d,22ab04d3-b2f6-418c-bc7d-b29e80724420,2025-04-18,Processing,2885.72,Card,True
+3bb8a3c9-f223-43a4-9fad-bd14f1d459fc,4afab07c-b150-454c-8d3b-1d4af5d6a490,2025-08-04,Placed,1361.13,Card,False
+5344c452-2b59-4034-9257-de48dcd329f7,776a997c-91fd-42ab-bb22-6e9cbfd668dc,2025-10-01,Processing,708.15,Card on Delivery,False
+e09584ad-e253-485a-8684-317a5af42c8c,2d42b164-d7a2-4b38-9ff2-79142c6fdf0f,2025-08-13,Cancelled,2994.44,Card on Delivery,False
+34b886c8-195f-403b-8bf3-23fb03bb7ef0,a2902b27-d512-4d47-922e-10943690be11,2025-09-20,Processing,1643.04,Cash on Delivery,False
+643a735c-d686-45e9-8489-b129cf65967e,d8721c53-f6f2-42d7-a11f-39ed30447d88,2025-09-01,In delivery,1115.25,Cash on Delivery,False
+964a9bed-b528-484a-8bde-094172f7788b,eeba82b6-f380-403e-918e-182eca0122fe,2025-09-23,Placed,190.24,Card,False
+08256a53-a914-4a1f-b284-c3283ffd30ab,2b4778fb-9265-4137-b00e-e2e4990d635a,2025-09-22,Delivered,1744.26,Card on Delivery,True
+a5a39c1b-410a-4c79-a4e4-270ff1ab267b,be4e1d39-1810-4463-b098-a0c570b41e80,2025-10-01,Cancelled,897.62,Card on Delivery,False
+d722c615-7f54-4f86-a415-be32a945ca63,06f8b1d2-babb-4856-9a18-458eae92926e,2025-08-29,Cancelled,728.16,Cash on Delivery,False
+f385e1a7-0771-41b7-8856-6f5adeb8fd63,c3d8e13f-51f2-4478-a8fe-ade11d60985b,2025-09-12,Delivered,761.56,Cash on Delivery,True
+f5cac422-6350-4ae1-a376-d0ae488e47cf,ab1f8a65-a38d-482c-8b29-b9297ae63784,2025-07-12,In delivery,2140.88,Card,True
+f509df77-b337-4e9b-8091-6d942458a790,d4d42597-8afb-4109-9875-17ef6c4b5583,2025-10-02,Cancelled,1662.1,Card on Delivery,False
+4aaf2567-f1c3-468e-90c9-67fbc45d9070,7fe1d538-b643-4f55-80a6-d698df9f2a11,2025-09-30,Processing,729.84,Card,True
+145b5620-6b32-4cd0-b817-9e82d8f061b5,215fbe6b-337b-44f9-810e-32af55129593,2025-08-01,Cancelled,1706.51,Card,False
+c7d49a77-35ed-4efd-a957-f88329c86333,a41fbea1-54a4-442a-9fbf-17fc901d7316,2025-09-27,Placed,522.33,Cash on Delivery,False
+19ebcda6-2142-440a-8d0c-32ae3e4522f0,8700d0b2-dc78-422f-be28-343b5d1eee6a,2025-09-06,Processing,1987.18,Card,True
+3ba59b42-3598-4c97-807d-027a3c6bd44d,e2940e77-db28-4262-a64f-413124f329de,2025-09-02,Processing,686.34,Card on Delivery,False
+41a9d2fe-e52a-4622-be7b-c12a6e3adc77,77071298-01a6-402f-8c72-39d123e2e01e,2025-02-28,In delivery,1598.55,Cash on Delivery,False
+54828dac-8fbf-4b9b-9ab0-5b9df02b77a1,9aa1fdf2-d66c-4f3b-9f39-b702bb91087f,2025-10-03,In delivery,305.82,Card on Delivery,False
+ba6ce755-40b9-4dfb-88e7-26a9b308ed10,90b1027d-6069-43b6-87a1-51b8aa71914e,2025-08-19,Processing,3594.18,Cash on Delivery,False
+f91d62c5-aa49-425b-987a-58782f074dcc,1781f429-4fd2-4e46-959c-7e61616f5c89,2025-07-11,Processing,980.97,Cash on Delivery,False
+b09862ed-147c-4fe8-9fc5-9bea5fed61ab,8f21d340-807c-4b46-be64-6ad505146254,2025-10-04,Placed,3765.97,Card,False
+c75f7154-ef4a-4105-b1de-de44ba284c7b,de2c45bd-396c-4557-a576-c1ff23715b58,2025-09-22,Cancelled,1280.97,Cash on Delivery,False
+d14ce956-4659-4042-b501-fad0cc00733c,b824567b-11df-4642-bbf5-39d50ef57b92,2025-06-29,In delivery,719.14,Card on Delivery,False
+c3085b87-e1db-42fb-9494-b1db3faccf3c,1c075b6d-23cf-45a6-b0c4-9818f853b95e,2025-06-03,Cancelled,2212.28,Cash on Delivery,False
+dc693a81-4fb3-42ea-b6a1-8ff2e6bf9fd2,2ccf3f3a-d4cb-4d0c-9d5c-e8733872e8df,2025-07-01,Processing,1320.12,Cash on Delivery,False
+97b7c3df-93ab-4064-bcdc-cd28d32e9f77,d946a0f8-049e-4000-914e-c76cc2a17f04,2025-08-24,Cancelled,387.18,Card,False
+4d0834dc-3511-4b35-9c50-8c7e5e8d4cf1,431b2e95-0628-47c5-b4ae-454f8426e121,2025-03-22,In delivery,378.63,Card on Delivery,False
+12cfa99b-7a73-4c61-8df5-40e6ce56e58a,bbfb70b0-e40c-4a17-a38e-499c05361077,2025-04-03,Placed,575.54,Cash on Delivery,False
+989899d6-0917-40ab-a661-4ea93e24cead,bbfb70b0-e40c-4a17-a38e-499c05361077,2025-03-31,In delivery,109.98,Card,True
+88af077b-ea55-422e-8cd2-7622f779b269,3ad6ea13-316f-4e05-8457-1991695b67c6,2025-06-14,Cancelled,1850.52,Cash on Delivery,False
+b92cdcd1-4957-42f3-954e-1fb8eed9a816,50579baa-259e-4730-a2a3-ea5f15ba7508,2025-05-07,Delivered,221.5,Card,True
+278d1cb1-2bca-45cf-8441-e731453cbe07,6b0213fc-e015-495d-8553-85115c67c2f3,2025-10-03,Delivered,2064.19,Card on Delivery,True
+e5eb9123-6902-4163-b0de-8420993cc6f7,4b5a97a3-a87a-48db-8534-494d5d4f56cd,2025-08-04,Placed,558.41,Cash on Delivery,False
+3f8fbf23-c627-4d17-bdf9-6638fe783b0c,c8ab8f7f-74bc-41bc-8c99-9392116f8af6,2025-07-10,Processing,2728.96,Card,True
+b7c1f4c2-bcf1-4b55-9eba-1395b1b74f44,b4735a95-0c73-4087-88c1-c0c9d786d20a,2025-07-06,Placed,2563.44,Cash on Delivery,False
+e72da775-e617-49c6-9022-9e8a4c4594cb,2ce16235-b726-4c78-9968-0a542545f95a,2025-06-15,In delivery,378.35,Card,True
+c237079e-9f9b-4c09-8465-366d311bd011,132058fb-69e6-4f5c-bbe6-c64c226c58e0,2025-09-21,Placed,1532.61,Cash on Delivery,False
+99082078-fda7-489d-837a-e3105840f590,b107713e-b637-40ce-9a1e-957175649247,2025-07-04,Processing,4144.04,Card on Delivery,False
+0bcc7ef3-3312-4d81-af65-9b29dc757287,a4cd74ee-5992-44cb-b284-144c9643f12f,2025-03-17,Placed,3358.32,Cash on Delivery,False
+4e6aa2fc-dbe7-47e7-8384-e1cc54c79f83,372ffc96-afdf-457c-b1cb-a8aab14b4bc7,2025-08-02,Placed,911.32,Card,False
+6d0f7d98-9d21-4c4f-9d8b-9a4c8e2450d6,8e619928-8b0e-4cae-a2d1-862942ade569,2024-08-18,Delivered,758.54,Card on Delivery,True
+85a05e75-56ea-4d69-970b-b0e354fbdb85,134c1470-00cb-4191-9b83-ca6a1d60aad6,2025-08-18,In delivery,1347.08,Cash on Delivery,False
+9d551d52-2683-4a54-8f89-c79a29b8b5ea,21a66bf2-c42b-43aa-b1f2-a151d35578b6,2025-05-04,Placed,2825.08,Cash on Delivery,False
+807357c4-9941-40e0-bd02-f4318367dd80,188b2d1d-542a-493c-a787-2178e9b02d31,2025-09-28,In delivery,130.3,Cash on Delivery,False
+259f219b-4e10-48a7-b6d3-3949cc49eb29,1503b723-ba8f-44da-a17f-97c9bfaf048e,2025-02-04,Cancelled,686.53,Cash on Delivery,False
+3c6c1356-ff91-4738-a95f-edd4dd76a922,67144bc0-f1d8-4229-9e34-4f87da5238b1,2024-12-26,In delivery,1548.31,Card,True
